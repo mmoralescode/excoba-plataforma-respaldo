@@ -1,0 +1,110 @@
+[
+  {
+    "id": "uaq26-interactive-v4-01",
+    "topicId": "1.1.1",
+    "demoId": "",
+    "text": "Relaciona en orden: inicio de la Independencia de México, de la Revolución mexicana y de la Primera Guerra Mundial.",
+    "options": ["1810; 1910; 1914", "1910; 1810; 1914", "1810; 1914; 1910", "1914; 1910; 1810"],
+    "correctIndex": 0,
+    "explanation": "La cronología distingue la Independencia iniciada en 1810, la Revolución mexicana en 1910 y la Primera Guerra Mundial en 1914.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-interactive-v4-02",
+    "topicId": "3.4.1.3",
+    "demoId": "",
+    "text": "¿Qué secuencia relaciona ribosoma, mitocondria y membrana plasmática con sus funciones principales?",
+    "options": [
+      "Síntesis de proteínas; producción de ATP por respiración aerobia; barrera selectiva",
+      "Barrera selectiva; síntesis de proteínas; producción de ATP",
+      "Almacenar almidón; captar luz; replicar cromosomas",
+      "Fotosíntesis; barrera selectiva; almacenar información genética"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los ribosomas sintetizan proteínas; la mitocondria participa en respiración aerobia y producción de ATP; la membrana regula intercambios.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-interactive-v4-03",
+    "topicId": "3.3.1.1",
+    "demoId": "",
+    "text": "¿Qué secuencia asigna las unidades SI de fuerza, energía, potencia y presión?",
+    "options": [
+      "Newton; joule; watt; pascal",
+      "Joule; newton; pascal; watt",
+      "Pascal; watt; newton; joule",
+      "Watt; pascal; joule; newton"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fuerza se mide en N; energía en J; potencia en W = J/s; presión en Pa = N/m².",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-interactive-v4-04",
+    "topicId": "2.2.13",
+    "demoId": "",
+    "text": "En un triángulo rectángulo, ¿cuál lado es la hipotenusa?",
+    "options": [
+      "El opuesto al ángulo recto",
+      "El cateto vertical necesariamente",
+      "El cateto horizontal necesariamente",
+      "El lado más corto siempre"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hipotenusa está frente al ángulo de 90° y es el lado de mayor longitud en un triángulo rectángulo.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-interactive-v4-05",
+    "topicId": "1.2.4",
+    "demoId": "",
+    "text": "Un rectángulo mide 7 cm por 9 cm. ¿Cuál es su área?",
+    "options": ["63 cm²", "32 cm²", "16 cm²", "126 cm²"],
+    "correctIndex": 0,
+    "explanation": "El área de un rectángulo es base por altura: 7 × 9 = 63 cm². El perímetro, en cambio, sería 32 cm.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-interactive-v4-06",
+    "topicId": "3.6.2.3",
+    "demoId": "",
+    "text": "Disuelves 0.25 mol de soluto hasta obtener 0.5 L de disolución. ¿Cuál es su concentración molar?",
+    "options": ["0.5 mol/L", "2 mol/L", "0.125 mol/L", "0.75 mol/L"],
+    "correctIndex": 0,
+    "explanation": "La molaridad es cantidad de soluto entre volumen final de disolución: 0.25/0.5 = 0.5 mol/L.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-interactive-v4-07",
+    "topicId": "2.2.2",
+    "demoId": "",
+    "text": "Simplifica la expresión 3x + 2x − 4.",
+    "options": ["5x − 4", "5x + 4", "x − 4", "5x² − 4"],
+    "correctIndex": 0,
+    "explanation": "Suma coeficientes de términos semejantes: 3x + 2x = 5x. El término constante −4 se conserva.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-interactive-v4-08",
+    "topicId": "3.4.1.3",
+    "demoId": "",
+    "text": "¿Qué par distingue a una célula vegetal fotosintética típica de una animal?",
+    "options": [
+      "Pared de celulosa y cloroplastos",
+      "Ribosomas y membrana plasmática",
+      "ADN y citoplasma",
+      "Mitocondrias y núcleo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las células vegetales fotosintéticas presentan cloroplastos y pared de celulosa; animales y vegetales comparten membrana, ribosomas, ADN y otros organelos.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  }
+]

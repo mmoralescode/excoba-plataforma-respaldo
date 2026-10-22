@@ -1,0 +1,476 @@
+// =============================================================================
+// Esquema de base de datos — Plataforma EXCOBA
+// Corresponde al modelo entidad-relación definido en el Módulo 1.
+// =============================================================================
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// -----------------------------------------------------------------------
+// Usuarios, roles y permisos
+// -----------------------------------------------------------------------
+
+enum RoleName {
+  SUPER_ADMIN
+  EDITOR_ACADEMICO
+  SOPORTE
+  ANALISTA
+  ALUMNO
+}
+
+enum UserStatus {
+  ACTIVO
+  SUSPENDIDO
+}
+
+model User {
+  id           String    @id @default(uuid())
+  email        String    @unique
+  passwordHash String
+  recoveryCodeHash String? @unique
+  recoveryCodeCreatedAt DateTime?
+  recoveryCodeUsedAt DateTime?
+  name         String
+  status       UserStatus @default(ACTIVO)
+  // Scoped inbox access; never grants administrative roles or bypasses a license.
+  canReviewFeedback Boolean @default(false)
+  privacyNoticeAcceptedAt DateTime?
+  privacyNoticeVersion    String?
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @default(now()) @updatedAt
+  deletedAt    DateTime?
+
+  roles              UserRole[]
+  license             License?
+  sessions            Session[]
+  passwordResetTokens PasswordResetToken[]
+  attempts            Attempt[]
+  progress            Progress[]
+  auditLogsAsActor    AuditLog[]            @relation("AuditActor")
+  feedbackMessages   Feedback[]
+  licenseEventsAsAdmin LicenseEvent[]       @relation("LicenseEventAdmin")
+  questionsAuthored   Question[]}
+
+model Role {
+  id    String     @id @default(uuid())
+  name  RoleName   @unique
+  users UserRole[]
+}
+
+model UserRole {
+  userId String
+  roleId String
+  user   User @relation(fields: [userId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  role   Role @relation(fields: [roleId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+
+  @@id([userId, roleId])
+}
+
+// -----------------------------------------------------------------------
+// Licencias y folios
+// -----------------------------------------------------------------------
+
+enum LicenseStatus {
+  CREADA
+  ASIGNADA
+  ACTIVADA
+  SUSPENDIDA
+  EXPIRADA
+  CANCELADA
+  REVOCADA
+}
+
+enum LicenseCareerScope {
+  ALL_CAREERS
+  SINGLE_CAREER
+}
+
+model Product {
+  id          String    @id @default(uuid())
+  name        String
+  description String?
+  isActive    Boolean   @default(true)
+  licenses    License[]
+}
+
+model License {
+  id            String        @id @default(uuid())
+  productId     String
+  product       Product       @relation(fields: [productId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  // Nunca se guarda el folio en texto plano: se guarda su hash y sólo
+  // los últimos 4 caracteres visibles para soporte al usuario.
+  codeHash      String        @unique
+  codeLastFour  String
+  status        LicenseStatus @default(CREADA)
+  maxActivations Int          @default(1)
+  // Legacy column already present in production: preserve it; new codes use validityMonths.
+  validityDays Int? @ignore
+  // Null preserves the validity of licenses issued before activation-based terms.
+  validityMonths Int?
+  careerScope LicenseCareerScope @default(ALL_CAREERS)
+  selectedCareerId String?
+  careerSelectedAt DateTime?
+
+  createdAt   DateTime  @default(now())
+  assignedAt  DateTime?
+  activatedAt DateTime?
+  startsAt    DateTime?
+  expiresAt   DateTime?
+
+  userId String? @unique
+  user   User?   @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  purchaseReference String?
+  createdByAdminId  String?
+
+  events LicenseEvent[]
+
+  @@index([status])
+}
+
+enum LicenseEventType {
+  CREACION
+  ASIGNACION
+  ACTIVACION
+  SUSPENSION
+  EXPIRACION
+  CANCELACION
+  REVOCACION
+}
+
+model LicenseEvent {
+  id        String           @id @default(uuid())
+  licenseId String
+  license   License          @relation(fields: [licenseId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  type      LicenseEventType
+  reason    String?
+  adminId   String?
+  admin     User?            @relation("LicenseEventAdmin", fields: [adminId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  createdAt DateTime         @default(now())
+
+  @@index([licenseId])
+}
+
+// -----------------------------------------------------------------------
+// Sesiones y recuperación de contraseña
+// -----------------------------------------------------------------------
+
+model Session {
+  id               String    @id @default(uuid())
+  userId           String
+  user             User      @relation(fields: [userId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  sessionTokenHash String    @unique
+  createdAt        DateTime  @default(now())
+  expiresAt        DateTime
+  revokedAt        DateTime?
+  userAgent        String?
+  ipHash           String?
+
+  @@index([userId])
+}
+
+model PasswordResetToken {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  tokenHash String   @unique
+  expiresAt DateTime
+  usedAt    DateTime?
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+}
+
+// -----------------------------------------------------------------------
+// Contenido académico
+// -----------------------------------------------------------------------
+
+model ExamVersion {
+  id       String     @id @default(uuid())
+  name     String
+  isActive Boolean    @default(false)
+  areas    ExamArea[]
+  questions Question[]
+}
+
+model ExamArea {
+  id            String      @id @default(uuid())
+  examVersionId String
+  examVersion   ExamVersion @relation(fields: [examVersionId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  name          String
+  order         Int
+  subjects      Subject[]
+  questions     Question[]
+}
+
+model Subject {
+  id     String     @id @default(uuid())
+  areaId String
+  area   ExamArea   @relation(fields: [areaId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  name   String
+  order  Int
+  topics Topic[]
+  questions Question[]
+}
+
+model Topic {
+  id         String     @id @default(uuid())
+  subjectId  String
+  subject    Subject    @relation(fields: [subjectId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  parentId   String?
+  parent     Topic?     @relation("SubTopics", fields: [parentId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  subtopics  Topic[]    @relation("SubTopics")
+  name       String
+  order      Int
+  lessons    Lesson[]
+  questions  Question[]
+  progress   Progress[]
+}
+
+enum ContentStatus {
+  BORRADOR
+  EN_REVISION
+  PUBLICADO
+  ARCHIVADO
+}
+
+model Lesson {
+  id        String        @id @default(uuid())
+  topicId   String
+  topic     Topic         @relation(fields: [topicId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  title     String
+  content   String
+  order     Int
+  status    ContentStatus @default(BORRADOR)
+  deletedAt DateTime?
+}
+
+enum QuestionType {
+  OPCION_MULTIPLE
+}
+
+enum Difficulty {
+  BAJA
+  MEDIA
+  ALTA
+}
+
+model Question {
+  id            String        @id @default(uuid())
+  examVersionId String
+  examVersion   ExamVersion   @relation(fields: [examVersionId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  areaId        String
+  area          ExamArea      @relation(fields: [areaId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  subjectId     String
+  subject       Subject       @relation(fields: [subjectId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  topicId       String
+  topic         Topic         @relation(fields: [topicId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+
+  text                 String
+  type                 QuestionType @default(OPCION_MULTIPLE)
+  difficulty           Difficulty
+  skill                String?
+  tags                 String[] @default([])
+  estimatedTimeSeconds Int          @default(60)
+  status               ContentStatus @default(BORRADOR)
+
+  authorId  String
+  author    User     @relation(fields: [authorId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @default(now()) @updatedAt
+  deletedAt DateTime?
+
+  answers        Answer[]
+  attemptAnswers AttemptAnswer[]
+
+  @@index([topicId])
+  @@index([status])
+}
+
+model Answer {
+  id         String   @id @default(uuid())
+  questionId String
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  text       String
+  isCorrect  Boolean
+  order      Int
+
+  attemptAnswers AttemptAnswer[]
+
+  @@index([questionId])
+}
+
+// -----------------------------------------------------------------------
+// Intentos (práctica, miniquiz, simulador) y resultados
+// -----------------------------------------------------------------------
+
+enum AttemptType {
+  PRACTICA
+  MINIQUIZ
+  SIMULADOR
+}
+
+enum AttemptStatus {
+  EN_CURSO
+  ENTREGADO
+  EXPIRADO
+}
+
+model Attempt {
+  id        String        @id @default(uuid())
+  userId    String
+  user      User          @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  type      AttemptType
+  config    Json?
+  startedAt DateTime      @default(now())
+  finishedAt DateTime?
+  status    AttemptStatus @default(EN_CURSO)
+  score     Float?
+  timeSpentSeconds Int?
+
+  answers AttemptAnswer[]
+  results ExamResult[]
+
+  @@index([userId])
+  @@index([status])
+}
+
+model AttemptAnswer {
+  id                  String    @id @default(uuid())
+  attemptId           String
+  attempt             Attempt   @relation(fields: [attemptId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  questionId          String
+  question            Question  @relation(fields: [questionId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  selectedAnswerId    String?
+  selectedAnswer      Answer?   @relation(fields: [selectedAnswerId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  isCorrect           Boolean?
+  response            Json?
+  credit              Float?
+  flaggedForReview    Boolean   @default(false)
+  responseTimeSeconds Int?
+  answeredAt          DateTime?
+
+  @@unique([attemptId, questionId])
+}
+
+model ExamResult {
+  id            String  @id @default(uuid())
+  attemptId     String
+  attempt       Attempt @relation(fields: [attemptId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  subjectId     String
+  score         Float
+  correctCount  Int
+  totalCount    Int
+}
+
+// -----------------------------------------------------------------------
+// Progreso y priorización de estudio (algoritmo sin IA — ver Módulo 7)
+// -----------------------------------------------------------------------
+
+enum Priority {
+  BAJA
+  MEDIA
+  ALTA
+}
+
+model Progress {
+  id               String   @id @default(uuid())
+  userId           String
+  user             User     @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  topicId          String
+  topic            Topic    @relation(fields: [topicId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  accuracyPct      Float    @default(0)
+  totalAttempts    Int      @default(0)
+  totalErrors      Int      @default(0)
+  lastPracticedAt  DateTime?
+  priority         Priority @default(BAJA)
+  trend            Float    @default(0)
+
+  @@unique([userId, topicId])
+}
+
+// -----------------------------------------------------------------------
+// Auditoría
+// -----------------------------------------------------------------------
+
+enum FeedbackCategory {
+  SUGERENCIA
+  ERROR
+}
+
+enum FeedbackSection {
+  GENERAL
+  INSTRUCTIVO
+  PRACTICA
+  SIMULADOR
+  PERFIL
+  OTRO
+}
+
+model Feedback {
+  id           String           @id @default(uuid())
+  userId       String
+  user         User             @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  category     FeedbackCategory
+  section      FeedbackSection
+  message      String           @db.VarChar(1000)
+  submissionId String
+  createdAt    DateTime         @default(now())
+  reviewedAt   DateTime?
+
+  @@unique([userId, submissionId])
+  @@index([userId, createdAt])
+  @@index([createdAt, id])
+}
+
+model AuditLog {
+  id        String   @id @default(uuid())
+  actorId   String?
+  actor     User?    @relation("AuditActor", fields: [actorId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  action    String
+  entity    String
+  entityId  String
+  metadata  Json?
+  createdAt DateTime @default(now())
+
+  @@index([entity, entityId])
+}
+
+// -----------------------------------------------------------------------
+// Monetización (Fase 4 — modelo preparado desde el MVP)
+// -----------------------------------------------------------------------
+
+model Coupon {
+  id           String   @id @default(uuid())
+  code         String   @unique
+  discountType String
+  value        Float
+  validFrom    DateTime
+  validTo      DateTime
+  maxUses      Int
+  usedCount    Int      @default(0)
+}
+
+enum PaymentStatus {
+  PENDIENTE
+  COMPLETADO
+  FALLIDO
+  REEMBOLSADO
+}
+
+model Payment {
+  id                String        @id @default(uuid())
+  userId            String
+  licenseId         String?
+  amount            Float
+  currency          String        @default("MXN")
+  status            PaymentStatus @default(PENDIENTE)
+  providerReference String?
+  createdAt         DateTime      @default(now())
+}

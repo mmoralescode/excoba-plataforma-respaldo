@@ -1,0 +1,2280 @@
+[
+  {
+    "id": "uaq26-v1-001",
+    "topicId": "1.1.7",
+    "demoId": "D_HV02",
+    "text": "En «la senda era estrecha y solo cabía una persona», ¿qué significa estrecha?",
+    "options": [
+      "Angosta",
+      "Ruidosa",
+      "Lejana",
+      "Iluminada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Que solo quepa una persona indica poca anchura; angosta conserva ese significado.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-002",
+    "topicId": "1.1.9",
+    "demoId": "D_HV04",
+    "text": "Para preparar una ensalada, ¿qué secuencia es coherente?",
+    "options": [
+      "Cortar, comer y lavar",
+      "Lavar, cortar y mezclar",
+      "Mezclar, servir y lavar",
+      "Servir, cortar y comprar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Primero se limpian los ingredientes; después se cortan y finalmente se mezclan.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-003",
+    "topicId": "1.1.5",
+    "demoId": "D_HV05",
+    "text": "¿Qué oración usa la coma para separar un vocativo?",
+    "options": [
+      "María cierra la, puerta.",
+      "María, cierra, la, puerta.",
+      "María, cierra la puerta.",
+      "María cierra, la puerta."
+    ],
+    "correctIndex": 2,
+    "explanation": "María es la persona a quien se dirige la petición. El vocativo se separa con coma.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-004",
+    "topicId": "1.1.5",
+    "demoId": "D_ESP02",
+    "text": "¿Cuál completa correctamente «Ella esta_a leyendo»?",
+    "options": [
+      "v",
+      "s",
+      "z",
+      "b"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las terminaciones -aba del pretérito imperfecto de los verbos en -ar se escriben con b: estaba.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-005",
+    "topicId": "1.1.8",
+    "demoId": "D_HV06",
+    "text": "¿Cuál oración contiene una metáfora?",
+    "options": [
+      "Tus ojos son dos luceros.",
+      "Tus ojos tienen iris.",
+      "Tus ojos están abiertos.",
+      "Tus ojos miran la puerta."
+    ],
+    "correctIndex": 0,
+    "explanation": "Se identifica figuradamente los ojos con luceros por su brillo, sin una comparación literal.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-006",
+    "topicId": "1.1.1",
+    "demoId": "D_HV07",
+    "text": "Un museo abrió en 1985 y se amplió doce años después. ¿En qué año se amplió?",
+    "options": [
+      "1973",
+      "1997",
+      "1993",
+      "2007"
+    ],
+    "correctIndex": 1,
+    "explanation": "Se suma el intervalo al año inicial: 1985 + 12 = 1997.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-007",
+    "topicId": "1.1.10",
+    "demoId": "D_HV07",
+    "text": "Un texto dice «El maíz se cultivó en la región; luego se intercambió con poblaciones vecinas». ¿Qué encabezados organizan esa información?",
+    "options": [
+      "Vestimenta y lengua",
+      "Religión y astronomía",
+      "Cultivo e intercambio",
+      "Clima y relieve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Las dos acciones mencionadas son cultivar e intercambiar; no hay datos para los demás encabezados.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-008",
+    "topicId": "1.1.6",
+    "demoId": "D_LLEN05",
+    "text": "En «Las alumnas resolvieron el problema», ¿cuál es el sujeto?",
+    "options": [
+      "Resolvieron",
+      "El problema",
+      "Resolvieron el problema",
+      "Las alumnas"
+    ],
+    "correctIndex": 3,
+    "explanation": "El sujeto es quien realiza la acción y concuerda en plural con resolvieron.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-009",
+    "topicId": "1.2.2",
+    "demoId": "D_HC02",
+    "text": "¿Cuál orden va de menor a mayor?",
+    "options": [
+      "1/4, 1/2, 3/4",
+      "3/4, 1/2, 1/4",
+      "1/2, 1/4, 3/4",
+      "1/4, 3/4, 1/2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con denominador común: 1/4 < 2/4 < 3/4.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-010",
+    "topicId": "1.2.2",
+    "demoId": "D_HC06",
+    "text": "Un rectángulo se divide en ocho partes iguales y se colorean tres. ¿Qué fracción está coloreada?",
+    "options": [
+      "3/5",
+      "3/8",
+      "8/3",
+      "5/8"
+    ],
+    "correctIndex": 1,
+    "explanation": "El numerador cuenta las partes coloreadas y el denominador todas las partes iguales.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-011",
+    "topicId": "1.2.3",
+    "demoId": "D_HC04",
+    "text": "¿Qué número se encuentra entre 0.4 y 0.5?",
+    "options": [
+      "0.54",
+      "0.05",
+      "0.45",
+      "0.35"
+    ],
+    "correctIndex": 2,
+    "explanation": "Al escribir centésimos: 0.40 < 0.45 < 0.50.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-012",
+    "topicId": "1.2.4",
+    "demoId": "D_HC05",
+    "text": "Un triángulo tiene base de 12 cm y altura perpendicular de 5 cm. ¿Cuál es su área?",
+    "options": [
+      "60 cm²",
+      "17 cm²",
+      "30 cm",
+      "30 cm²"
+    ],
+    "correctIndex": 3,
+    "explanation": "A = base × altura / 2 = 12 × 5 / 2 = 30 cm². El área usa unidades cuadradas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-013",
+    "topicId": "2.1.1",
+    "demoId": "D_ESP01",
+    "text": "«El martes, la biblioteca municipal inauguró una sala infantil». ¿Qué hecho comunica la noticia?",
+    "options": [
+      "La inauguración de una sala infantil",
+      "El cierre de la biblioteca",
+      "La venta de libros",
+      "Una campaña de vacunación"
+    ],
+    "correctIndex": 0,
+    "explanation": "El verbo inauguró expresa el acontecimiento principal; el martes indica cuándo ocurrió.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-014",
+    "topicId": "2.1.2",
+    "demoId": "D_ESP03",
+    "text": "«Las abejas transportan polen entre flores. Este proceso favorece la reproducción de muchas plantas». ¿Cuál es el mejor resumen?",
+    "options": [
+      "Las flores impiden la reproducción vegetal.",
+      "Las abejas favorecen la reproducción vegetal al transportar polen.",
+      "Todas las plantas viven sin polen.",
+      "Las abejas solo producen miel."
+    ],
+    "correctIndex": 1,
+    "explanation": "El resumen conserva la acción y su consecuencia, sin agregar información ausente.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-015",
+    "topicId": "2.1.2",
+    "demoId": "D_ESP04",
+    "text": "Una gráfica de préstamos de libros registra lunes: 20, martes: 35 y miércoles: 25. ¿Qué día tuvo más préstamos?",
+    "options": [
+      "Miércoles",
+      "Los tres por igual",
+      "Martes",
+      "Lunes"
+    ],
+    "correctIndex": 2,
+    "explanation": "35 es mayor que 20 y 25; por tanto, el máximo corresponde al martes.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-016",
+    "topicId": "2.2.2",
+    "demoId": "D_MAT02",
+    "text": "Simplifica 3x + 5x − 2x.",
+    "options": [
+      "10x",
+      "6x²",
+      "6",
+      "6x"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los términos son semejantes: se suman sus coeficientes, 3 + 5 − 2 = 6, conservando x.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-017",
+    "topicId": "2.2.4",
+    "demoId": "D_MAT03",
+    "text": "Desarrolla (x + 3)².",
+    "options": [
+      "x² + 6x + 9",
+      "x² + 9",
+      "x² + 3x + 9",
+      "2x + 6"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cuadrado de una suma es x² + 2·x·3 + 3². No se debe omitir el término doble.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-018",
+    "topicId": "2.3.1.4",
+    "demoId": "D_NAT01BIO",
+    "text": "¿Cuál de estos animales es ovíparo?",
+    "options": [
+      "Caballo",
+      "Gallina",
+      "Gato",
+      "Perro"
+    ],
+    "correctIndex": 1,
+    "explanation": "La gallina pone huevos en los que se desarrolla el embrión; los otros ejemplos son mamíferos vivíparos.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-019",
+    "topicId": "2.3.1.1",
+    "demoId": "D_NAT02BIO",
+    "text": "¿Qué característica distingue a los vertebrados?",
+    "options": [
+      "Alas",
+      "Caparazón externo",
+      "Columna vertebral",
+      "Seis patas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La presencia de columna vertebral caracteriza al grupo. Alas y caparazón no son universales.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-020",
+    "topicId": "2.3.2.1",
+    "demoId": "D_NAT03FIS",
+    "text": "Un móvil frena de 12 m/s a reposo con aceleración constante de −3 m/s². ¿Qué distancia recorre al frenar?",
+    "options": [
+      "4 m",
+      "48 m",
+      "36 m",
+      "24 m"
+    ],
+    "correctIndex": 3,
+    "explanation": "v² = v₀² + 2ad. Entonces 0 = 144 − 6d y d = 24 m. El tiempo de frenado es 4 s.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-021",
+    "topicId": "2.3.2.1",
+    "demoId": "D_NAT04FIS",
+    "text": "En una gráfica velocidad-tiempo, una línea horizontal en 8 m/s durante 5 s representa ¿qué desplazamiento?",
+    "options": [
+      "40 m",
+      "13 m",
+      "1.6 m",
+      "0 m"
+    ],
+    "correctIndex": 0,
+    "explanation": "El desplazamiento es el área bajo la gráfica: 8 m/s × 5 s = 40 m.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-022",
+    "topicId": "2.3.3.3",
+    "demoId": "D_NAT05QUI",
+    "text": "¿Qué coeficientes balancean H₂ + O₂ → H₂O, en ese orden y con enteros mínimos?",
+    "options": [
+      "2, 2, 1",
+      "2, 1, 2",
+      "1, 1, 1",
+      "1, 2, 1"
+    ],
+    "correctIndex": 1,
+    "explanation": "2H₂ + O₂ → 2H₂O conserva cuatro átomos de H y dos de O a cada lado.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-023",
+    "topicId": "2.4.1.1",
+    "demoId": "D_SOC02GEO",
+    "text": "En un mapa orientado con el norte arriba, ¿hacia dónde queda el este?",
+    "options": [
+      "Abajo",
+      "Arriba",
+      "Derecha",
+      "Izquierda"
+    ],
+    "correctIndex": 2,
+    "explanation": "La rosa de los vientos ubica el este a la derecha cuando el norte está arriba.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-024",
+    "topicId": "2.4.1.2",
+    "demoId": "D_SOC01GEO",
+    "text": "¿Qué región natural se asocia con abundantes lluvias y vegetación tropical densa?",
+    "options": [
+      "Desierto cálido",
+      "Tundra",
+      "Estepa seca",
+      "Selva húmeda"
+    ],
+    "correctIndex": 3,
+    "explanation": "La disponibilidad de agua y las temperaturas cálidas favorecen vegetación tropical densa.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-025",
+    "topicId": "2.4.1.4",
+    "demoId": "D_SOC05FCE",
+    "text": "¿Qué caracteriza a un bloque de integración económica?",
+    "options": [
+      "Acuerdos económicos entre países miembros",
+      "Un solo idioma obligatorio en todo el planeta",
+      "Ausencia de comercio entre miembros",
+      "Eliminación de todas las fronteras del mundo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los países establecen acuerdos para facilitar intercambios o coordinar políticas económicas; el grado de integración varía.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-026",
+    "topicId": "3.1.4.1",
+    "demoId": "D_LMATEA01",
+    "text": "Si A = {1, 2, 3} y B = {3, 4}, ¿cuál es A ∩ B?",
+    "options": [
+      "{4}",
+      "{3}",
+      "{1, 2, 3, 4}",
+      "{1, 2}"
+    ],
+    "correctIndex": 1,
+    "explanation": "La intersección contiene únicamente los elementos presentes en ambos conjuntos: 3.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-027",
+    "topicId": "3.1.2.2",
+    "demoId": "D_LMATEA22",
+    "text": "Dos urnas contienen cada una una bola roja y una azul. Se extrae una bola de cada urna de forma independiente. ¿P(ambas rojas)?",
+    "options": [
+      "1",
+      "3/4",
+      "1/4",
+      "1/2"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cada extracción tiene probabilidad 1/2. Por independencia, se multiplican: 1/2 × 1/2 = 1/4.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-028",
+    "topicId": "3.1.2.1",
+    "demoId": "D_LMATEA04",
+    "text": "¿Cuál es la media aritmética de 2, 4, 6 y 8?",
+    "options": [
+      "4",
+      "6",
+      "20",
+      "5"
+    ],
+    "correctIndex": 3,
+    "explanation": "La media es la suma dividida entre el número de datos: (2 + 4 + 6 + 8) / 4 = 5.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-029",
+    "topicId": "3.1.2.1",
+    "demoId": "D_LMATEA04",
+    "text": "A = {4, 5, 6} y B = {0, 5, 10}. ¿Qué afirmación es correcta?",
+    "options": [
+      "Misma media; B tiene mayor dispersión.",
+      "Misma media y misma dispersión.",
+      "A tiene mayor media.",
+      "B tiene menor media."
+    ],
+    "correctIndex": 0,
+    "explanation": "Ambas medias son 5. En B los extremos están más alejados de 5 que en A.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-030",
+    "topicId": "3.2.2.3",
+    "demoId": "D_LMAT01",
+    "text": "Un trapecio tiene bases de 10 y 6 cm y altura de 4 cm. ¿Cuál es su área?",
+    "options": [
+      "24 cm²",
+      "32 cm²",
+      "64 cm²",
+      "40 cm²"
+    ],
+    "correctIndex": 1,
+    "explanation": "A = (B + b)h / 2 = (10 + 6) × 4 / 2 = 32 cm².",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-031",
+    "topicId": "3.2.2.7",
+    "demoId": "D_LMAT03",
+    "text": "Dos lados de un triángulo miden 5 m y 8 m, y forman un ángulo de 60°. ¿Cuánto mide el lado opuesto?",
+    "options": [
+      "3 m",
+      "√89 m",
+      "7 m",
+      "13 m"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ley de cosenos: c² = 5² + 8² − 2·5·8·cos 60° = 25 + 64 − 40 = 49. Por tanto, c = 7 m.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-032",
+    "topicId": "3.2.2.9",
+    "demoId": "D_LMAT04",
+    "text": "Se lanza una moneda equilibrada tres veces de forma independiente. ¿Cuál es la probabilidad de obtener tres caras?",
+    "options": [
+      "1/3",
+      "3/8",
+      "1/2",
+      "1/8"
+    ],
+    "correctIndex": 3,
+    "explanation": "Se multiplican las probabilidades: (1/2)³ = 1/8. Hay ocho secuencias equiprobables y solo una es cara-cara-cara.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-033",
+    "topicId": "3.2.3.5",
+    "demoId": "D_LMAT05",
+    "text": "¿Cuál es el vértice de la parábola y = (x − 2)² + 3?",
+    "options": [
+      "(2, 3)",
+      "(−2, 3)",
+      "(2, −3)",
+      "(0, 3)"
+    ],
+    "correctIndex": 0,
+    "explanation": "En y = (x − h)² + k, el vértice es (h, k). Aquí h = 2 y k = 3.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-034",
+    "topicId": "3.3.1.1",
+    "demoId": "D_LFIS01",
+    "text": "Dos desplazamientos perpendiculares miden 3 m al este y 4 m al norte. ¿Cuál es la magnitud de su suma?",
+    "options": [
+      "12 m",
+      "5 m",
+      "7 m",
+      "1 m"
+    ],
+    "correctIndex": 1,
+    "explanation": "Por Pitágoras, la magnitud resultante es √(3² + 4²) = √25 = 5 m.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-035",
+    "topicId": "3.3.1.2",
+    "demoId": "D_LFIS02",
+    "text": "Un proyectil mantiene una velocidad horizontal de 6 m/s durante 3 s, sin resistencia del aire. ¿Qué distancia horizontal recorre?",
+    "options": [
+      "2 m",
+      "54 m",
+      "18 m",
+      "9 m"
+    ],
+    "correctIndex": 2,
+    "explanation": "La componente horizontal es uniforme: x = vₓt = 6 × 3 = 18 m.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-036",
+    "topicId": "3.3.1.2",
+    "demoId": "D_LFIS04",
+    "text": "En movimiento rectilíneo uniforme, ¿cómo es la aceleración?",
+    "options": [
+      "Constante y distinta de cero",
+      "Siempre positiva",
+      "Siempre negativa",
+      "Cero"
+    ],
+    "correctIndex": 3,
+    "explanation": "La velocidad no cambia ni en magnitud ni en dirección, por lo que su variación temporal es cero.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-037",
+    "topicId": "3.3.1.3",
+    "demoId": "D_LFIS03",
+    "text": "Si la distancia entre dos masas se duplica sin cambiar sus masas, ¿qué ocurre con la fuerza gravitatoria?",
+    "options": [
+      "Se reduce a la cuarta parte.",
+      "Se duplica.",
+      "Se reduce a la mitad.",
+      "Se cuadruplica."
+    ],
+    "correctIndex": 0,
+    "explanation": "F = Gm₁m₂/r². Sustituir r por 2r multiplica el denominador por cuatro.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-038",
+    "topicId": "3.3.2.4",
+    "demoId": "D_LFIS05",
+    "text": "Fuera de un imán de barra, ¿qué dirección convencional tienen las líneas de campo magnético?",
+    "options": [
+      "No tienen dirección",
+      "Del polo norte al sur",
+      "Del polo sur al norte",
+      "Del centro hacia ambos polos sin retorno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fuera del imán van del norte al sur; dentro regresan del sur al norte y forman líneas cerradas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-039",
+    "topicId": "3.4.1.3",
+    "demoId": "D_LBIO01",
+    "text": "¿Qué proceso permite mantener relativamente estable el medio interno de un organismo?",
+    "options": [
+      "Fosilización",
+      "Especiación",
+      "Homeostasis",
+      "Extinción"
+    ],
+    "correctIndex": 2,
+    "explanation": "La homeostasis regula variables internas, como temperatura o concentración de sustancias, dentro de intervalos compatibles con la vida.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-040",
+    "topicId": "3.4.1.4",
+    "demoId": "D_LBIO02",
+    "text": "¿En qué parte de una célula eucariota ocurre la glucólisis?",
+    "options": [
+      "Núcleo",
+      "Aparato de Golgi",
+      "Lisosoma",
+      "Citosol"
+    ],
+    "correctIndex": 3,
+    "explanation": "La glucólisis ocurre en el citosol y transforma glucosa en piruvato. No debe confundirse con las etapas mitocondriales de la respiración.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-041",
+    "topicId": "3.4.2.7",
+    "demoId": "D_LBIO03",
+    "text": "¿Qué caracteriza a las angiospermas?",
+    "options": [
+      "Producen flores y semillas encerradas en frutos.",
+      "Carecen siempre de vasos conductores.",
+      "Se reproducen solo por esporas.",
+      "Todas son plantas acuáticas."
+    ],
+    "correctIndex": 0,
+    "explanation": "En las angiospermas, los óvulos están dentro del ovario; tras la fecundación se forman semillas y el ovario participa en la formación del fruto.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-042",
+    "topicId": "3.4.2.6",
+    "demoId": "D_LBIO04",
+    "text": "¿Qué órgano bombea sangre por el sistema circulatorio?",
+    "options": [
+      "Pulmón",
+      "Corazón",
+      "Estómago",
+      "Riñón"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las contracciones del corazón impulsan la sangre hacia los circuitos pulmonar y sistémico.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-043",
+    "topicId": "3.4.2.3",
+    "demoId": "D_LBIO05",
+    "text": "¿Qué es una mutación génica?",
+    "options": [
+      "El transporte de oxígeno",
+      "La división del citoplasma",
+      "Un cambio en la secuencia de ADN de un gen",
+      "La digestión de una proteína"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una mutación génica modifica la secuencia de nucleótidos de un gen; sus efectos pueden variar.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-044",
+    "topicId": "3.5.2.2",
+    "demoId": "D_LLEN01",
+    "text": "¿Qué aporta el prefijo re- en «reescribir»?",
+    "options": [
+      "Negación",
+      "Tamaño pequeño",
+      "Anterioridad obligatoria",
+      "Repetición"
+    ],
+    "correctIndex": 3,
+    "explanation": "Reescribir significa escribir de nuevo; en este uso re- expresa repetición.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-045",
+    "topicId": "3.5.2.2",
+    "demoId": "D_LLEN03",
+    "text": "¿Qué expresión contiene una redundancia innecesaria?",
+    "options": [
+      "Subir arriba",
+      "Leer despacio",
+      "Caminar lejos",
+      "Escribir hoy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Subir ya expresa movimiento hacia arriba; añadir arriba repite esa información en este uso.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-046",
+    "topicId": "3.5.4.2",
+    "demoId": "D_LLEN02",
+    "text": "Según la regla del acento final, ¿qué se hace al contar las sílabas de un verso terminado en palabra aguda?",
+    "options": [
+      "Siempre se divide el total entre dos.",
+      "Se añade una sílaba.",
+      "Se resta una sílaba.",
+      "Se añaden dos sílabas."
+    ],
+    "correctIndex": 1,
+    "explanation": "La convención métrica suma una sílaba si la última palabra es aguda; mantiene el total con llana y resta una con esdrújula.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-047",
+    "topicId": "3.5.3.1",
+    "demoId": "D_LLEN04",
+    "text": "¿Con qué periodo literario se relaciona principalmente a Sor Juana Inés de la Cruz?",
+    "options": [
+      "Realismo del siglo XIX",
+      "Generación del 27",
+      "Barroco",
+      "Vanguardias del siglo XX"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sor Juana escribió en la Nueva España del siglo XVII y es una figura central del Barroco hispánico.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-048",
+    "topicId": "3.6.2.4",
+    "demoId": "D_LQUI01",
+    "text": "¿Cómo se llama el hidrocarburo CH₃–CH₂–CH₃?",
+    "options": [
+      "Etano",
+      "Metano",
+      "Propeno",
+      "Propano"
+    ],
+    "correctIndex": 3,
+    "explanation": "La cadena tiene tres carbonos y solo enlaces simples: prefijo prop- y terminación -ano.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-049",
+    "topicId": "3.6.1.5",
+    "demoId": "D_LQUI02",
+    "text": "¿A qué clase de compuesto pertenece NaOH?",
+    "options": [
+      "Hidróxido",
+      "Óxido",
+      "Ácido hidrácido",
+      "Sal binaria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Está formado por el catión sodio y el anión hidróxido OH⁻; se llama hidróxido de sodio.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-050",
+    "topicId": "3.6.1.4",
+    "demoId": "D_LQUI03",
+    "text": "¿Qué tipo de enlace predomina entre los iones de NaCl sólido?",
+    "options": [
+      "Puente de hidrógeno",
+      "Iónico",
+      "Covalente no polar",
+      "Metálico"
+    ],
+    "correctIndex": 1,
+    "explanation": "La red cristalina se mantiene por atracción electrostática entre Na⁺ y Cl⁻.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-051",
+    "topicId": "3.6.2.3",
+    "demoId": "D_LQUI05",
+    "text": "Una disolución diluida tiene [H⁺] = 10⁻³ mol/L. ¿Cuál es su pH aproximado?",
+    "options": [
+      "11",
+      "0.001",
+      "3",
+      "−3"
+    ],
+    "correctIndex": 2,
+    "explanation": "pH ≈ −log₁₀[H⁺] = −log₁₀(10⁻³) = 3; la concentración se expresa numéricamente en mol/L.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-052",
+    "topicId": "3.7.2.3",
+    "demoId": "D_LSOC02",
+    "text": "¿Cuál es el orden convencional de los tres grandes horizontes mesoamericanos?",
+    "options": [
+      "Clásico, Preclásico, Posclásico",
+      "Posclásico, Clásico, Preclásico",
+      "Preclásico, Posclásico, Clásico",
+      "Preclásico, Clásico, Posclásico"
+    ],
+    "correctIndex": 3,
+    "explanation": "Esta periodización organiza el desarrollo mesoamericano en esos tres grandes horizontes; sus límites pueden variar según la región.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-053",
+    "topicId": "3.7.3.1",
+    "demoId": "D_LSOC03",
+    "text": "¿Qué forma de gobierno encabezó Agustín de Iturbide tras la independencia?",
+    "options": [
+      "Monarquía imperial",
+      "República federal",
+      "República socialista",
+      "Democracia ateniense"
+    ],
+    "correctIndex": 0,
+    "explanation": "Iturbide fue emperador del Primer Imperio Mexicano. Su proyecto fue monárquico.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-054",
+    "topicId": "3.7.3.5",
+    "demoId": "D_LSOC04",
+    "text": "¿Qué presidente decretó la expropiación petrolera de 1938?",
+    "options": [
+      "Francisco I. Madero",
+      "Lázaro Cárdenas",
+      "Porfirio Díaz",
+      "Benito Juárez"
+    ],
+    "correctIndex": 1,
+    "explanation": "El decreto de 1938 corresponde al gobierno de Lázaro Cárdenas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-055",
+    "topicId": "3.7.4.3",
+    "demoId": "D_LSOC05",
+    "text": "¿En qué año terminó la Segunda Guerra Mundial?",
+    "options": [
+      "1939",
+      "1968",
+      "1945",
+      "1918"
+    ],
+    "correctIndex": 2,
+    "explanation": "La Segunda Guerra Mundial se desarrolló entre 1939 y 1945; 1918 corresponde al final de la Primera.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-056",
+    "topicId": "3.7.4.4",
+    "demoId": "D_LSOC05",
+    "text": "¿Qué potencias encabezaron los dos principales bloques de la Guerra Fría?",
+    "options": [
+      "España y Portugal",
+      "México y Canadá",
+      "Italia y Grecia",
+      "Estados Unidos y Unión Soviética"
+    ],
+    "correctIndex": 3,
+    "explanation": "La rivalidad entre los bloques encabezados por Estados Unidos y la Unión Soviética marcó la Guerra Fría.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-057",
+    "topicId": "3.8.1.1",
+    "demoId": "D_LHUM01",
+    "text": "¿Qué disciplina filosófica estudia la validez de los razonamientos?",
+    "options": [
+      "Lógica",
+      "Estética",
+      "Botánica",
+      "Geografía"
+    ],
+    "correctIndex": 0,
+    "explanation": "La lógica examina las formas de inferencia y distingue argumentos válidos de inválidos.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-058",
+    "topicId": "3.8.2.3",
+    "demoId": "D_LHUM02",
+    "text": "En una ética centrada en el deber, ¿qué criterio es central para juzgar una acción?",
+    "options": [
+      "La riqueza de quien actúa",
+      "Su conformidad con un deber moral",
+      "Solo la cantidad de placer inmediato",
+      "La popularidad de quien actúa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las éticas del deber evalúan la acción en relación con obligaciones o principios morales; popularidad y riqueza no establecen su valor moral.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-059",
+    "topicId": "3.8.3.2",
+    "demoId": "D_LHUM03",
+    "text": "¿Qué elemento propuso Anaxímenes como principio fundamental de la naturaleza?",
+    "options": [
+      "Agua",
+      "Tierra",
+      "Aire",
+      "Fuego"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anaxímenes propuso el aire como principio y explicó transformaciones mediante condensación y rarefacción.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-060",
+    "topicId": "3.8.3.4",
+    "demoId": "D_LHUM04",
+    "text": "¿Qué filósofo se asocia con «Pienso, luego existo»?",
+    "options": [
+      "Aristóteles",
+      "Sócrates",
+      "Epicuro",
+      "René Descartes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Descartes utiliza la certeza del pensamiento como punto de partida de su búsqueda de conocimiento seguro.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-061",
+    "topicId": "3.8.4.5",
+    "demoId": "D_LHUM05",
+    "text": "¿Cuál es una pregunta de investigación delimitada?",
+    "options": [
+      "¿Cómo varió la asistencia del grupo A durante marzo de 2025?",
+      "¿Qué ocurre en el universo?",
+      "¿Todo es interesante?",
+      "¿Por qué existe todo?"
+    ],
+    "correctIndex": 0,
+    "explanation": "La primera identifica una variable observable, un grupo y un periodo, lo que permite planear cómo obtener evidencia.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-062",
+    "topicId": "3.8.4.6",
+    "demoId": "D_LHUM05",
+    "text": "¿Qué debe explicar un marco metodológico?",
+    "options": [
+      "Resultados inventados antes de investigar",
+      "Cómo se recopilarán y analizarán los datos",
+      "Solo el título del trabajo",
+      "Únicamente las dedicatorias"
+    ],
+    "correctIndex": 1,
+    "explanation": "La metodología describe procedimientos, instrumentos y criterios de análisis para responder la pregunta de investigación.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-063",
+    "topicId": "3.8.4.7",
+    "demoId": "D_LHUM05",
+    "text": "Si los resultados contradicen la hipótesis inicial, ¿qué procede?",
+    "options": [
+      "Ocultar los resultados.",
+      "Declararla verdadera sin análisis.",
+      "Reportarlos y revisar la hipótesis según la evidencia.",
+      "Cambiar los datos para confirmarla."
+    ],
+    "correctIndex": 2,
+    "explanation": "Las conclusiones deben corresponder a los datos; una hipótesis puede revisarse o rechazarse si la evidencia no la respalda.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-064",
+    "topicId": "1.2.5",
+    "demoId": "D_HC01",
+    "text": "Un prisma rectangular mide 3 cm × 4 cm × 5 cm. ¿Cuál es su volumen?",
+    "options": [
+      "12 cm³",
+      "94 cm³",
+      "63 cm³",
+      "60 cm³"
+    ],
+    "correctIndex": 3,
+    "explanation": "V = largo × ancho × altura = 3 × 4 × 5 = 60 cm³. Se usan unidades cúbicas.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "volume",
+      "inputs": [
+        3,
+        4,
+        5
+      ],
+      "answer": 60
+    }
+  },
+  {
+    "id": "uaq26-v1-065",
+    "topicId": "1.2.1",
+    "demoId": "D_HC03",
+    "text": "Hay 65 sacos de 21 kg. Se retiran 13 sacos. ¿Cuántos kilogramos quedan?",
+    "options": [
+      "1092 kg",
+      "1365 kg",
+      "273 kg",
+      "1113 kg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quedan 65 − 13 = 52 sacos. Su masa es 52 × 21 = 1092 kg.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "stock",
+      "inputs": [
+        65,
+        21,
+        13
+      ],
+      "answer": 1092
+    }
+  },
+  {
+    "id": "uaq26-v1-066",
+    "topicId": "2.2.5",
+    "demoId": "D_MAT01",
+    "text": "Resuelve 2x + 5 = 11.",
+    "options": [
+      "6",
+      "3",
+      "4",
+      "2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Resta 5 a ambos lados: 2x = 6. Divide entre 2: x = 3. Comprobación: 2 × 3 + 5 = 11.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "linearEquation",
+      "inputs": [
+        2,
+        5,
+        11
+      ],
+      "answer": 3
+    }
+  },
+  {
+    "id": "uaq26-v1-067",
+    "topicId": "2.2.7",
+    "demoId": "D_MAT04_2",
+    "text": "Si f(x) = 3x − 2, ¿cuánto vale f(3)?",
+    "options": [
+      "1",
+      "9",
+      "7",
+      "11"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sustituye x por 3: f(3) = 3 × 3 − 2 = 7.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "linearFunction",
+      "inputs": [
+        3
+      ],
+      "answer": 7
+    }
+  },
+  {
+    "id": "uaq26-v1-068",
+    "topicId": "3.1.5.1",
+    "demoId": "D_LMATEA03",
+    "text": "En una reunión de 6 personas, cada pareja se saluda una sola vez. ¿Cuántos saludos hay?",
+    "options": [
+      "30",
+      "36",
+      "6",
+      "15"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cada persona saluda a 5 personas. Al contar así, cada pareja aparece dos veces: 6 × 5 / 2 = 15.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "handshakes",
+      "inputs": [
+        6
+      ],
+      "answer": 15
+    }
+  },
+  {
+    "id": "uaq26-v1-069",
+    "topicId": "3.1.6.3",
+    "demoId": "D_LMATEA52",
+    "text": "Calcula el interés simple de un capital de $10000, a una tasa anual de 6%, durante 4 meses.",
+    "options": [
+      "$200",
+      "$10200",
+      "$2400",
+      "$600"
+    ],
+    "correctIndex": 0,
+    "explanation": "I = C·r·t. La tasa es 0.06 anual y el tiempo 4/12 de año. I = 10000 × 0.06 × 4/12 = $200. Esto es el interés, no el monto final.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "interest",
+      "inputs": [
+        10000,
+        6,
+        4
+      ],
+      "answer": 200
+    }
+  },
+  {
+    "id": "uaq26-v1-070",
+    "topicId": "3.2.4.1",
+    "demoId": "D_LMAT02",
+    "text": "Si f(x) = x² + 2x + 1, calcula f(3).",
+    "options": [
+      "18",
+      "16",
+      "10",
+      "7"
+    ],
+    "correctIndex": 1,
+    "explanation": "f(3) = 3² + 2 × 3 + 1 = 9 + 6 + 1 = 16. También (x + 1)² da el mismo resultado.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "quadratic",
+      "inputs": [
+        3
+      ],
+      "answer": 16
+    }
+  },
+  {
+    "id": "uaq26-v1-071",
+    "topicId": "3.6.2.1",
+    "demoId": "D_LQUI04",
+    "text": "Usando una masa molar de 18 g/mol para el agua, ¿cuántos moles hay en 36 g de agua?",
+    "options": [
+      "648 mol",
+      "3 mol",
+      "2 mol",
+      "36 mol"
+    ],
+    "correctIndex": 2,
+    "explanation": "n = m/M = 36 g / (18 g/mol) = 2 mol. Al dividir, los gramos se cancelan.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "moles",
+      "inputs": [
+        36,
+        18
+      ],
+      "answer": 2
+    }
+  },
+  {
+    "id": "uaq26-v1-072",
+    "topicId": "1.2.5",
+    "demoId": "D_HC01",
+    "text": "Un prisma rectangular mide 4 cm × 5 cm × 6 cm. ¿Cuál es su volumen?",
+    "options": [
+      "15 cm³",
+      "148 cm³",
+      "124 cm³",
+      "120 cm³"
+    ],
+    "correctIndex": 3,
+    "explanation": "V = largo × ancho × altura = 4 × 5 × 6 = 120 cm³. Se usan unidades cúbicas.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "volume",
+      "inputs": [
+        4,
+        5,
+        6
+      ],
+      "answer": 120
+    }
+  },
+  {
+    "id": "uaq26-v1-073",
+    "topicId": "1.2.1",
+    "demoId": "D_HC03",
+    "text": "Hay 70 sacos de 22 kg. Se retiran 14 sacos. ¿Cuántos kilogramos quedan?",
+    "options": [
+      "1232 kg",
+      "1540 kg",
+      "308 kg",
+      "1254 kg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quedan 70 − 14 = 56 sacos. Su masa es 56 × 22 = 1232 kg.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "stock",
+      "inputs": [
+        70,
+        22,
+        14
+      ],
+      "answer": 1232
+    }
+  },
+  {
+    "id": "uaq26-v1-074",
+    "topicId": "2.2.5",
+    "demoId": "D_MAT01",
+    "text": "Resuelve 3x + 6 = 18.",
+    "options": [
+      "12",
+      "4",
+      "5",
+      "3"
+    ],
+    "correctIndex": 1,
+    "explanation": "Resta 6 a ambos lados: 3x = 12. Divide entre 3: x = 4. Comprobación: 3 × 4 + 6 = 18.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "linearEquation",
+      "inputs": [
+        3,
+        6,
+        18
+      ],
+      "answer": 4
+    }
+  },
+  {
+    "id": "uaq26-v1-075",
+    "topicId": "2.2.7",
+    "demoId": "D_MAT04_2",
+    "text": "Si f(x) = 3x − 2, ¿cuánto vale f(4)?",
+    "options": [
+      "2",
+      "12",
+      "10",
+      "14"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sustituye x por 4: f(4) = 3 × 4 − 2 = 10.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "linearFunction",
+      "inputs": [
+        4
+      ],
+      "answer": 10
+    }
+  },
+  {
+    "id": "uaq26-v1-076",
+    "topicId": "3.1.5.1",
+    "demoId": "D_LMATEA03",
+    "text": "En una reunión de 7 personas, cada pareja se saluda una sola vez. ¿Cuántos saludos hay?",
+    "options": [
+      "42",
+      "49",
+      "7",
+      "21"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cada persona saluda a 6 personas. Al contar así, cada pareja aparece dos veces: 7 × 6 / 2 = 21.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "handshakes",
+      "inputs": [
+        7
+      ],
+      "answer": 21
+    }
+  },
+  {
+    "id": "uaq26-v1-077",
+    "topicId": "3.1.6.3",
+    "demoId": "D_LMATEA52",
+    "text": "Calcula el interés simple de un capital de $20000, a una tasa anual de 6%, durante 4 meses.",
+    "options": [
+      "$400",
+      "$20400",
+      "$4800",
+      "$1200"
+    ],
+    "correctIndex": 0,
+    "explanation": "I = C·r·t. La tasa es 0.06 anual y el tiempo 4/12 de año. I = 20000 × 0.06 × 4/12 = $400. Esto es el interés, no el monto final.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "interest",
+      "inputs": [
+        20000,
+        6,
+        4
+      ],
+      "answer": 400
+    }
+  },
+  {
+    "id": "uaq26-v1-078",
+    "topicId": "3.2.4.1",
+    "demoId": "D_LMAT02",
+    "text": "Si f(x) = x² + 2x + 1, calcula f(4).",
+    "options": [
+      "27",
+      "25",
+      "17",
+      "9"
+    ],
+    "correctIndex": 1,
+    "explanation": "f(4) = 4² + 2 × 4 + 1 = 16 + 8 + 1 = 25. También (x + 1)² da el mismo resultado.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "quadratic",
+      "inputs": [
+        4
+      ],
+      "answer": 25
+    }
+  },
+  {
+    "id": "uaq26-v1-079",
+    "topicId": "3.6.2.1",
+    "demoId": "D_LQUI04",
+    "text": "Usando una masa molar de 18 g/mol para el agua, ¿cuántos moles hay en 54 g de agua?",
+    "options": [
+      "972 mol",
+      "4 mol",
+      "3 mol",
+      "54 mol"
+    ],
+    "correctIndex": 2,
+    "explanation": "n = m/M = 54 g / (18 g/mol) = 3 mol. Al dividir, los gramos se cancelan.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "moles",
+      "inputs": [
+        54,
+        18
+      ],
+      "answer": 3
+    }
+  },
+  {
+    "id": "uaq26-v1-080",
+    "topicId": "1.2.5",
+    "demoId": "D_HC01",
+    "text": "Un prisma rectangular mide 5 cm × 6 cm × 7 cm. ¿Cuál es su volumen?",
+    "options": [
+      "18 cm³",
+      "214 cm³",
+      "215 cm³",
+      "210 cm³"
+    ],
+    "correctIndex": 3,
+    "explanation": "V = largo × ancho × altura = 5 × 6 × 7 = 210 cm³. Se usan unidades cúbicas.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "volume",
+      "inputs": [
+        5,
+        6,
+        7
+      ],
+      "answer": 210
+    }
+  },
+  {
+    "id": "uaq26-v1-081",
+    "topicId": "1.2.1",
+    "demoId": "D_HC03",
+    "text": "Hay 75 sacos de 23 kg. Se retiran 15 sacos. ¿Cuántos kilogramos quedan?",
+    "options": [
+      "1380 kg",
+      "1725 kg",
+      "345 kg",
+      "1403 kg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quedan 75 − 15 = 60 sacos. Su masa es 60 × 23 = 1380 kg.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "stock",
+      "inputs": [
+        75,
+        23,
+        15
+      ],
+      "answer": 1380
+    }
+  },
+  {
+    "id": "uaq26-v1-082",
+    "topicId": "2.2.5",
+    "demoId": "D_MAT01",
+    "text": "Resuelve 4x + 7 = 27.",
+    "options": [
+      "20",
+      "5",
+      "6",
+      "4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Resta 7 a ambos lados: 4x = 20. Divide entre 4: x = 5. Comprobación: 4 × 5 + 7 = 27.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "linearEquation",
+      "inputs": [
+        4,
+        7,
+        27
+      ],
+      "answer": 5
+    }
+  },
+  {
+    "id": "uaq26-v1-083",
+    "topicId": "2.2.7",
+    "demoId": "D_MAT04_2",
+    "text": "Si f(x) = 3x − 2, ¿cuánto vale f(5)?",
+    "options": [
+      "3",
+      "15",
+      "13",
+      "17"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sustituye x por 5: f(5) = 3 × 5 − 2 = 13.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "linearFunction",
+      "inputs": [
+        5
+      ],
+      "answer": 13
+    }
+  },
+  {
+    "id": "uaq26-v1-084",
+    "topicId": "3.1.5.1",
+    "demoId": "D_LMATEA03",
+    "text": "En una reunión de 8 personas, cada pareja se saluda una sola vez. ¿Cuántos saludos hay?",
+    "options": [
+      "56",
+      "64",
+      "8",
+      "28"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cada persona saluda a 7 personas. Al contar así, cada pareja aparece dos veces: 8 × 7 / 2 = 28.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "handshakes",
+      "inputs": [
+        8
+      ],
+      "answer": 28
+    }
+  },
+  {
+    "id": "uaq26-v1-085",
+    "topicId": "3.1.6.3",
+    "demoId": "D_LMATEA52",
+    "text": "Calcula el interés simple de un capital de $30000, a una tasa anual de 6%, durante 4 meses.",
+    "options": [
+      "$600",
+      "$30600",
+      "$7200",
+      "$1800"
+    ],
+    "correctIndex": 0,
+    "explanation": "I = C·r·t. La tasa es 0.06 anual y el tiempo 4/12 de año. I = 30000 × 0.06 × 4/12 = $600. Esto es el interés, no el monto final.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "interest",
+      "inputs": [
+        30000,
+        6,
+        4
+      ],
+      "answer": 600
+    }
+  },
+  {
+    "id": "uaq26-v1-086",
+    "topicId": "3.2.4.1",
+    "demoId": "D_LMAT02",
+    "text": "Si f(x) = x² + 2x + 1, calcula f(5).",
+    "options": [
+      "38",
+      "36",
+      "26",
+      "11"
+    ],
+    "correctIndex": 1,
+    "explanation": "f(5) = 5² + 2 × 5 + 1 = 25 + 10 + 1 = 36. También (x + 1)² da el mismo resultado.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "quadratic",
+      "inputs": [
+        5
+      ],
+      "answer": 36
+    }
+  },
+  {
+    "id": "uaq26-v1-087",
+    "topicId": "3.6.2.1",
+    "demoId": "D_LQUI04",
+    "text": "Usando una masa molar de 18 g/mol para el agua, ¿cuántos moles hay en 72 g de agua?",
+    "options": [
+      "1296 mol",
+      "5 mol",
+      "4 mol",
+      "72 mol"
+    ],
+    "correctIndex": 2,
+    "explanation": "n = m/M = 72 g / (18 g/mol) = 4 mol. Al dividir, los gramos se cancelan.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "moles",
+      "inputs": [
+        72,
+        18
+      ],
+      "answer": 4
+    }
+  },
+  {
+    "id": "uaq26-v1-088",
+    "topicId": "1.2.5",
+    "demoId": "D_HC01",
+    "text": "Un prisma rectangular mide 6 cm × 7 cm × 8 cm. ¿Cuál es su volumen?",
+    "options": [
+      "21 cm³",
+      "292 cm³",
+      "342 cm³",
+      "336 cm³"
+    ],
+    "correctIndex": 3,
+    "explanation": "V = largo × ancho × altura = 6 × 7 × 8 = 336 cm³. Se usan unidades cúbicas.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "volume",
+      "inputs": [
+        6,
+        7,
+        8
+      ],
+      "answer": 336
+    }
+  },
+  {
+    "id": "uaq26-v1-089",
+    "topicId": "1.2.1",
+    "demoId": "D_HC03",
+    "text": "Hay 80 sacos de 24 kg. Se retiran 16 sacos. ¿Cuántos kilogramos quedan?",
+    "options": [
+      "1536 kg",
+      "1920 kg",
+      "384 kg",
+      "1560 kg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quedan 80 − 16 = 64 sacos. Su masa es 64 × 24 = 1536 kg.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "stock",
+      "inputs": [
+        80,
+        24,
+        16
+      ],
+      "answer": 1536
+    }
+  },
+  {
+    "id": "uaq26-v1-090",
+    "topicId": "2.2.5",
+    "demoId": "D_MAT01",
+    "text": "Resuelve 5x + 8 = 38.",
+    "options": [
+      "30",
+      "6",
+      "7",
+      "5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Resta 8 a ambos lados: 5x = 30. Divide entre 5: x = 6. Comprobación: 5 × 6 + 8 = 38.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "linearEquation",
+      "inputs": [
+        5,
+        8,
+        38
+      ],
+      "answer": 6
+    }
+  },
+  {
+    "id": "uaq26-v1-091",
+    "topicId": "2.2.7",
+    "demoId": "D_MAT04_2",
+    "text": "Si f(x) = 3x − 2, ¿cuánto vale f(6)?",
+    "options": [
+      "4",
+      "18",
+      "16",
+      "20"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sustituye x por 6: f(6) = 3 × 6 − 2 = 16.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "linearFunction",
+      "inputs": [
+        6
+      ],
+      "answer": 16
+    }
+  },
+  {
+    "id": "uaq26-v1-092",
+    "topicId": "3.1.5.1",
+    "demoId": "D_LMATEA03",
+    "text": "En una reunión de 9 personas, cada pareja se saluda una sola vez. ¿Cuántos saludos hay?",
+    "options": [
+      "72",
+      "81",
+      "9",
+      "36"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cada persona saluda a 8 personas. Al contar así, cada pareja aparece dos veces: 9 × 8 / 2 = 36.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "handshakes",
+      "inputs": [
+        9
+      ],
+      "answer": 36
+    }
+  },
+  {
+    "id": "uaq26-v1-093",
+    "topicId": "3.1.6.3",
+    "demoId": "D_LMATEA52",
+    "text": "Calcula el interés simple de un capital de $40000, a una tasa anual de 6%, durante 4 meses.",
+    "options": [
+      "$800",
+      "$40800",
+      "$9600",
+      "$2400"
+    ],
+    "correctIndex": 0,
+    "explanation": "I = C·r·t. La tasa es 0.06 anual y el tiempo 4/12 de año. I = 40000 × 0.06 × 4/12 = $800. Esto es el interés, no el monto final.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "interest",
+      "inputs": [
+        40000,
+        6,
+        4
+      ],
+      "answer": 800
+    }
+  },
+  {
+    "id": "uaq26-v1-094",
+    "topicId": "3.2.4.1",
+    "demoId": "D_LMAT02",
+    "text": "Si f(x) = x² + 2x + 1, calcula f(6).",
+    "options": [
+      "51",
+      "49",
+      "37",
+      "13"
+    ],
+    "correctIndex": 1,
+    "explanation": "f(6) = 6² + 2 × 6 + 1 = 36 + 12 + 1 = 49. También (x + 1)² da el mismo resultado.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "quadratic",
+      "inputs": [
+        6
+      ],
+      "answer": 49
+    }
+  },
+  {
+    "id": "uaq26-v1-095",
+    "topicId": "3.6.2.1",
+    "demoId": "D_LQUI04",
+    "text": "Usando una masa molar de 18 g/mol para el agua, ¿cuántos moles hay en 90 g de agua?",
+    "options": [
+      "1620 mol",
+      "6 mol",
+      "5 mol",
+      "90 mol"
+    ],
+    "correctIndex": 2,
+    "explanation": "n = m/M = 90 g / (18 g/mol) = 5 mol. Al dividir, los gramos se cancelan.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "moles",
+      "inputs": [
+        90,
+        18
+      ],
+      "answer": 5
+    }
+  },
+  {
+    "id": "uaq26-v1-096",
+    "topicId": "1.2.5",
+    "demoId": "D_HC01",
+    "text": "Un prisma rectangular mide 7 cm × 8 cm × 9 cm. ¿Cuál es su volumen?",
+    "options": [
+      "24 cm³",
+      "382 cm³",
+      "511 cm³",
+      "504 cm³"
+    ],
+    "correctIndex": 3,
+    "explanation": "V = largo × ancho × altura = 7 × 8 × 9 = 504 cm³. Se usan unidades cúbicas.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "volume",
+      "inputs": [
+        7,
+        8,
+        9
+      ],
+      "answer": 504
+    }
+  },
+  {
+    "id": "uaq26-v1-097",
+    "topicId": "1.2.1",
+    "demoId": "D_HC03",
+    "text": "Hay 85 sacos de 25 kg. Se retiran 17 sacos. ¿Cuántos kilogramos quedan?",
+    "options": [
+      "1700 kg",
+      "2125 kg",
+      "425 kg",
+      "1725 kg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quedan 85 − 17 = 68 sacos. Su masa es 68 × 25 = 1700 kg.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "stock",
+      "inputs": [
+        85,
+        25,
+        17
+      ],
+      "answer": 1700
+    }
+  },
+  {
+    "id": "uaq26-v1-098",
+    "topicId": "2.2.5",
+    "demoId": "D_MAT01",
+    "text": "Resuelve 6x + 9 = 51.",
+    "options": [
+      "42",
+      "7",
+      "8",
+      "6"
+    ],
+    "correctIndex": 1,
+    "explanation": "Resta 9 a ambos lados: 6x = 42. Divide entre 6: x = 7. Comprobación: 6 × 7 + 9 = 51.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "linearEquation",
+      "inputs": [
+        6,
+        9,
+        51
+      ],
+      "answer": 7
+    }
+  },
+  {
+    "id": "uaq26-v1-099",
+    "topicId": "2.2.7",
+    "demoId": "D_MAT04_2",
+    "text": "Si f(x) = 3x − 2, ¿cuánto vale f(7)?",
+    "options": [
+      "5",
+      "21",
+      "19",
+      "23"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sustituye x por 7: f(7) = 3 × 7 − 2 = 19.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "linearFunction",
+      "inputs": [
+        7
+      ],
+      "answer": 19
+    }
+  },
+  {
+    "id": "uaq26-v1-100",
+    "topicId": "3.1.5.1",
+    "demoId": "D_LMATEA03",
+    "text": "En una reunión de 10 personas, cada pareja se saluda una sola vez. ¿Cuántos saludos hay?",
+    "options": [
+      "90",
+      "100",
+      "10",
+      "45"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cada persona saluda a 9 personas. Al contar así, cada pareja aparece dos veces: 10 × 9 / 2 = 45.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "handshakes",
+      "inputs": [
+        10
+      ],
+      "answer": 45
+    }
+  },
+  {
+    "id": "uaq26-v1-101",
+    "topicId": "3.1.6.3",
+    "demoId": "D_LMATEA52",
+    "text": "Calcula el interés simple de un capital de $50000, a una tasa anual de 6%, durante 4 meses.",
+    "options": [
+      "$1000",
+      "$51000",
+      "$12000",
+      "$3000"
+    ],
+    "correctIndex": 0,
+    "explanation": "I = C·r·t. La tasa es 0.06 anual y el tiempo 4/12 de año. I = 50000 × 0.06 × 4/12 = $1000. Esto es el interés, no el monto final.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "interest",
+      "inputs": [
+        50000,
+        6,
+        4
+      ],
+      "answer": 1000
+    }
+  },
+  {
+    "id": "uaq26-v1-102",
+    "topicId": "3.2.4.1",
+    "demoId": "D_LMAT02",
+    "text": "Si f(x) = x² + 2x + 1, calcula f(7).",
+    "options": [
+      "66",
+      "64",
+      "50",
+      "15"
+    ],
+    "correctIndex": 1,
+    "explanation": "f(7) = 7² + 2 × 7 + 1 = 49 + 14 + 1 = 64. También (x + 1)² da el mismo resultado.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "quadratic",
+      "inputs": [
+        7
+      ],
+      "answer": 64
+    }
+  },
+  {
+    "id": "uaq26-v1-103",
+    "topicId": "3.6.2.1",
+    "demoId": "D_LQUI04",
+    "text": "Usando una masa molar de 18 g/mol para el agua, ¿cuántos moles hay en 108 g de agua?",
+    "options": [
+      "1944 mol",
+      "7 mol",
+      "6 mol",
+      "108 mol"
+    ],
+    "correctIndex": 2,
+    "explanation": "n = m/M = 108 g / (18 g/mol) = 6 mol. Al dividir, los gramos se cancelan.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "moles",
+      "inputs": [
+        108,
+        18
+      ],
+      "answer": 6
+    }
+  },
+  {
+    "id": "uaq26-v1-104",
+    "topicId": "1.2.5",
+    "demoId": "D_HC01",
+    "text": "Un prisma rectangular mide 8 cm × 9 cm × 10 cm. ¿Cuál es su volumen?",
+    "options": [
+      "27 cm³",
+      "484 cm³",
+      "728 cm³",
+      "720 cm³"
+    ],
+    "correctIndex": 3,
+    "explanation": "V = largo × ancho × altura = 8 × 9 × 10 = 720 cm³. Se usan unidades cúbicas.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "volume",
+      "inputs": [
+        8,
+        9,
+        10
+      ],
+      "answer": 720
+    }
+  },
+  {
+    "id": "uaq26-v1-105",
+    "topicId": "1.2.1",
+    "demoId": "D_HC03",
+    "text": "Hay 90 sacos de 26 kg. Se retiran 18 sacos. ¿Cuántos kilogramos quedan?",
+    "options": [
+      "1872 kg",
+      "2340 kg",
+      "468 kg",
+      "1898 kg"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quedan 90 − 18 = 72 sacos. Su masa es 72 × 26 = 1872 kg.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "stock",
+      "inputs": [
+        90,
+        26,
+        18
+      ],
+      "answer": 1872
+    }
+  },
+  {
+    "id": "uaq26-v1-106",
+    "topicId": "2.2.5",
+    "demoId": "D_MAT01",
+    "text": "Resuelve 7x + 10 = 66.",
+    "options": [
+      "56",
+      "8",
+      "9",
+      "7"
+    ],
+    "correctIndex": 1,
+    "explanation": "Resta 10 a ambos lados: 7x = 56. Divide entre 7: x = 8. Comprobación: 7 × 8 + 10 = 66.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "linearEquation",
+      "inputs": [
+        7,
+        10,
+        66
+      ],
+      "answer": 8
+    }
+  },
+  {
+    "id": "uaq26-v1-107",
+    "topicId": "2.2.7",
+    "demoId": "D_MAT04_2",
+    "text": "Si f(x) = 3x − 2, ¿cuánto vale f(8)?",
+    "options": [
+      "6",
+      "24",
+      "22",
+      "26"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sustituye x por 8: f(8) = 3 × 8 − 2 = 22.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "linearFunction",
+      "inputs": [
+        8
+      ],
+      "answer": 22
+    }
+  },
+  {
+    "id": "uaq26-v1-108",
+    "topicId": "3.1.5.1",
+    "demoId": "D_LMATEA03",
+    "text": "En una reunión de 11 personas, cada pareja se saluda una sola vez. ¿Cuántos saludos hay?",
+    "options": [
+      "110",
+      "121",
+      "11",
+      "55"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cada persona saluda a 10 personas. Al contar así, cada pareja aparece dos veces: 11 × 10 / 2 = 55.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "handshakes",
+      "inputs": [
+        11
+      ],
+      "answer": 55
+    }
+  },
+  {
+    "id": "uaq26-v1-109",
+    "topicId": "3.1.6.3",
+    "demoId": "D_LMATEA52",
+    "text": "Calcula el interés simple de un capital de $60000, a una tasa anual de 6%, durante 4 meses.",
+    "options": [
+      "$1200",
+      "$61200",
+      "$14400",
+      "$3600"
+    ],
+    "correctIndex": 0,
+    "explanation": "I = C·r·t. La tasa es 0.06 anual y el tiempo 4/12 de año. I = 60000 × 0.06 × 4/12 = $1200. Esto es el interés, no el monto final.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "interest",
+      "inputs": [
+        60000,
+        6,
+        4
+      ],
+      "answer": 1200
+    }
+  },
+  {
+    "id": "uaq26-v1-110",
+    "topicId": "3.2.4.1",
+    "demoId": "D_LMAT02",
+    "text": "Si f(x) = x² + 2x + 1, calcula f(8).",
+    "options": [
+      "83",
+      "81",
+      "65",
+      "17"
+    ],
+    "correctIndex": 1,
+    "explanation": "f(8) = 8² + 2 × 8 + 1 = 64 + 16 + 1 = 81. También (x + 1)² da el mismo resultado.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "quadratic",
+      "inputs": [
+        8
+      ],
+      "answer": 81
+    }
+  },
+  {
+    "id": "uaq26-v1-111",
+    "topicId": "3.6.2.1",
+    "demoId": "D_LQUI04",
+    "text": "Usando una masa molar de 18 g/mol para el agua, ¿cuántos moles hay en 126 g de agua?",
+    "options": [
+      "2268 mol",
+      "8 mol",
+      "7 mol",
+      "126 mol"
+    ],
+    "correctIndex": 2,
+    "explanation": "n = m/M = 126 g / (18 g/mol) = 7 mol. Al dividir, los gramos se cancelan.",
+    "difficulty": "MEDIA",
+    "origin": "original",
+    "calculation": {
+      "kind": "moles",
+      "inputs": [
+        126,
+        18
+      ],
+      "answer": 7
+    }
+  },
+  {
+    "id": "uaq26-v1-112",
+    "topicId": "3.7.1.3",
+    "demoId": "D_LSOC01",
+    "text": "¿Qué busca comprender la sociología de Max Weber?",
+    "options": [
+      "Solo la composición química de las células",
+      "Únicamente el movimiento de los planetas",
+      "La estructura de los minerales",
+      "El sentido que las personas atribuyen a su acción social"
+    ],
+    "correctIndex": 3,
+    "explanation": "La sociología comprensiva interpreta el sentido de las acciones orientadas hacia otras personas para explicar su desarrollo.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-113",
+    "topicId": "3.7.3.2",
+    "demoId": "D_LSOC03",
+    "text": "¿Qué territorio se vendió a Estados Unidos durante el gobierno de Santa Anna mediante el tratado de 1853?",
+    "options": [
+      "La Mesilla",
+      "Yucatán",
+      "Chiapas",
+      "Tabasco"
+    ],
+    "correctIndex": 0,
+    "explanation": "El Tratado de La Mesilla se firmó en 1853 durante el gobierno de Antonio López de Santa Anna.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-114",
+    "topicId": "3.7.3.3",
+    "demoId": "D_LSOC03",
+    "text": "¿Qué personaje encabezó el movimiento del Plan de Tuxtepec de 1876?",
+    "options": [
+      "Miguel Hidalgo",
+      "Porfirio Díaz",
+      "Agustín de Iturbide",
+      "Lázaro Cárdenas"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Plan de Tuxtepec se vinculó al movimiento de Porfirio Díaz contra la reelección de Sebastián Lerdo de Tejada.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-115",
+    "topicId": "3.7.3.6",
+    "demoId": "D_LSOC04",
+    "text": "¿Durante qué presidencia se reconoció constitucionalmente el sufragio femenino federal en México en 1953?",
+    "options": [
+      "Porfirio Díaz",
+      "Francisco I. Madero",
+      "Adolfo Ruiz Cortines",
+      "Benito Juárez"
+    ],
+    "correctIndex": 2,
+    "explanation": "La reforma de 1953 se promulgó durante el gobierno de Adolfo Ruiz Cortines; las mujeres votaron en elecciones federales en 1955.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-116",
+    "topicId": "3.7.3.7",
+    "demoId": "D_LSOC04",
+    "text": "¿Quién era presidente de México cuando fue asesinado Luis Donaldo Colosio en 1994?",
+    "options": [
+      "Adolfo López Mateos",
+      "Lázaro Cárdenas",
+      "Vicente Fox",
+      "Carlos Salinas de Gortari"
+    ],
+    "correctIndex": 3,
+    "explanation": "El asesinato de Colosio ocurrió en marzo de 1994, durante el sexenio de Carlos Salinas de Gortari, de 1988 a 1994.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-117",
+    "topicId": "3.7.4.5",
+    "demoId": "D_LSOC05",
+    "text": "¿Qué acontecimiento de 1991 marcó una transformación del orden internacional al final de la Guerra Fría?",
+    "options": [
+      "Disolución de la Unión Soviética",
+      "Inicio de la Primera Guerra Mundial",
+      "Caída de Tenochtitlan",
+      "Congreso de Viena"
+    ],
+    "correctIndex": 0,
+    "explanation": "La disolución de la URSS en 1991 transformó el sistema internacional y consolidó el final del orden bipolar de la Guerra Fría.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-v1-118",
+    "topicId": "3.8.3.3",
+    "demoId": "D_LHUM04",
+    "text": "¿Qué personaje inició la Reforma protestante en el siglo XVI?",
+    "options": [
+      "Gianni Vattimo",
+      "Martín Lutero",
+      "Aristóteles",
+      "René Descartes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lutero impulsó la Reforma en el siglo XVI al cuestionar prácticas y autoridad de la Iglesia de su tiempo.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  }
+]

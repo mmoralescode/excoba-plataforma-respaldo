@@ -1,0 +1,2107 @@
+{
+  "source": "Instructivo EXCOBA-UAQ Licenciatura 2026-2",
+  "sha256": "3056ba510f67dc0d9899189ef80b22f4a28b5527066714ded412bae4c364bff9",
+  "subjects": [
+    {
+      "id": "1.1",
+      "name": "Primaria · Español"
+    },
+    {
+      "id": "1.2",
+      "name": "Primaria · Matemáticas"
+    },
+    {
+      "id": "2.1",
+      "name": "Secundaria · Español"
+    },
+    {
+      "id": "2.2",
+      "name": "Secundaria · Matemáticas"
+    },
+    {
+      "id": "2.3",
+      "name": "Secundaria · Ciencias naturales"
+    },
+    {
+      "id": "2.4",
+      "name": "Secundaria · Ciencias sociales"
+    },
+    {
+      "id": "3.1",
+      "name": "Especialidad · Matemáticas para estadística"
+    },
+    {
+      "id": "3.2",
+      "name": "Especialidad · Matemáticas para cálculo"
+    },
+    {
+      "id": "3.3",
+      "name": "Especialidad · Física"
+    },
+    {
+      "id": "3.4",
+      "name": "Especialidad · Biología"
+    },
+    {
+      "id": "3.5",
+      "name": "Especialidad · Lenguaje"
+    },
+    {
+      "id": "3.6",
+      "name": "Especialidad · Química"
+    },
+    {
+      "id": "3.7",
+      "name": "Especialidad · Ciencias sociales"
+    },
+    {
+      "id": "3.8",
+      "name": "Especialidad · Humanidades"
+    }
+  ],
+  "topics": [
+    {
+      "id": "1.1.1",
+      "subjectId": "1.1",
+      "name": "Recuento histórico. Identificación de una sucesión cronológica de hechos. Inferencia de fechas y lugares. Identificación de la información relevante.",
+      "page": 4,
+      "demoIds": [
+        "D_HV07"
+      ]
+    },
+    {
+      "id": "1.1.2",
+      "subjectId": "1.1",
+      "name": "Reportaje. Identificación de las características generales de un reportaje. Interpretación de la información. Identificación de la idea principal. Selección de información relevante.",
+      "page": 4,
+      "demoIds": []
+    },
+    {
+      "id": "1.1.3",
+      "subjectId": "1.1",
+      "name": "Textos científicos y populares. Identificación de las características de ambos tipos de textos.",
+      "page": 4,
+      "demoIds": []
+    },
+    {
+      "id": "1.1.4",
+      "subjectId": "1.1",
+      "name": "Cuestionarios. Identificación de las formas de respuestas requeridas en cuestionarios. Elaboración de cuestionarios, según los propósitos de las preguntas.",
+      "page": 4,
+      "demoIds": []
+    },
+    {
+      "id": "1.1.5",
+      "subjectId": "1.1",
+      "name": "Ortografía y puntuación. Uso de v, b, s, c, z, ll, y, g, j, palabras homófonas. Acentuación de palabras agudas, graves, esdrújulas y monosílabos. Uso de los signos de puntuación en un párrafo.",
+      "page": 4,
+      "demoIds": [
+        "D_HV05",
+        "D_ESP02"
+      ]
+    },
+    {
+      "id": "1.1.6",
+      "subjectId": "1.1",
+      "name": "Sintaxis. Identificación de las partes de una oración simple. Identificación de la estructura y concordancia de oraciones. Identificación del tipo de oraciones compuestas: yuxtapuestas, coordinadas y subordinadas. Uso de nexos.",
+      "page": 4,
+      "demoIds": [
+        "D_LLEN05"
+      ]
+    },
+    {
+      "id": "1.1.7",
+      "subjectId": "1.1",
+      "name": "Léxico. Inferencia de significado de palabras según el contexto. Uso del diccionario.",
+      "page": 4,
+      "demoIds": [
+        "D_HV02"
+      ]
+    },
+    {
+      "id": "1.1.8",
+      "subjectId": "1.1",
+      "name": "Cuento. Identificación de las partes de un cuento. Inferencia de las características de los personajes. Comprensión de figuras retóricas: metáforas, símiles, analogías, reiteración, entre otros.",
+      "page": 4,
+      "demoIds": [
+        "D_HV06"
+      ]
+    },
+    {
+      "id": "1.1.9",
+      "subjectId": "1.1",
+      "name": "Textos instructivos. Elaboración de diagramas y notas. Uso de modos y tiempos verbales adecuados.",
+      "page": 4,
+      "demoIds": [
+        "D_HV04"
+      ]
+    },
+    {
+      "id": "1.1.10",
+      "subjectId": "1.1",
+      "name": "Categorías de información. Clasificación de información en secciones temáticas. Jerarquización de la información.",
+      "page": 4,
+      "demoIds": [
+        "D_HV07"
+      ]
+    },
+    {
+      "id": "1.2.1",
+      "subjectId": "1.2",
+      "name": "Números naturales. Significado y uso de las cuatro operaciones fundamentales: adición, sustracción, multiplicación y división.",
+      "page": 4,
+      "demoIds": [
+        "D_HC03"
+      ]
+    },
+    {
+      "id": "1.2.2",
+      "subjectId": "1.2",
+      "name": "Números fraccionarios. Comprensión del concepto de fracción. Uso en las cuatro operaciones fundamentales: adición, sustracción, multiplicación y división.",
+      "page": 4,
+      "demoIds": [
+        "D_HC02",
+        "D_HC06"
+      ]
+    },
+    {
+      "id": "1.2.3",
+      "subjectId": "1.2",
+      "name": "Números decimales. Comprensión del concepto de número decimal. Uso en las cuatro operaciones fundamentales: adición, sustracción, multiplicación y división.",
+      "page": 4,
+      "demoIds": [
+        "D_HC04"
+      ]
+    },
+    {
+      "id": "1.2.4",
+      "subjectId": "1.2",
+      "name": "Figuras planas. Identificación de sus elementos. Cálculo de perímetros y áreas.",
+      "page": 4,
+      "demoIds": [
+        "D_HC05"
+      ]
+    },
+    {
+      "id": "1.2.5",
+      "subjectId": "1.2",
+      "name": "Cuerpos geométricos. Identificación de sus elementos. Cálculo de volumen.",
+      "page": 4,
+      "demoIds": [
+        "D_HC01"
+      ]
+    },
+    {
+      "id": "1.2.6",
+      "subjectId": "1.2",
+      "name": "Magnitudes. Uso de unidades para el cálculo de operaciones. Conversión de unidades.",
+      "page": 4,
+      "demoIds": []
+    },
+    {
+      "id": "1.2.7",
+      "subjectId": "1.2",
+      "name": "Relaciones de proporcionalidad. Conversión de escalas. Resolución de problemas.",
+      "page": 5,
+      "demoIds": []
+    },
+    {
+      "id": "1.2.8",
+      "subjectId": "1.2",
+      "name": "Nociones de probabilidad. Cálculo de probabilidad simple.",
+      "page": 5,
+      "demoIds": []
+    },
+    {
+      "id": "1.2.9",
+      "subjectId": "1.2",
+      "name": "Nociones de estadística. Elaboración de diagramas, gráficas y tablas. Interpretación de diagramas, tablas y figuras.",
+      "page": 5,
+      "demoIds": []
+    },
+    {
+      "id": "2.1.1",
+      "subjectId": "2.1",
+      "name": "Medios masivos de comunicación. Inferencia de mensajes publicitarios. Identificación de los elementos que constituyen las noticias. Identificación del autor o la fuente de información. Distinción entre hechos y opiniones. Contraste de tipo de mensajes en las noticias. Apoyos gráficos en las noticias. Análisis de la postura del autor en textos periodísticos.",
+      "page": 5,
+      "demoIds": [
+        "D_ESP01"
+      ]
+    },
+    {
+      "id": "2.1.2",
+      "subjectId": "2.1",
+      "name": "Textos informativos. Identificación de propósitos y características de los textos informativos. Búsqueda y selección de información. Organización de la información. Identificación de la oración temática. Uso e interpretación de recursos gráficos, como: tablas, gráficas, diagramas, cuadros sinópticos y mapas conceptuales. Uso de comunicación formal. Identificación de diferentes puntos de vista en un texto. Uso de expresiones que jerarquizan la información. Uso de la coma para delimitar coordinadas adversativas, subordinadas causales, condicionales y concesivas.",
+      "page": 5,
+      "demoIds": [
+        "D_ESP01",
+        "D_ESP03",
+        "D_ESP04"
+      ]
+    },
+    {
+      "id": "2.1.3",
+      "subjectId": "2.1",
+      "name": "Entrevista. Identificación del propósito y las características del reporte de una entrevista. Uso del discurso directo e indirecto. Uso de los nexos temporales y coordinantes. Uso del acento diacrítico y enfático.",
+      "page": 5,
+      "demoIds": []
+    },
+    {
+      "id": "2.1.4",
+      "subjectId": "2.1",
+      "name": "Textos descriptivos. Elaboración de informes técnicos. Uso de recursos lingüísticos: vocabulario técnico, voz pasiva, forma impersonal. Uso de recursos para asegurar la cohesión. Uso de subordinantes y de complementos del verbo.",
+      "page": 5,
+      "demoIds": []
+    },
+    {
+      "id": "2.1.5",
+      "subjectId": "2.1",
+      "name": "Textos literarios. Identificación de géneros literarios. Interpretación de figuras retóricas en poemas. Predicción del contenido de una obra a través de reseñas o prólogos. Uso de expresiones sinónimas y pronombres. Sustitución léxica o pronominal.",
+      "page": 5,
+      "demoIds": []
+    },
+    {
+      "id": "2.1.6",
+      "subjectId": "2.1",
+      "name": "Documentos administrativos legales y técnicos. Elaboración de cartas para solicitudes o reclamos. Interpretación de reglamentos. Análisis de documentos para garantizar los derechos y las garantías de los ciudadanos. Elaboración de documentos para presentar solicitudes.",
+      "page": 5,
+      "demoIds": []
+    },
+    {
+      "id": "2.2.1",
+      "subjectId": "2.2",
+      "name": "Números reales. Solución de operaciones de adición, sustracción, multiplicación, división, potenciación y radicación.",
+      "page": 5,
+      "demoIds": []
+    },
+    {
+      "id": "2.2.2",
+      "subjectId": "2.2",
+      "name": "Significado y uso de las literales. Solución de ejercicios algebraicos de adición, sustracción, multiplicación, división, potenciación y radicación.",
+      "page": 5,
+      "demoIds": [
+        "D_MAT02"
+      ]
+    },
+    {
+      "id": "2.2.3",
+      "subjectId": "2.2",
+      "name": "Sucesiones aritméticas. Obtención de la fórmula para generar una sucesión aritmética.",
+      "page": 5,
+      "demoIds": []
+    },
+    {
+      "id": "2.2.4",
+      "subjectId": "2.2",
+      "name": "Polinomios. Solución de operaciones combinadas con polinomios.",
+      "page": 5,
+      "demoIds": [
+        "D_MAT02",
+        "D_MAT03"
+      ]
+    },
+    {
+      "id": "2.2.5",
+      "subjectId": "2.2",
+      "name": "Ecuaciones lineales y cuadráticas. Desarrollo y solución de ecuaciones de primer grado. Desarrollo y solución de ecuaciones de segundo grado.",
+      "page": 5,
+      "demoIds": [
+        "D_MAT01"
+      ]
+    },
+    {
+      "id": "2.2.6",
+      "subjectId": "2.2",
+      "name": "Sistemas de ecuaciones lineales. Solución de sistema de ecuaciones lineales con dos incógnitas.",
+      "page": 5,
+      "demoIds": []
+    },
+    {
+      "id": "2.2.7",
+      "subjectId": "2.2",
+      "name": "Funciones lineales. Representación gráfica de una recta. Cálculo de la pendiente de una recta.",
+      "page": 5,
+      "demoIds": [
+        "D_MAT04_2"
+      ]
+    },
+    {
+      "id": "2.2.8",
+      "subjectId": "2.2",
+      "name": "Funciones cuadráticas. Representación gráfica de una parábola. Interpretación de la ecuación de una parábola.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.2.9",
+      "subjectId": "2.2",
+      "name": "Transformaciones en el plano. Identificación y representación de simetría axial, simetría central, traslación y rotación.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.2.10",
+      "subjectId": "2.2",
+      "name": "Rectas y ángulos. Cálculo de ángulos entre paralelas y una secante. Aplicación del teorema de Pitágoras.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.2.11",
+      "subjectId": "2.2",
+      "name": "Cuerpos geométricos. Desarrollo de cuerpos geométricos. Cálculo de áreas y volúmenes.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.2.12",
+      "subjectId": "2.2",
+      "name": "Semejanza. Solución de problemas de semejanza. Aplicación del teorema de Tales.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.2.13",
+      "subjectId": "2.2",
+      "name": "Trigonometría. Identificación de razones trigonométricas (seno, coseno, tangente) en triángulos rectángulos.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.2.14",
+      "subjectId": "2.2",
+      "name": "Relaciones de proporcionalidad. Solución de problemas de proporcionalidad inversa.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.2.15",
+      "subjectId": "2.2",
+      "name": "Diagramas, gráficas y tablas. Solución de problemas de conteo. Interpretación de gráficas circulares y de barras.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.2.16",
+      "subjectId": "2.2",
+      "name": "Nociones básicas de estadística. Cálculo de medidas de tendencia central y de dispersión.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.3.1.1",
+      "subjectId": "2.3",
+      "name": "Biodiversidad. Comparación de las características comunes de los seres vivos. Identificación de los mecanismos de adaptación y de selección natural de los organismos.",
+      "page": 6,
+      "demoIds": [
+        "D_NAT02BIO"
+      ]
+    },
+    {
+      "id": "2.3.1.2",
+      "subjectId": "2.3",
+      "name": "Nutrición. Identificación de las diversas formas de nutrición de los seres vivos. Identificación de los nutrientes en los alimentos.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.3.1.3",
+      "subjectId": "2.3",
+      "name": "Respiración. Identificación de las estructuras respiratorias de los seres vivos. Identificación de los distintos tipos de respiración. Relación entre respiración y nutrición. Prevención de enfermedades respiratorias.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.3.1.4",
+      "subjectId": "2.3",
+      "name": "Reproducción. Valoración de una sexualidad responsable y segura. Identificación de enfermedades venéreas (características, agente causal, síntomas y medidas de prevención). Comparación de las características generales de la división celular y la formación de gametos: mitosis y meiosis. Identificación de las características de la reproducción sexual. Relación entre fenotipo, genotipo, cromosomas y genes.",
+      "page": 6,
+      "demoIds": [
+        "D_NAT01BIO"
+      ]
+    },
+    {
+      "id": "2.3.2.1",
+      "subjectId": "2.3",
+      "name": "El movimiento. Interpretación y cálculo de posición, velocidad y aceleración. Uso de unidades de medida. Representación e interpretación de gráficas y tablas. Descripción y medición del movimiento.",
+      "page": 6,
+      "demoIds": [
+        "D_NAT03FIS",
+        "D_NAT04FIS"
+      ]
+    },
+    {
+      "id": "2.3.2.2",
+      "subjectId": "2.3",
+      "name": "Las fuerzas. Interpretación del concepto de fuerza. Interpretación de los efectos de las fuerzas. La descripción y predicción del movimiento mediante las leyes de Newton. Interpretación de los factores que conforman la energía mecánica. Cálculo de energía mecánica (cinética y potencial). Uso de unidades de medida.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.3.2.3",
+      "subjectId": "2.3",
+      "name": "Las interacciones de la materia. Representación e interpretación de gráficas relacionadas con el calor, la presión y la temperatura. Interpretación de la relación entre fuerza y área. Aplicaciones tecnológicas de los diferentes tipos de energía.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.3.2.4",
+      "subjectId": "2.3",
+      "name": "Manifestaciones de la estructura interna de la materia. Interpretación del modelo atómico simple. Relación entre el comportamiento del electrón y los fenómenos electromagnéticos macroscópicos.",
+      "page": 6,
+      "demoIds": []
+    },
+    {
+      "id": "2.3.3.1",
+      "subjectId": "2.3",
+      "name": "Características de los materiales. Identificación de las propiedades intensivas y extensivas de la materia. Interpretación del principio de conservación de la masa. Clasificación de las sustancias. Relación entre el modelo tridimensional de compuestos y su fórmula química. Identificación de las características del método científico.",
+      "page": 7,
+      "demoIds": []
+    },
+    {
+      "id": "2.3.3.2",
+      "subjectId": "2.3",
+      "name": "Diversidad de propiedades de los materiales y su clasificación química. Distinción entre mezclas y otro tipo de sustancias, con base en sus propiedades físicas y sus métodos de separación. Representación química de elementos, moléculas, átomos, iones e isótopos. Identificación de propiedades de la tabla periódica. Propiedades de los modelos de enlace.",
+      "page": 7,
+      "demoIds": []
+    },
+    {
+      "id": "2.3.3.3",
+      "subjectId": "2.3",
+      "name": "La transformación de los materiales: la reacción química. Representación del principio de conservación de la masa.",
+      "page": 7,
+      "demoIds": [
+        "D_NAT05QUI"
+      ]
+    },
+    {
+      "id": "2.3.3.4",
+      "subjectId": "2.3",
+      "name": "La formación de nuevos materiales. Aplicaciones de ácidos y bases. Identificación de la oxidación y reducción, sus principales características y aplicaciones.",
+      "page": 7,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.1.1",
+      "subjectId": "2.4",
+      "name": "El espacio geográfico y los mapas. Interpretación del espacio por medio de mapas temáticos de México y del mundo. Ubicación de puntos geográficos en un mapa utilizando los elementos espaciales (coordenadas geográficas, escalas, orientación, simbología).",
+      "page": 7,
+      "demoIds": [
+        "D_SOC02GEO"
+      ]
+    },
+    {
+      "id": "2.4.1.2",
+      "subjectId": "2.4",
+      "name": "Recursos naturales y preservación del ambiente. Comprensión de los conceptos de biodiversidad, recursos naturales y desarrollo sustentable en función de la ubicación, relieves, clima y vegetación. Comprensión de los factores astronómicos que influyen en la distribución de los recursos naturales y la biodiversidad. Análisis del impacto y de las consecuencias que traen consigo la alteración al medio ambiente.",
+      "page": 7,
+      "demoIds": [
+        "D_SOC01GEO"
+      ]
+    },
+    {
+      "id": "2.4.1.3",
+      "subjectId": "2.4",
+      "name": "Dinámica de la población y riesgos. Relación entre los cambios de la población y las implicaciones socioeconómicas en México y en el mundo. Interpretación de información estadística básica sobre la composición y el crecimiento de la población, dada por indicadores demográficos (edad, sexo, tasa de natalidad y mortalidad, tasa de crecimiento). Distinción de los tipos de migración. Identificación de las causas y los efectos de los principales flujos migratorios.",
+      "page": 7,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.1.4",
+      "subjectId": "2.4",
+      "name": "Espacios económicos y desigualdad social. Comprensión del concepto de globalización. Interpretación de algunos indicadores socioeconómicos, como: índice de desarrollo humano, educación, esperanza de vida, salud y PIB.",
+      "page": 7,
+      "demoIds": [
+        "D_SOC05FCE"
+      ]
+    },
+    {
+      "id": "2.4.1.5",
+      "subjectId": "2.4",
+      "name": "Espacios culturales y políticos. Comprensión de la diversidad cultural a partir de las etnias, lenguas y religiones. Identificación de la distribución del patrimonio cultural de los pueblos.",
+      "page": 7,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.2.1",
+      "subjectId": "2.4",
+      "name": "Principios del siglo XVI a principios del siglo XVIII. Comprensión de los avances científicos y tecnológicos, y las repercusiones del colonialismo en América. Ubicación cronológica de los hechos históricos y personajes más relevantes.",
+      "page": 7,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.2.2",
+      "subjectId": "2.4",
+      "name": "De mediados del siglo XVIII a mediados del siglo XIX. Comprensión de las ideas políticas que dieron origen a las revoluciones atlánticas. Comprensión de las características y de las implicaciones de la Revolución Industrial y de las revoluciones atlánticas.",
+      "page": 7,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.2.3",
+      "subjectId": "2.4",
+      "name": "De mediados del siglo XIX a 1920. Comprensión de la importancia estratégica, económica y política de algunas regiones de Asia, América y África en la antesala de la Primera Guerra Mundial.",
+      "page": 7,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.2.4",
+      "subjectId": "2.4",
+      "name": "El mundo entre 1910 y 1960. Identificación de las principales causas, los efectos y países participantes en la Primera Guerra Mundial y en la Segunda Guerra Mundial.",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.2.5",
+      "subjectId": "2.4",
+      "name": "Décadas recientes. Identificación de los principales conflictos sociales, políticos, culturales y religiosos de la actualidad.",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.2.6",
+      "subjectId": "2.4",
+      "name": "Las culturas prehispánicas y la conformación de la Nueva España. Identificación temporal y espacial y de las aportaciones de las principales culturas prehispánicas: olmeca, teotihuacana, maya y mexica.",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.2.7",
+      "subjectId": "2.4",
+      "name": "Nueva España, desde su consolidación hasta la independencia. Identificación cronológica de los principales personajes, de las causas y consecuencias de la expansión política y religiosa de la Conquista, de la Colonia y el movimiento de independencia.",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.2.8",
+      "subjectId": "2.4",
+      "name": "La Revolución mexicana. Identificación cronológica de las causas, de las consecuencias y de los principales personajes de la Revolución mexicana.",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.3.1",
+      "subjectId": "2.4",
+      "name": "Los adolescentes y sus contextos de convivencia. Identificación de los factores que favorecen o que ponen en riesgo la calidad de vida de los adolescentes.",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.3.2",
+      "subjectId": "2.4",
+      "name": "Principios y valores de la democracia. Identificación de los principios y las normas que promueven la convivencia democrática. Distinción de las características generales del sistema político democrático: representatividad, soberanía popular y sistema de partidos.",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.3.3",
+      "subjectId": "2.4",
+      "name": "La dimensión cívica y ética de la convivencia. Comprensión del uso de los valores colectivos, las costumbres sociales y tradiciones culturales dentro del contexto de la nación mexicana.",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.3.4",
+      "subjectId": "2.4",
+      "name": "Identidad e interculturalidad para una ciudadanía democrática. Comprensión del uso de las normas y reglas para una mejor convivencia social. Análisis del sentido de pertenencia e identidad, en el contexto de una sociedad multicultural.",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.3.5",
+      "subjectId": "2.4",
+      "name": "Participación y ciudadanía democrática. Comprensión del concepto de democracia, así como de los elementos que la conforman. Identificación de las características y funciones de las diferentes formas de organización social y control ciudadano. Identificación de los componentes del Estado mexicano y sus características.",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "2.4.3.6",
+      "subjectId": "2.4",
+      "name": "Respeto y valoración de la diversidad. Identificación de las diversas manifestaciones en la sociedad, que facilitan u obstaculizan la convivencia social.",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "3.1.1.1",
+      "subjectId": "3.1",
+      "name": "Resuelves problemas aritméticos y algebraicos. Jerarquía de operaciones numéricas.",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "3.1.1.2",
+      "subjectId": "3.1",
+      "name": "Realizas transformaciones algebraicas. Operaciones con polinomios de una y dos variables. Factorizaciones básicas (incluyendo productos notables y expresiones racionales).",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "3.1.1.3",
+      "subjectId": "3.1",
+      "name": "Resuelves ecuaciones lineales. Modelamiento de situaciones para escribir ecuaciones lineales.",
+      "page": 8,
+      "demoIds": []
+    },
+    {
+      "id": "3.1.1.4",
+      "subjectId": "3.1",
+      "name": "Resuelves ecuaciones cuadráticas. Ecuaciones cuadráticas de una variable relacionadas con la función cuadrática.",
+      "page": 9,
+      "demoIds": []
+    },
+    {
+      "id": "3.1.2.1",
+      "subjectId": "3.1",
+      "name": "Aplicas la estadística elemental. Aplicación de las medidas de tendencia central y de dispersión en datos agrupados y no agrupados. Interpretación del uso de las medidas de tendencia central y de dispersión en un problema. Interpretación de tablas, gráficas y diagramas con datos estadísticos.",
+      "page": 9,
+      "demoIds": [
+        "D_LMATEA04"
+      ]
+    },
+    {
+      "id": "3.1.2.2",
+      "subjectId": "3.1",
+      "name": "Empleas los conceptos elementales de la probabilidad. Aplicación de las leyes aditiva y multiplicativa de las probabilidades.",
+      "page": 9,
+      "demoIds": [
+        "D_LMATEA22"
+      ]
+    },
+    {
+      "id": "3.1.3.1",
+      "subjectId": "3.1",
+      "name": "Reconoces y realizas operaciones con distintos tipos de funciones. Funciones y Relaciones. Dominio y Rango. Reglas de correspondencia.",
+      "page": 9,
+      "demoIds": []
+    },
+    {
+      "id": "3.1.3.2",
+      "subjectId": "3.1",
+      "name": "Aplicas funciones especiales y transformaciones. Función inversa, función escalonada, función valor absoluto, función identidad y función constante.",
+      "page": 9,
+      "demoIds": []
+    },
+    {
+      "id": "3.1.3.3",
+      "subjectId": "3.1",
+      "name": "Empleas funciones polinomiales de grados 0, 1, 2, 3 y 4. Reconocimiento del patrón de comportamiento gráfico de las funciones polinomiales.",
+      "page": 9,
+      "demoIds": []
+    },
+    {
+      "id": "3.1.3.4",
+      "subjectId": "3.1",
+      "name": "Aplicas funciones racionales. Asíntotas horizontales y verticales. Reconocimiento del patrón de comportamiento gráfico de las funciones racionales.",
+      "page": 9,
+      "demoIds": []
+    },
+    {
+      "id": "3.1.3.5",
+      "subjectId": "3.1",
+      "name": "Aplicas funciones exponenciales y logarítmicas. Gráficas de las funciones exponencial y logarítmica.",
+      "page": 9,
+      "demoIds": []
+    },
+    {
+      "id": "3.1.4.1",
+      "subjectId": "3.1",
+      "name": "Analizas la teoría de conjuntos y sus aplicaciones. Representaciones lingüísticas y matemáticas relacionadas con las operaciones básicas de la teoría de conjunto (intersección, unión, complementación, diferenciación)",
+      "page": 9,
+      "demoIds": [
+        "D_LMATEA01"
+      ]
+    },
+    {
+      "id": "3.1.4.2",
+      "subjectId": "3.1",
+      "name": "Describes y representas datos de forma tabular y gráfica. Representación tabular de los datos en categorías mutuamente excluyentes provenientes de una población o muestra.",
+      "page": 9,
+      "demoIds": []
+    },
+    {
+      "id": "3.1.5.1",
+      "subjectId": "3.1",
+      "name": "Aplicas las técnicas de conteo. Construcción de un árbol de probabilidad, considerando los resultados posibles de un evento. Utilización del factorial de un número, el principio de la multiplicación y adición, como parte de las técnicas de conteo en la solución de problemas. Diferenciación entre permutaciones y combinaciones, al ponerlas en práctica en la solución de problemas en diversos contextos.",
+      "page": 9,
+      "demoIds": [
+        "D_LMATEA03"
+      ]
+    },
+    {
+      "id": "3.1.6.1",
+      "subjectId": "3.1",
+      "name": "Aplicas el reparto proporcional. Aplicación de diferentes modelos matemáticos de Reparto Proporcional para dar solución a problemas.",
+      "page": 9,
+      "demoIds": []
+    },
+    {
+      "id": "3.1.6.2",
+      "subjectId": "3.1",
+      "name": "Calculas progresiones. Empleo del procedimiento de las progresiones aritméticas y geométricas como herramienta para la solución de problemas de interés de simple y compuesto.",
+      "page": 9,
+      "demoIds": []
+    },
+    {
+      "id": "3.1.6.3",
+      "subjectId": "3.1",
+      "name": "Aplicas el interés simple. Resolución de problemas matemáticos aplicando los enfoques de interés simple, valor actual y descuento simple.",
+      "page": 9,
+      "demoIds": [
+        "D_LMATEA52"
+      ]
+    },
+    {
+      "id": "3.2.1.1",
+      "subjectId": "3.2",
+      "name": "Resuelves problemas aritméticos y algebraicos. Jerarquía de operaciones numéricas.",
+      "page": 9,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.1.2",
+      "subjectId": "3.2",
+      "name": "Realizas transformaciones algebraicas. Operaciones con polinomios de una y dos variables. Factorizaciones básicas (incluyendo productos notables y expresiones racionales).",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.1.3",
+      "subjectId": "3.2",
+      "name": "Resuelves ecuaciones lineales. Sistemas de ecuaciones de 1x1, 2x2 y 3x3 relacionados con la función lineal. Modelamiento de situaciones para escribir ecuaciones lineales.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.1.4",
+      "subjectId": "3.2",
+      "name": "Resuelves ecuaciones cuadráticas. Ecuaciones cuadráticas de una variable relacionadas con la función cuadrática. Modelamiento de situaciones para escribir ecuaciones cuadráticas.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.2.1",
+      "subjectId": "3.2",
+      "name": "Utilizas ángulos, triángulos y relaciones métricas. Ejercicios con la aplicación de las propiedades de la suma de ángulos de un triángulo.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.2.2",
+      "subjectId": "3.2",
+      "name": "Comprendes la congruencia y la semejanza de triángulos. Ejercicios de aplicación de criterios de congruencia de triángulos. Problemas de aplicación del teorema de Tales.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.2.3",
+      "subjectId": "3.2",
+      "name": "Reconoces las propiedades de los polígonos. Resolución de problemas.",
+      "page": 10,
+      "demoIds": [
+        "D_LMAT01"
+      ]
+    },
+    {
+      "id": "3.2.2.4",
+      "subjectId": "3.2",
+      "name": "Empleas la circunferencia. Ángulos, perímetros y áreas.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.2.5",
+      "subjectId": "3.2",
+      "name": "Describes las relaciones trigonométricas para resolver triángulos rectángulos. Sistema sexagesimal y circular. Funciones trigonométricas. Aplicación de razones trigonométricas en triángulos rectángulos.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.2.6",
+      "subjectId": "3.2",
+      "name": "Aplicas las funciones trigonométricas. Gráficas de funciones seno, coseno y tangente.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.2.7",
+      "subjectId": "3.2",
+      "name": "Aplicas las leyes de senos y cosenos. Aplicación de las leyes en triángulos oblicuángulos.",
+      "page": 10,
+      "demoIds": [
+        "D_LMAT03"
+      ]
+    },
+    {
+      "id": "3.2.2.8",
+      "subjectId": "3.2",
+      "name": "Aplicas la estadística elemental. Aplicación de las medidas de tendencia central y de dispersión en datos agrupados y no agrupados.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.2.9",
+      "subjectId": "3.2",
+      "name": "Empleas los conceptos elementales de la probabilidad. Aplicación de las leyes aditiva y multiplicativa de las probabilidades.",
+      "page": 10,
+      "demoIds": [
+        "D_LMAT04"
+      ]
+    },
+    {
+      "id": "3.2.3.1",
+      "subjectId": "3.2",
+      "name": "Aplicas las propiedades de segmentos rectilíneos y polígonos. Distancia entre dos puntos. Perímetro y área de polígonos.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.3.2",
+      "subjectId": "3.2",
+      "name": "Aplicas los elementos de una recta como lugar geométrico. Pendiente y ángulo de inclinación de una recta. Paralelismo y perpendicularidad.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.3.3",
+      "subjectId": "3.2",
+      "name": "Utilizas distintas formas de la ecuación de una recta. Aplicación de las distintas formas de ecuación de una recta.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.3.4",
+      "subjectId": "3.2",
+      "name": "Aplicas los elementos y las ecuaciones de una circunferencia. Aplicación de las distintas formas de ecuación de una circunferencia.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.3.5",
+      "subjectId": "3.2",
+      "name": "Aplicas los elementos y ecuaciones de la parábola. Aplicación de las distintas formas de ecuación de una parábola.",
+      "page": 10,
+      "demoIds": [
+        "D_LMAT05"
+      ]
+    },
+    {
+      "id": "3.2.3.6",
+      "subjectId": "3.2",
+      "name": "Aplica los elementos y las ecuaciones de la elipse. Aplicación de las distintas formas de ecuación de una elipse.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.4.1",
+      "subjectId": "3.2",
+      "name": "Reconoces y realizas operaciones con distintos tipos de funciones. Funciones y Relaciones. Dominio y Rango. Reglas de correspondencia.",
+      "page": 10,
+      "demoIds": [
+        "D_LMAT02"
+      ]
+    },
+    {
+      "id": "3.2.4.2",
+      "subjectId": "3.2",
+      "name": "Aplicas funciones especiales y transformaciones. Función inversa, función escalonada, función valor absoluto, función identidad y función constante.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.4.3",
+      "subjectId": "3.2",
+      "name": "Empleas funciones polinomiales de grados 0, 1, 2, 3 y 4. Reconocimiento del patrón de comportamiento gráfico de las funciones polinomiales.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.4.4",
+      "subjectId": "3.2",
+      "name": "Aplicas funciones racionales. Asíntotas horizontales y verticales. Reconocimiento del patrón de comportamiento gráfico de las funciones racionales.",
+      "page": 10,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.4.5",
+      "subjectId": "3.2",
+      "name": "Aplicas funciones exponenciales y logarítmicas. Gráficas de las funciones exponencial y logarítmica.",
+      "page": 11,
+      "demoIds": []
+    },
+    {
+      "id": "3.2.4.6",
+      "subjectId": "3.2",
+      "name": "Aplicas funciones periódicas. Representación gráfica de las funciones seno y coseno. Características: amplitud, frecuencia y periodo.",
+      "page": 11,
+      "demoIds": []
+    },
+    {
+      "id": "3.3.1.1",
+      "subjectId": "3.3",
+      "name": "Reconoces el lenguaje técnico básico de la física. Método Científico, magnitudes físicas y su medición, notación científica y vectores.",
+      "page": 11,
+      "demoIds": [
+        "D_LFIS01"
+      ]
+    },
+    {
+      "id": "3.3.1.2",
+      "subjectId": "3.3",
+      "name": "Identificas diferencias entre distintos tipos de movimiento. Movimiento en una y dos dimensiones.",
+      "page": 11,
+      "demoIds": [
+        "D_LFIS02",
+        "D_LFIS04"
+      ]
+    },
+    {
+      "id": "3.3.1.3",
+      "subjectId": "3.3",
+      "name": "Comprendes el movimiento de los cuerpos a partir de las leyes de dinámica de Newton. Aplicas las leyes de la dinámica, ley de la gravitación universal y leyes de Kepler.",
+      "page": 11,
+      "demoIds": [
+        "D_LFIS03"
+      ]
+    },
+    {
+      "id": "3.3.1.4",
+      "subjectId": "3.3",
+      "name": "Relacionas el trabajo con la energía. Trabajo. Energía cinética y energía potencial. Ley de la conservación de la energía mecánica. Potencia.",
+      "page": 11,
+      "demoIds": []
+    },
+    {
+      "id": "3.3.2.1",
+      "subjectId": "3.3",
+      "name": "Explicas el comportamiento de los fluidos. Hidráulica. Hidrostática. Hidrodinámica.",
+      "page": 11,
+      "demoIds": []
+    },
+    {
+      "id": "3.3.2.2",
+      "subjectId": "3.3",
+      "name": "Identificas diferencias entre calor y temperatura. El calor y la temperatura. La dilatación térmica. El calor específico. Procesos termodinámicos.",
+      "page": 11,
+      "demoIds": []
+    },
+    {
+      "id": "3.3.2.3",
+      "subjectId": "3.3",
+      "name": "Comprendes las leyes de la electricidad. Electricidad. Electrostática. Electrodinámica.",
+      "page": 11,
+      "demoIds": []
+    },
+    {
+      "id": "3.3.2.4",
+      "subjectId": "3.3",
+      "name": "Relacionas la electricidad con el magnetismo. Magnetismo. Electromagnetismo",
+      "page": 11,
+      "demoIds": [
+        "D_LFIS05"
+      ]
+    },
+    {
+      "id": "3.4.1.1",
+      "subjectId": "3.4",
+      "name": "Reconoces a la biología como ciencia de la vida. Niveles de organización de la materia viva: químico, celular, tisular, orgánico, individual y ecológico.",
+      "page": 11,
+      "demoIds": []
+    },
+    {
+      "id": "3.4.1.2",
+      "subjectId": "3.4",
+      "name": "Identificas las características y los componentes de los seres vivos. Estructura y función de biomoléculas orgánicas: carbohidratos, lípidos, proteínas y ácidos nucleicos. ADN: estructura, replicación, ARN y síntesis de proteínas, código genético.",
+      "page": 11,
+      "demoIds": []
+    },
+    {
+      "id": "3.4.1.3",
+      "subjectId": "3.4",
+      "name": "Reconoces a la célula como unidad de la vida. Características básicas, el origen, la evolución, los procesos y la clasificación de las células.",
+      "page": 11,
+      "demoIds": [
+        "D_LBIO01"
+      ]
+    },
+    {
+      "id": "3.4.1.4",
+      "subjectId": "3.4",
+      "name": "Describes el metabolismo de los seres vivos. Tipos de energía. Reacciones endotérmicas y exotérmicas. Adenosíntrifosfato (ATP). Metabolismo. Formas de nutrición autótrofa y heterótrofa.",
+      "page": 11,
+      "demoIds": [
+        "D_LBIO02"
+      ]
+    },
+    {
+      "id": "3.4.1.5",
+      "subjectId": "3.4",
+      "name": "Valoras la biodiversidad e identificas estrategias para preservarla. Virus. Dominio archaea. Dominio eubacteria. Dominio Eukaria.",
+      "page": 11,
+      "demoIds": []
+    },
+    {
+      "id": "3.4.2.1",
+      "subjectId": "3.4",
+      "name": "Identificas lo tipos de reproducción celular y de los organismos y su relación con el avance científico. Tipos de reproducción en los seres vivos.",
+      "page": 11,
+      "demoIds": []
+    },
+    {
+      "id": "3.4.2.2",
+      "subjectId": "3.4",
+      "name": "Reconoces y aplicas los principios de la herencia. Las leyes de Mendel.",
+      "page": 11,
+      "demoIds": []
+    },
+    {
+      "id": "3.4.2.3",
+      "subjectId": "3.4",
+      "name": "Características genéticas. Variaciones genéticas. Teoría de Sutton y Morgan. Anomalías humanas ligadas a los cromosomas sexuales.",
+      "page": 11,
+      "demoIds": [
+        "D_LBIO05"
+      ]
+    },
+    {
+      "id": "3.4.2.4",
+      "subjectId": "3.4",
+      "name": "Valoras las aportaciones más relevantes de la biotecnología. Aplicaciones de la Biotecnología en la época antigua y moderna.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.4.2.5",
+      "subjectId": "3.4",
+      "name": "Describes los principios de la evolución biológica y lo relacionas con la biodiversidad de las especies. Antecedentes y teoría de la evolución de Darwin y Wallace. Principales causas de la variabilidad genética y el cambio evolutivo. Principio de la selección natural y su relación con la genética de poblaciones. Causas y objetivos de la evolución por selección natural y artificial.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.4.2.6",
+      "subjectId": "3.4",
+      "name": "Conoces los principios estructurales y funcionales de los seres humanos y los comparas con otros organismos del reino animal. Organización del cuerpo humano. Estructura y función de los principales tejidos en el organismo. Características, función de los aparatos y sistemas constituyentes del organismo en el ser humano.",
+      "page": 12,
+      "demoIds": [
+        "D_LBIO04"
+      ]
+    },
+    {
+      "id": "3.4.2.7",
+      "subjectId": "3.4",
+      "name": "Reconoces a las plantas como organismos complejos. Características generales de las plantas terrestres. Tipos de tejidos y células presentes en las plantas.",
+      "page": 12,
+      "demoIds": [
+        "D_LBIO03"
+      ]
+    },
+    {
+      "id": "3.4.3.1",
+      "subjectId": "3.4",
+      "name": "Aplicas los niveles básicos de ecología en su contexto. Ecología y educación ambiental. Estructura del ambiente (diferencia e interacción entre factores bióticos y abióticos).",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.4.3.2",
+      "subjectId": "3.4",
+      "name": "Comprendes la dinámica de los ecosistemas que integran la biósfera. Diversidad de ecosistemas y áreas protegidas. Flujos de materia y energía. Ciclos biogeoquímicos.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.1.1",
+      "subjectId": "3.5",
+      "name": "Practicas el proceso comunicativo. Funciones del lenguaje: emotiva, conativa, referencial, metalingüística, fática y poética.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.1.2",
+      "subjectId": "3.5",
+      "name": "Practicas el proceso de lectura y escritura. Etapas del proceso de lectura y escritura.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.1.3",
+      "subjectId": "3.5",
+      "name": "Redactas prototipos textuales. Propiedades de la redacción: adecuación, coherencia y cohesión, en textos breves. Identificación de los prototipos textuales de la redacción: narración, descripción, exposición, argumentación y diálogo.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.1.4",
+      "subjectId": "3.5",
+      "name": "Practicas el uso del léxico y semántica. Reglas de acentuación.  Reglas de las grafías: B, V, S, C, Z, X, G, J y H. Homófonos de las grafías: B, V, S, C, Z, X, G, J y H. Normas básicas de puntuación.  Sinónimos, antónimos, homógrafos y homónimos. Parónimos y la polisemia en la redacción de textos.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.1.5",
+      "subjectId": "3.5",
+      "name": "Redactas textos personales. Funciones apelativas y emotivas en textos personales.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.1.6",
+      "subjectId": "3.5",
+      "name": "Redactas textos expositivos. Funciones del lenguaje en el texto expositivo. Características externas e internas del texto expositivo.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.1.7",
+      "subjectId": "3.5",
+      "name": "Clasificas los textos expositivos. Características de los textos históricos. Características de los diferentes tipos de textos periodísticos.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.2.1",
+      "subjectId": "3.5",
+      "name": "Clasificas los textos funcionales. Tipos de textos funcionales. Elaboración de textos funcionales.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.2.2",
+      "subjectId": "3.5",
+      "name": "Practicas el uso del léxico y semántica. Signos de puntuación para ordenar datos y conceptos en un texto. Prefijos y sufijos griegos y latinos en la redacción de textos. Vicios de dicción en textos.",
+      "page": 12,
+      "demoIds": [
+        "D_LLEN01",
+        "D_LLEN03"
+      ]
+    },
+    {
+      "id": "3.5.2.3",
+      "subjectId": "3.5",
+      "name": "Redactas textos persuasivos. Textos persuasivos: estructura interna y externa.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.2.4",
+      "subjectId": "3.5",
+      "name": "Redactas textos recreativos. Características externas e internas de los textos recreativos.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.2.5",
+      "subjectId": "3.5",
+      "name": "Clasificas textos recreativos. Interpretación de textos recreativos.",
+      "page": 12,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.3.1",
+      "subjectId": "3.5",
+      "name": "Identificas a la literatura como arte. Movimientos literarios a través del tiempo (obras y autores).",
+      "page": 13,
+      "demoIds": [
+        "D_LLEN04"
+      ]
+    },
+    {
+      "id": "3.5.3.2",
+      "subjectId": "3.5",
+      "name": "Reconoces y demuestras las diferencias entre la fábula y la epopeya. Características y diferencias estructurales y lingüísticas entre la fábula y la epopeya.",
+      "page": 13,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.3.3",
+      "subjectId": "3.5",
+      "name": "Reconoces y demuestras las diferencias entre el mito y la leyenda. Características y diferencias estructurales y lingüísticas entre la leyenda y el mito.",
+      "page": 13,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.3.4",
+      "subjectId": "3.5",
+      "name": "Comprendes y analizas las características del cuento. Elementos del nivel contextual en un cuento. Elementos del nivel intertextual en un cuento.",
+      "page": 13,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.3.5",
+      "subjectId": "3.5",
+      "name": "Comprendes las características de la novela. Tipos de novela de acuerdo con su contenido y tema.",
+      "page": 13,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.4.1",
+      "subjectId": "3.5",
+      "name": "Reconoces el género lírico. Elementos comunicativos del texto lírico de diferentes corrientes literarias.",
+      "page": 13,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.4.2",
+      "subjectId": "3.5",
+      "name": "Analizas e interpretas el género lírico.  Elementos morfosintácticos en un texto. Elementos fónico–fonológicos en diferentes textos.",
+      "page": 13,
+      "demoIds": [
+        "D_LLEN02"
+      ]
+    },
+    {
+      "id": "3.5.4.3",
+      "subjectId": "3.5",
+      "name": "Reconoces y analizas el género dramático. Características de los diferentes subgéneros dramáticos.",
+      "page": 13,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.4.4",
+      "subjectId": "3.5",
+      "name": "Analizas las características de la tragedia. Estructuras externa e interna de la tragedia.",
+      "page": 13,
+      "demoIds": []
+    },
+    {
+      "id": "3.5.4.5",
+      "subjectId": "3.5",
+      "name": "Diferencias y analizas las características de la comedia y el drama. Diferencias del fondo o contenido entre la comedia y el drama. Diferencias lingüísticas entre la comedia y el drama.",
+      "page": 13,
+      "demoIds": []
+    },
+    {
+      "id": "3.6.1.1",
+      "subjectId": "3.6",
+      "name": "Comprendes la interrelación de la materia y la energía. Materia: propiedades y cambios. Energía y su interrelación con la materia.",
+      "page": 13,
+      "demoIds": []
+    },
+    {
+      "id": "3.6.1.2",
+      "subjectId": "3.6",
+      "name": "Explicas el modelo atómico actual y sus aplicaciones. Modelos atómicos y partículas subatómicas. Conceptos básicos (número atómico, masa atómica y número de masa). Configuraciones electrónicas y los números cuánticos. Los isótopos y sus aplicaciones.",
+      "page": 13,
+      "demoIds": []
+    },
+    {
+      "id": "3.6.1.3",
+      "subjectId": "3.6",
+      "name": "Interpretas la tabla periódica. Elementos químicos (grupo, periodo, bloque). Propiedades periódicas y su variación en la Tabla Periódica. Características de los metales y no metales.",
+      "page": 13,
+      "demoIds": []
+    },
+    {
+      "id": "3.6.1.4",
+      "subjectId": "3.6",
+      "name": "Interpretas enlaces químicos e interacciones intermoleculares. Enlace químico. Formación y propiedades de los compuestos con enlace iónico. Formación y propiedades de los compuestos con enlace covalente. Enlace metálico.",
+      "page": 13,
+      "demoIds": [
+        "D_LQUI03"
+      ]
+    },
+    {
+      "id": "3.6.1.5",
+      "subjectId": "3.6",
+      "name": "Manejas la Nomenclatura Química inorgánica. Reglas de la UIQPA para escribir fórmulas y nombres de los compuestos Químicos inorgánicos.",
+      "page": 13,
+      "demoIds": [
+        "D_LQUI02"
+      ]
+    },
+    {
+      "id": "3.6.1.6",
+      "subjectId": "3.6",
+      "name": "Representas y operas reacciones químicas. Símbolos en las ecuaciones químicas. Balanceo de ecuaciones químicas.",
+      "page": 13,
+      "demoIds": []
+    },
+    {
+      "id": "3.6.1.7",
+      "subjectId": "3.6",
+      "name": "Comprendes los procesos asociados con el calor y la velocidad de las reacciones químicas. Entalpía. Reacciones exotérmicas y endotérmicas. Velocidad de reacción.",
+      "page": 13,
+      "demoIds": []
+    },
+    {
+      "id": "3.6.2.1",
+      "subjectId": "3.6",
+      "name": "Aplicas la noción de mol en la cuantificación de procesos químicos. Mol. Las leyes ponderales. Cálculos estequiométricos.",
+      "page": 13,
+      "demoIds": [
+        "D_LQUI04"
+      ]
+    },
+    {
+      "id": "3.6.2.2",
+      "subjectId": "3.6",
+      "name": "Actúas para disminuir la contaminación del aire, del agua y del suelo. Contaminación del agua, del aire y del suelo.",
+      "page": 14,
+      "demoIds": []
+    },
+    {
+      "id": "3.6.2.3",
+      "subjectId": "3.6",
+      "name": "Comprendes la utilidad de los sistemas dispersos. Sistemas dispersos: disoluciones, coloides y suspensiones. Métodos de separación de mezclas. Unidades de concentración de los sistemas dispersos: porcentual, molar, normalidad. Ácidos y bases.",
+      "page": 14,
+      "demoIds": [
+        "D_LQUI05"
+      ]
+    },
+    {
+      "id": "3.6.2.4",
+      "subjectId": "3.6",
+      "name": "Valoras la importancia de los compuestos del carbono en tu vida diaria y entorno. Configuración electrónica y geometría molecular del carbono. Características, propiedades físicas y nomenclatura general de los compuestos orgánicos.",
+      "page": 14,
+      "demoIds": [
+        "D_LQUI01"
+      ]
+    },
+    {
+      "id": "3.6.2.5",
+      "subjectId": "3.6",
+      "name": "Identificas la importancia de las macromoléculas naturales y sintéticas. Macromoléculas, polímeros y monómeros.",
+      "page": 14,
+      "demoIds": []
+    },
+    {
+      "id": "3.7.1.1",
+      "subjectId": "3.7",
+      "name": "Reconoces cómo se realiza la construcción del conocimiento en ciencias sociales. Tipos de conocimiento: intuitivo, empírico, religioso, filosófico y científico. Tipos de ciencias: formales y fácticas (ciencias sociales y ciencias experimentales).",
+      "page": 14,
+      "demoIds": []
+    },
+    {
+      "id": "3.7.1.2",
+      "subjectId": "3.7",
+      "name": "Describes los procesos de construcción del conocimiento de las ciencias sociales. Revolución científica. Empirismo. Racionalismo. Ilustración. Positivismo. Evolucionismo.",
+      "page": 14,
+      "demoIds": []
+    },
+    {
+      "id": "3.7.1.3",
+      "subjectId": "3.7",
+      "name": "Realizas interpretaciones científicas de la realidad social. Materialismo histórico, estructural funcionalismo, teoría comprensiva y teoría crítica.",
+      "page": 14,
+      "demoIds": [
+        "D_LSOC01"
+      ]
+    },
+    {
+      "id": "3.7.2.1",
+      "subjectId": "3.7",
+      "name": "Identificas las escuelas de interpretación histórica. Escuela Marxista, Historicista, Positivista y de los Annales.",
+      "page": 14,
+      "demoIds": []
+    },
+    {
+      "id": "3.7.2.2",
+      "subjectId": "3.7",
+      "name": "Describes el poblamiento de América. Teorías acerca del poblamiento de América: científicas y no científicas.",
+      "page": 14,
+      "demoIds": []
+    },
+    {
+      "id": "3.7.2.3",
+      "subjectId": "3.7",
+      "name": "Ubicas y explicas los procesos de desarrollo sociocultural de las sociedades del México Antiguo. Los horizontes culturales de Mesoamérica. Las principales características: espaciales, temporales, sociales, políticas, económicas, religiosas y culturales de las sociedades del México Antiguo, tales como: Oasisamérica, Aridoamérica y Mesoamérica.",
+      "page": 14,
+      "demoIds": [
+        "D_LSOC02"
+      ]
+    },
+    {
+      "id": "3.7.2.4",
+      "subjectId": "3.7",
+      "name": "Describes el proceso de conquista de México. El descubrimiento de América. La política colonialista de España y Portugal. Etapas de la Conquista Material y Espiritual.",
+      "page": 14,
+      "demoIds": []
+    },
+    {
+      "id": "3.7.2.5",
+      "subjectId": "3.7",
+      "name": "Caracterizas la vida en México durante el virreinato. La organización política de la Nueva España y la función de sus principales Instituciones. Organización social y cultural de la Nueva España.",
+      "page": 14,
+      "demoIds": []
+    },
+    {
+      "id": "3.7.2.6",
+      "subjectId": "3.7",
+      "name": "Analizas la Guerra de Independencia. Antecedentes externos, internos y etapas de la Guerra de Independencia. Consumación de la Independencia.",
+      "page": 14,
+      "demoIds": []
+    },
+    {
+      "id": "3.7.3.1",
+      "subjectId": "3.7",
+      "name": "Describes las ideologías que formaron a México como Estado/nación. Las diferentes ideologías del S. XIX: liberal, conservadora y radical. Los proyectos de nación: monárquico, imperial y republicano.",
+      "page": 14,
+      "demoIds": [
+        "D_LSOC03"
+      ]
+    },
+    {
+      "id": "3.7.3.2",
+      "subjectId": "3.7",
+      "name": "Defines las dificultades internas y externas para consolidar a México como país. Primeros gobiernos independientes. Gobiernos Centralistas. Intervenciones Extranjeras. República Federal.",
+      "page": 14,
+      "demoIds": [
+        "D_LSOC03"
+      ]
+    },
+    {
+      "id": "3.7.3.3",
+      "subjectId": "3.7",
+      "name": "Explicas las características del Régimen Porfirista y las causas de su decadencia. Características del Porfiriato: políticas, económicas y sociales. Crisis política y económica del Porfiriato. Decadencia del Porfiriato y movimientos sociales de finales del régimen.",
+      "page": 14,
+      "demoIds": [
+        "D_LSOC03"
+      ]
+    },
+    {
+      "id": "3.7.3.4",
+      "subjectId": "3.7",
+      "name": "Analizas las diferentes etapas de la Revolución mexicana y las pugnas entre las diferentes facciones. Antecedentes de la Revolución Mexicana. Etapas del movimiento armado. Origen, fundamento y artículos de la Constitución Política de los Estados Unidos Mexicanos.",
+      "page": 15,
+      "demoIds": []
+    },
+    {
+      "id": "3.7.3.5",
+      "subjectId": "3.7",
+      "name": "Reconoces la importancia de la institucionalización de México en la época posrevolucionaria y su impacto en la realidad. Gobiernos de: Venustiano Carranza, Álvaro Obregón y Plutarco Elías Calles. El Maximato y los presidentes bajo su tutela. Lázaro Cárdenas del Río.",
+      "page": 15,
+      "demoIds": [
+        "D_LSOC04"
+      ]
+    },
+    {
+      "id": "3.7.3.6",
+      "subjectId": "3.7",
+      "name": "Examinas la consolidación del Estado moderno mexicano. Periodos gubernamentales de 1940- 1970.",
+      "page": 15,
+      "demoIds": [
+        "D_LSOC04"
+      ]
+    },
+    {
+      "id": "3.7.3.7",
+      "subjectId": "3.7",
+      "name": "Analizas los problemas del México contemporáneo, aportando posibles soluciones. Periodos gubernamentales de 1970-2012.",
+      "page": 15,
+      "demoIds": [
+        "D_LSOC04"
+      ]
+    },
+    {
+      "id": "3.7.4.1",
+      "subjectId": "3.7",
+      "name": "Comprendes la expansión del imperialismo y sus consecuencias a principios del S. XX. Primera Guerra Mundial.",
+      "page": 15,
+      "demoIds": []
+    },
+    {
+      "id": "3.7.4.2",
+      "subjectId": "3.7",
+      "name": "Comprendes el movimiento de la revolución rusa y de los gobiernos totalitarios en el devenir mundial. Revolución Rusa.",
+      "page": 15,
+      "demoIds": []
+    },
+    {
+      "id": "3.7.4.3",
+      "subjectId": "3.7",
+      "name": "Analizas la crisis económica de 1929 y la trascendencia de la Segunda Guerra Mundial. Segunda Guerra Mundial.",
+      "page": 15,
+      "demoIds": [
+        "D_LSOC05"
+      ]
+    },
+    {
+      "id": "3.7.4.4",
+      "subjectId": "3.7",
+      "name": "Explicas el proceso de desarrollo histórico de la Guerra Fría. Guerra Fría. Movimientos de liberación nacional. Estados No Alineados.",
+      "page": 15,
+      "demoIds": [
+        "D_LSOC05"
+      ]
+    },
+    {
+      "id": "3.7.4.5",
+      "subjectId": "3.7",
+      "name": "Reflexionas acerca de los procesos históricos actuales en el entorno mundial. Postguerra Fría.",
+      "page": 15,
+      "demoIds": [
+        "D_LSOC05"
+      ]
+    },
+    {
+      "id": "3.8.1.1",
+      "subjectId": "3.8",
+      "name": "Identificas a la ética como disciplina filosófica. Ética y filosofía. Ética y Moral. Disciplinas filosóficas. Juicios de valor.",
+      "page": 15,
+      "demoIds": [
+        "D_LHUM01"
+      ]
+    },
+    {
+      "id": "3.8.1.2",
+      "subjectId": "3.8",
+      "name": "Analizas situaciones y problemas específicos asociados a la práctica de valores que ocurren a nivel local y nacional. Juicio moral. Valores, tipos y jerarquías: universales y relativos, objetivos y subjetivos. Valores y antivalores. Libertad, igualdad, prudencia y justicia.",
+      "page": 15,
+      "demoIds": []
+    },
+    {
+      "id": "3.8.1.3",
+      "subjectId": "3.8",
+      "name": "Promueves el respeto a los derechos humanos. Estado. Sociedad. Democracia. Obstáculos de la democracia. Estado de derecho y legalidad. Prácticas antidemocráticas. Derechos humanos.",
+      "page": 15,
+      "demoIds": []
+    },
+    {
+      "id": "3.8.1.4",
+      "subjectId": "3.8",
+      "name": "Comprendes la importancia del respeto a la identidad nacional ante los fenómenos asociados a la globalización. Cultura. Identidad. Multiculturalidad. Interculturalidad. Diversidad de manifestaciones culturales en México.",
+      "page": 15,
+      "demoIds": []
+    },
+    {
+      "id": "3.8.2.1",
+      "subjectId": "3.8",
+      "name": "Problematizas conflictos de la práctica médica y la bioética. Ética y desarrollo tecnológico en la práctica médica. Avances médicos. Implicaciones de la práctica médica. Manipulación genética y efectos en la biodiversidad.",
+      "page": 15,
+      "demoIds": []
+    },
+    {
+      "id": "3.8.2.2",
+      "subjectId": "3.8",
+      "name": "Promueves la educación ambiental para el desarrollo sostenible. Comportamientos humanos que han incidido en: El cambio climático. Códigos éticos ambientales. Política de educación ambiental y ciudadanía ambiental.",
+      "page": 15,
+      "demoIds": []
+    },
+    {
+      "id": "3.8.2.3",
+      "subjectId": "3.8",
+      "name": "Realizas acciones morales que promueven el desarrollo individual y de la comunidad. El bien y la vida buena: eudemonismo, hedonismo, naturalismo, formalismo y utilitarismo. Ética y prácticas sociales.",
+      "page": 15,
+      "demoIds": [
+        "D_LHUM02"
+      ]
+    },
+    {
+      "id": "3.8.3.1",
+      "subjectId": "3.8",
+      "name": "Identificas a la filosofía como una disciplina global. Conocimiento pre-filosófico. Filosofía, ciencia y religión. Disciplinas y métodos filosóficos.",
+      "page": 16,
+      "demoIds": []
+    },
+    {
+      "id": "3.8.3.2",
+      "subjectId": "3.8",
+      "name": "Analizas los fundamentos de la racionalidad humana en el contexto del pensamiento clásico griego. Filosofía presocrática. Sócrates, Platón y Aristóteles. Filosofía sofista.",
+      "page": 16,
+      "demoIds": [
+        "D_LHUM03",
+        "D_LHUM04"
+      ]
+    },
+    {
+      "id": "3.8.3.3",
+      "subjectId": "3.8",
+      "name": "Analizas la transición que va de la cosmovisión medieval a los problemas de la modernidad. La filosofía cristiana medieval. El renacimiento político. La reforma protestante, racionalista, empirista e idealista germana.",
+      "page": 16,
+      "demoIds": [
+        "D_LHUM04"
+      ]
+    },
+    {
+      "id": "3.8.3.4",
+      "subjectId": "3.8",
+      "name": "Adviertes la condición humana derivada de la filosofía posmoderna. Modernidad y posmodernidad. El problema de la pérdida de fundamento. Existencia auténtica e inauténtica. El pensamiento débil en la posmodernidad.",
+      "page": 16,
+      "demoIds": [
+        "D_LHUM04"
+      ]
+    },
+    {
+      "id": "3.8.4.1",
+      "subjectId": "3.8",
+      "name": "Comprendes la importancia de la investigación científica y su impacto social. Investigación científica. Tipos de investigación.",
+      "page": 16,
+      "demoIds": []
+    },
+    {
+      "id": "3.8.4.2",
+      "subjectId": "3.8",
+      "name": "Interpretas el estudio del conocimiento y sus tipos. Tipos de conocimiento y sus características.",
+      "page": 16,
+      "demoIds": []
+    },
+    {
+      "id": "3.8.4.3",
+      "subjectId": "3.8",
+      "name": "Analizas la utilidad y características de la metodología de la investigación. Metodología de la investigación. Métodos de investigación.",
+      "page": 16,
+      "demoIds": []
+    },
+    {
+      "id": "3.8.4.4",
+      "subjectId": "3.8",
+      "name": "Reconoces los modelos de investigación cualitativa y cuantitativa, así como sus métodos de aplicación. Modelos de investigación cualitativo y cuantitativo.",
+      "page": 16,
+      "demoIds": []
+    },
+    {
+      "id": "3.8.4.5",
+      "subjectId": "3.8",
+      "name": "Diseñas una metodología de investigación. Fases de la investigación. Exposición del problema. Marco metodológico.",
+      "page": 16,
+      "demoIds": [
+        "D_LHUM05"
+      ]
+    },
+    {
+      "id": "3.8.4.6",
+      "subjectId": "3.8",
+      "name": "Elaboras un marco teórico. Elaboración del marco teórico.",
+      "page": 16,
+      "demoIds": [
+        "D_LHUM05"
+      ]
+    },
+    {
+      "id": "3.8.4.7",
+      "subjectId": "3.8",
+      "name": "Realizas el análisis de resultados y elaboras conclusiones. Reporte de investigación.",
+      "page": 16,
+      "demoIds": [
+        "D_LHUM05"
+      ]
+    }
+  ],
+  "demoMapping": {
+    "D_HV01": {
+      "apartados": [],
+      "motivo": "Interpretación lógica de una frase. Es comprensión transversal; no se asigna artificialmente a cuento o figuras retóricas."
+    },
+    "D_HV02": {
+      "apartados": [
+        "1.1.7"
+      ],
+      "motivo": "Sinónimos inferidos por contexto."
+    },
+    "D_HV04": {
+      "apartados": [
+        "1.1.9"
+      ],
+      "motivo": "Ordenar instrucciones de una receta."
+    },
+    "D_HV05": {
+      "apartados": [
+        "1.1.5"
+      ],
+      "motivo": "Uso de la coma; no el conjunto de reglas ortográficas."
+    },
+    "D_HV06": {
+      "apartados": [
+        "1.1.8"
+      ],
+      "motivo": "Identificar metáforas en Platero y yo."
+    },
+    "D_HV07": {
+      "apartados": [
+        "1.1.1",
+        "1.1.10"
+      ],
+      "motivo": "Extraer fechas, ubicación e información temática de un texto sobre los incas."
+    },
+    "D_HC01": {
+      "apartados": [
+        "1.2.5"
+      ],
+      "motivo": "Volumen de un prisma rectangular."
+    },
+    "D_HC02": {
+      "apartados": [
+        "1.2.2"
+      ],
+      "motivo": "Comparación de fracciones; no las cuatro operaciones."
+    },
+    "D_HC03": {
+      "apartados": [
+        "1.2.1"
+      ],
+      "motivo": "Problema de operaciones con cantidades de harina."
+    },
+    "D_HC04": {
+      "apartados": [
+        "1.2.3"
+      ],
+      "motivo": "Ubicación de decimales en la recta numérica."
+    },
+    "D_HC05": {
+      "apartados": [
+        "1.2.4"
+      ],
+      "motivo": "Lado y área de un triángulo equilátero."
+    },
+    "D_HC06": {
+      "apartados": [
+        "1.2.2"
+      ],
+      "motivo": "Representar una fracción en una figura."
+    },
+    "D_ESP01": {
+      "apartados": [
+        "2.1.1",
+        "2.1.2"
+      ],
+      "motivo": "Extraer información de una noticia; no todas las competencias periodísticas."
+    },
+    "D_ESP02": {
+      "apartados": [
+        "1.1.5"
+      ],
+      "motivo": "El demo lo presenta en secundaria, pero el ejercicio de b/v corresponde de forma directa al apartado de ortografía de primaria."
+    },
+    "D_ESP03": {
+      "apartados": [
+        "2.1.2"
+      ],
+      "motivo": "Seleccionar información esencial para resumir un texto."
+    },
+    "D_ESP04": {
+      "apartados": [
+        "2.1.2"
+      ],
+      "motivo": "Interpretación de una gráfica incluida en un texto informativo."
+    },
+    "D_MAT01": {
+      "apartados": [
+        "2.2.5"
+      ],
+      "motivo": "Ecuación lineal; no se ejercitan aquí ecuaciones cuadráticas."
+    },
+    "D_MAT02": {
+      "apartados": [
+        "2.2.2",
+        "2.2.4"
+      ],
+      "motivo": "Simplificar una operación algebraica."
+    },
+    "D_MAT03": {
+      "apartados": [
+        "2.2.4"
+      ],
+      "motivo": "Desarrollar un polinomio."
+    },
+    "D_MAT04_2": {
+      "apartados": [
+        "2.2.7"
+      ],
+      "motivo": "Evaluar y reconocer la gráfica de una función lineal."
+    },
+    "D_NAT01BIO": {
+      "apartados": [
+        "2.3.1.4"
+      ],
+      "motivo": "Ovíparos y vivíparos; no cubre genética, salud sexual ni división celular."
+    },
+    "D_NAT02BIO": {
+      "apartados": [
+        "2.3.1.1"
+      ],
+      "motivo": "Clasificación de animales; no selección natural."
+    },
+    "D_NAT03FIS": {
+      "apartados": [
+        "2.3.2.1"
+      ],
+      "motivo": "Distancia de frenado con aceleración constante."
+    },
+    "D_NAT04FIS": {
+      "apartados": [
+        "2.3.2.1"
+      ],
+      "motivo": "Interpretación de una gráfica del movimiento."
+    },
+    "D_NAT05QUI": {
+      "apartados": [
+        "2.3.3.3"
+      ],
+      "motivo": "Balanceo de la ecuación de fotosíntesis."
+    },
+    "D_SOC01GEO": {
+      "apartados": [
+        "2.4.1.2"
+      ],
+      "motivo": "Localización de regiones naturales."
+    },
+    "D_SOC02GEO": {
+      "apartados": [
+        "2.4.1.1"
+      ],
+      "motivo": "Ubicación de ciudades en un mapa de México."
+    },
+    "D_SOC03HIS": {
+      "apartados": [],
+      "motivo": "Civilizaciones del mundo antiguo: no corresponden directamente a las unidades cronológicas de historia de secundaria del instructivo 2026-2."
+    },
+    "D_SOC04HIS": {
+      "apartados": [],
+      "motivo": "Edad Media: no figura expresamente entre las unidades de historia de secundaria del instructivo 2026-2."
+    },
+    "D_SOC05FCE": {
+      "apartados": [
+        "2.4.1.4"
+      ],
+      "motivo": "Bloques económicos; la correspondencia es geografía/globalización, aunque el identificador del demo dice FCE."
+    },
+    "D_LMATEA01": {
+      "apartados": [
+        "3.1.4.1"
+      ],
+      "motivo": "Operaciones entre conjuntos."
+    },
+    "D_LMATEA22": {
+      "apartados": [
+        "3.1.2.2"
+      ],
+      "motivo": "Probabilidad multiplicativa con urnas."
+    },
+    "D_LMATEA03": {
+      "apartados": [
+        "3.1.5.1"
+      ],
+      "motivo": "Conteo de saludos; no todos los métodos de conteo."
+    },
+    "D_LMATEA04": {
+      "apartados": [
+        "3.1.2.1"
+      ],
+      "motivo": "Media y comparación de dispersión de distribuciones."
+    },
+    "D_LMATEA52": {
+      "apartados": [
+        "3.1.6.3"
+      ],
+      "motivo": "Interés simple y monto; no descuento simple."
+    },
+    "D_LMAT01": {
+      "apartados": [
+        "3.2.2.3"
+      ],
+      "motivo": "Área de una figura geométrica; aplicación limitada de polígonos."
+    },
+    "D_LMAT02": {
+      "apartados": [
+        "3.2.4.1"
+      ],
+      "motivo": "Evaluar una función cuadrática a partir de una tabla."
+    },
+    "D_LMAT03": {
+      "apartados": [
+        "3.2.2.7"
+      ],
+      "motivo": "Distancia en un triángulo oblicuángulo mediante ley de cosenos; se verificó la figura."
+    },
+    "D_LMAT04": {
+      "apartados": [
+        "3.2.2.9"
+      ],
+      "motivo": "Probabilidad multiplicativa de extracciones independientes."
+    },
+    "D_LMAT05": {
+      "apartados": [
+        "3.2.3.5"
+      ],
+      "motivo": "Ecuación de una parábola a partir de puntos y gráfica."
+    },
+    "D_LFIS01": {
+      "apartados": [
+        "3.3.1.1"
+      ],
+      "motivo": "Suma de vectores; no método científico ni todas las magnitudes."
+    },
+    "D_LFIS02": {
+      "apartados": [
+        "3.3.1.2"
+      ],
+      "motivo": "Tiro parabólico."
+    },
+    "D_LFIS03": {
+      "apartados": [
+        "3.3.1.3"
+      ],
+      "motivo": "Gravitación universal."
+    },
+    "D_LFIS04": {
+      "apartados": [
+        "3.3.1.2"
+      ],
+      "motivo": "Propiedades de tipos de movimiento."
+    },
+    "D_LFIS05": {
+      "apartados": [
+        "3.3.2.4"
+      ],
+      "motivo": "Campo magnético de imanes."
+    },
+    "D_LBIO01": {
+      "apartados": [
+        "3.4.1.3"
+      ],
+      "motivo": "Funciones celulares: crecimiento, homeostasis e irritabilidad."
+    },
+    "D_LBIO02": {
+      "apartados": [
+        "3.4.1.4"
+      ],
+      "motivo": "Respiración celular y etapas metabólicas."
+    },
+    "D_LBIO03": {
+      "apartados": [
+        "3.4.2.7"
+      ],
+      "motivo": "Características y ejemplos de plantas."
+    },
+    "D_LBIO04": {
+      "apartados": [
+        "3.4.2.6"
+      ],
+      "motivo": "Órganos y funciones del cuerpo humano."
+    },
+    "D_LBIO05": {
+      "apartados": [
+        "3.4.2.3"
+      ],
+      "motivo": "Herencia ligada al sexo y mutaciones; mencionar a Mendel no demuestra aplicación de sus leyes."
+    },
+    "D_LLEN01": {
+      "apartados": [
+        "3.5.2.2"
+      ],
+      "motivo": "Prefijos y sufijos."
+    },
+    "D_LLEN02": {
+      "apartados": [
+        "3.5.4.2"
+      ],
+      "motivo": "Métrica y sílabas poéticas."
+    },
+    "D_LLEN03": {
+      "apartados": [
+        "3.5.2.2"
+      ],
+      "motivo": "Vicios de dicción."
+    },
+    "D_LLEN04": {
+      "apartados": [
+        "3.5.3.1"
+      ],
+      "motivo": "Clasificar autores y obras por época literaria."
+    },
+    "D_LLEN05": {
+      "apartados": [
+        "1.1.6"
+      ],
+      "motivo": "Análisis sintáctico de una oración: correspondencia directa con sintaxis; no se asume análisis morfosintáctico de un poema."
+    },
+    "D_LQUI01": {
+      "apartados": [
+        "3.6.2.4"
+      ],
+      "motivo": "Fórmula y nomenclatura de un hidrocarburo."
+    },
+    "D_LQUI02": {
+      "apartados": [
+        "3.6.1.5"
+      ],
+      "motivo": "Clasificación de compuestos inorgánicos por función; no toda la nomenclatura."
+    },
+    "D_LQUI03": {
+      "apartados": [
+        "3.6.1.4"
+      ],
+      "motivo": "Enlaces interatómicos."
+    },
+    "D_LQUI04": {
+      "apartados": [
+        "3.6.2.1"
+      ],
+      "motivo": "Conversión de gramos a moles de agua."
+    },
+    "D_LQUI05": {
+      "apartados": [
+        "3.6.2.3"
+      ],
+      "motivo": "pH y carácter ácido/básico."
+    },
+    "D_LSOC01": {
+      "apartados": [
+        "3.7.1.3"
+      ],
+      "motivo": "Teorías comprensiva y crítica."
+    },
+    "D_LSOC02": {
+      "apartados": [
+        "3.7.2.3"
+      ],
+      "motivo": "Horizontes culturales de Mesoamérica."
+    },
+    "D_LSOC03": {
+      "apartados": [
+        "3.7.3.1",
+        "3.7.3.2",
+        "3.7.3.3"
+      ],
+      "motivo": "Proyectos de nación, venta de territorio por Santa Anna y ascenso de Porfirio Díaz."
+    },
+    "D_LSOC04": {
+      "apartados": [
+        "3.7.3.5",
+        "3.7.3.6",
+        "3.7.3.7"
+      ],
+      "motivo": "Presidentes y acontecimientos del siglo XX."
+    },
+    "D_LSOC05": {
+      "apartados": [
+        "3.7.4.3",
+        "3.7.4.4",
+        "3.7.4.5"
+      ],
+      "motivo": "Cronología desde la Segunda Guerra Mundial hasta la posguerra fría."
+    },
+    "D_LHUM01": {
+      "apartados": [
+        "3.8.1.1"
+      ],
+      "motivo": "Disciplinas filosóficas."
+    },
+    "D_LHUM02": {
+      "apartados": [
+        "3.8.2.3"
+      ],
+      "motivo": "Naturalismo, formalismo y concepciones de la vida buena."
+    },
+    "D_LHUM03": {
+      "apartados": [
+        "3.8.3.2"
+      ],
+      "motivo": "Un filósofo presocrático."
+    },
+    "D_LHUM04": {
+      "apartados": [
+        "3.8.3.2",
+        "3.8.3.3",
+        "3.8.3.4"
+      ],
+      "motivo": "Aristóteles, Lutero, Descartes y Vattimo: ubicación cronológica y rasgos."
+    },
+    "D_LHUM05": {
+      "apartados": [
+        "3.8.4.5",
+        "3.8.4.6",
+        "3.8.4.7"
+      ],
+      "motivo": "Reconocer problema, marco metodológico, marco teórico y análisis de resultados; no elaborarlos."
+    }
+  }
+}

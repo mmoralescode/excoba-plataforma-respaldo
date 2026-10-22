@@ -1,0 +1,1448 @@
+{
+  "version": 1,
+  "verifiedAt": "2026-09-10",
+  "sources": {
+    "uaq-2026-1": {
+      "title": "Anexo I. Programas educativos de la UAQ 2026-1",
+      "url": null,
+      "providedFileName": "Instructivo EXCOBA-UAQ-Licenciatura.pdf",
+      "sha256": "8b42cf9d7da651810ddc87f8bb7b866368a737750f15c64c56e23d68f03d3652",
+      "pages": [17, 18],
+      "pdfPageOffset": 2,
+      "optionCount": 49
+    },
+    "uaq-2026-2": {
+      "title": "Anexo I. Programas educativos de la UAQ 2026-2",
+      "url": "https://dsa.uaq.mx/convocatorias/Convocatoria-2026/Instructivo_EXCOBA-UAQ-Licenciatura_2026-2.pdf",
+      "sha256": "3056ba510f67dc0d9899189ef80b22f4a28b5527066714ded412bae4c364bff9",
+      "pages": [17, 18, 19, 20],
+      "pdfPageOffset": 2,
+      "optionCount": 118
+    },
+    "uaq-2025-2": {
+      "title": "Anexo I. Programas educativos de la UAQ 2025-2",
+      "url": "https://dsa.uaq.mx/convocatorias/Convocatoria-2025-2/Instructivo-EXCOBA-UAQ-Licenciatura.pdf",
+      "sha256": "554c048e2185973e0394ce87da8f5577eb8175c051f70237086ebc492b7bb3c8",
+      "pages": [18, 20],
+      "pdfPageOffset": 2,
+      "usedOptionCount": 2,
+      "note": "Fuente complementaria para dos programas no incluidos en los Anexos I 2026-1 y 2026-2; no establece convocatoria abierta."
+    }
+  },
+  "groups": {
+    "estadistica-biologia-quimica": {
+      "subjectIds": ["3.1", "3.4", "3.6"],
+      "names": ["Matemáticas para estadística", "Biología", "Química"]
+    },
+    "fisica-biologia-quimica": {
+      "subjectIds": ["3.3", "3.4", "3.6"],
+      "names": ["Física", "Biología", "Química"]
+    },
+    "calculo-fisica-quimica": {
+      "subjectIds": ["3.2", "3.3", "3.6"],
+      "names": ["Matemáticas para cálculo", "Física", "Química"]
+    },
+    "calculo-fisica-lenguaje": {
+      "subjectIds": ["3.2", "3.3", "3.5"],
+      "names": ["Matemáticas para cálculo", "Física", "Lenguaje"]
+    },
+    "estadistica-lenguaje-humanidades": {
+      "subjectIds": ["3.1", "3.5", "3.8"],
+      "names": ["Matemáticas para estadística", "Lenguaje", "Humanidades"]
+    },
+    "estadistica-sociales-lenguaje": {
+      "subjectIds": ["3.1", "3.7", "3.5"],
+      "names": ["Matemáticas para estadística", "Ciencias sociales", "Lenguaje"]
+    }
+  },
+  "careers": {
+    "uaq-2026-2-001": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 1,
+      "groupId": "estadistica-biologia-quimica",
+      "sourceName": "GASTRONOMÍA (QRO)",
+      "aliases": ["GASTRONOMÍA (QRO)"],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-002": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 2,
+      "groupId": "estadistica-biologia-quimica",
+      "sourceName": "GEOGRAFÍA AMBIENTAL (QRO)",
+      "aliases": ["GEOGRAFÍA AMBIENTAL (QRO)"],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-01": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 3,
+      "groupId": "estadistica-biologia-quimica",
+      "sourceName": "MEDICINA GENERAL (QRO)",
+      "aliases": ["MEDICINA GENERAL (QRO)"],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 1,
+        "sourceName": "MEDICINA GENERAL (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-02": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 4,
+      "groupId": "estadistica-biologia-quimica",
+      "sourceName": "ODONTOLOGÍA (QRO)",
+      "aliases": ["ODONTOLOGÍA (QRO)", "ODONTOLOGÍA (QUERÉTARO)"],
+      "nameSourceUrls": [
+        "https://www.uaq.mx/index.php/conocenos/h-consejo-universitario/acuerdos-consejo/acuerdos-de-consejo-2025/2236-ordinaria-30-octubre-2025"
+      ],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 2,
+        "sourceName": "ODONTOLOGÍA (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-005": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 5,
+      "groupId": "estadistica-biologia-quimica",
+      "sourceName": "OPTOMETRÍA (QRO)",
+      "aliases": ["OPTOMETRÍA (QRO)"],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-006": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 6,
+      "groupId": "estadistica-biologia-quimica",
+      "sourceName": "TÉCNICO SUPERIOR EN MEDICINA PREHOSPITALARIA INTEGRAL (QRO)",
+      "aliases": ["TÉCNICO SUPERIOR EN MEDICINA PREHOSPITALARIA INTEGRAL (QRO)"],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-007": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 7,
+      "groupId": "estadistica-biologia-quimica",
+      "sourceName": "TÉCNICO SUPERIOR EN PRÓTESIS DENTAL (QRO)",
+      "aliases": ["TÉCNICO SUPERIOR EN PRÓTESIS DENTAL (QRO)"],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-04": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 8,
+      "groupId": "fisica-biologia-quimica",
+      "sourceName": "BIOLOGÍA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 4,
+        "sourceName": "BIOLOGÍA (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-05": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 9,
+      "groupId": "fisica-biologia-quimica",
+      "sourceName": "EDUCACIÓN FÍSICA Y CIENCIAS DEL DEPORTE (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 5,
+        "sourceName": "EDUCACIÓN FÍSICA Y CIENCIAS DEL DEPORTE (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-010": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 10,
+      "groupId": "fisica-biologia-quimica",
+      "sourceName": "ENFERMERÍA (LICENCIATURA) (JALPAN)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-06": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 11,
+      "groupId": "fisica-biologia-quimica",
+      "sourceName": "ENFERMERÍA (LICENCIATURA) (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 6,
+        "sourceName": "ENFERMERÍA (LICENCIATURA) (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-07": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 12,
+      "groupId": "fisica-biologia-quimica",
+      "sourceName": "ENFERMERÍA (LICENCIATURA) (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 7,
+        "sourceName": "ENFERMERÍA (LICENCIATURA) (SAN JUAN DEL RÍO)"
+      }
+    },
+    "uaq-2026-1-08": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 13,
+      "groupId": "fisica-biologia-quimica",
+      "sourceName": "ENFERMERÍA POR NIVELACIÓN (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 8,
+        "sourceName": "ENFERMERÍA POR NIVELACIÓN (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-09": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 14,
+      "groupId": "fisica-biologia-quimica",
+      "sourceName": "FISIOTERAPIA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 9,
+        "sourceName": "FISIOTERAPIA (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-015": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 15,
+      "groupId": "fisica-biologia-quimica",
+      "sourceName": "HORTICULTURAL AMBIENTAL (QUERÉTARO)",
+      "aliases": ["HORTICULTURAL AMBIENTAL (QUERÉTARO)"],
+      "nameSourceUrls": ["https://www.uaq.mx/docs/Admision_Licenciaturas_UAQ_2026-2.pdf"]
+    },
+    "uaq-2026-1-10": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 16,
+      "groupId": "fisica-biologia-quimica",
+      "sourceName": "MEDICINA VETERINARIA Y ZOOTECNIA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 10,
+        "sourceName": "MEDICINA VETERINARIA Y ZOOTECNIA (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-017": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 17,
+      "groupId": "fisica-biologia-quimica",
+      "sourceName": "MICROBIOLOGÍA",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-11": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 18,
+      "groupId": "fisica-biologia-quimica",
+      "sourceName": "NUTRICIÓN (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 11,
+        "sourceName": "NUTRICIÓN (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-019": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 19,
+      "groupId": "fisica-biologia-quimica",
+      "sourceName": "PRODUCCIÓN AGROPECUARIA SUSTENTABLE (CONCÁ)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-020": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 20,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "ACTUARIO (QUERÉTARO)",
+      "aliases": ["ACTUARIO (QUERÉTARO)"],
+      "nameSourceUrls": ["https://www.uaq.mx/docs/Admision_Licenciaturas_UAQ_2026-2.pdf"]
+    },
+    "uaq-2026-2-021": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 21,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "ADMINISTRACIÓN DE TECNOLOGÍA DE LA INFORMACIÓN (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-022": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 22,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "INFORMÁTICA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-13": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 23,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "INGENIERÍA DE SOFTWARE (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 13,
+        "sourceName": "INGENIERÍA DE SOFTWARE (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-12": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 24,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "INGENIERÍA EN AGROBIOTECNOLOGÍA (ESCOBEDO)",
+      "aliases": ["INGENIERÍA EN AGROBIOTECNOLOGÍA (ESCOBEDO)", "INGENIERO EN AGROBIOTECNOLOGÍA"],
+      "nameSourceUrls": ["https://campus.uaq.mx/index.php/conocenos-pedro-escobedo"],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 12,
+        "sourceName": "INGENIERO EN AGROBIOTECNOLOGÍA"
+      }
+    },
+    "uaq-2026-2-025": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 25,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "INGENIERÍA EN CIENCIA Y ANALÍTICA DE DATOS (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-026": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 26,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "INGENIERÍA EN COMPUTACIÓN (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-14": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 27,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "INGENIERÍA EN TECNOLOGÍAS INTELIGENTES INDUSTRIALES (SAN JUAN REL RÍO)",
+      "aliases": ["INGENIERÍA EN TECNOLOGÍAS INTELIGENTES INDUSTRIALES (SAN JUAN REL RÍO)"],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 14,
+        "sourceName": "INGENIERÍA EN TECNOLOGÍAS INTELIGENTES INDUSTRIALES (SAN JUAN DEL RÍO)"
+      }
+    },
+    "uaq-2026-2-028": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 28,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "INGENIERÍA EN TELECOMUNICACIONES Y REDES (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-029": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 29,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "INGENIERO EN BIOTECNOLOGÍA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-030": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 30,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "INGENIERO QUÍMICO (PEDRO ESCOBEDO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-031": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 31,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "INGENIERO QUÍMICO AMBIENTAL (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-032": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 32,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "INGENIERO QUÍMICO EN ALIMENTOS (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-033": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 33,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "INGENIERO QUÍMICO EN MATERIALES (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-15": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 34,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "QUÍMICO FARMACÉUTICO BIÓLOGO",
+      "aliases": ["QUÍMICO FARMACÉUTICO BIÓLOGO"],
+      "nameSourceUrls": ["https://www.uaq.mx/docs/Admision_Licenciaturas_UAQ_2026-2.pdf"],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 15,
+        "sourceName": "QUÍMICO FARMACÉUTICO BIÓLOGO (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-035": {
+      "sourceId": "uaq-2026-2",
+      "page": 17,
+      "row": 35,
+      "groupId": "calculo-fisica-quimica",
+      "sourceName": "TECNOLOGÍAS DE INFORMACIÓN Y CIBERSEGURIDAD (COLÓN)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-16": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 1,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "ANIMACIÓN DIGITAL Y MEDIOS INTERACTIVOS (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 16,
+        "sourceName": "ANIMACIÓN DIGITAL Y MEDIOS INTERACTIVOS (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-17": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 2,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "ARQUITECTURA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 17,
+        "sourceName": "ARQUITECTURA (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-18": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 3,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "ARQUITECTURA (TEQUISQUIAPAN)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 18,
+        "sourceName": "ARQUITECTURA (TEQUISQUIAPAN)"
+      }
+    },
+    "uaq-2026-1-19": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 4,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "DISEÑO INDUSTRIAL (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 19,
+        "sourceName": "DISEÑO INDUSTRIAL (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-20": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 5,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "DISEÑO INDUSTRIAL (TEQUISQUIAPAN)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 20,
+        "sourceName": "DISEÑO INDUSTRIAL (TEQUISQUIAPAN)"
+      }
+    },
+    "uaq-2026-1-21": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 6,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA AGROINDUSTRIAL (AMAZCALA)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 21,
+        "sourceName": "INGENIERÍA AGROINDUSTRIAL (AMAZCALA)"
+      }
+    },
+    "uaq-2026-1-22": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 7,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA AGROINDUSTRIAL (AMEALCO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 22,
+        "sourceName": "INGENIERÍA AGROINDUSTRIAL (AMEALCO)"
+      }
+    },
+    "uaq-2026-1-23": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 8,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA AGROINDUSTRIAL (CONCÁ)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 23,
+        "sourceName": "INGENIERÍA AGROINDUSTRIAL (CONCÁ)"
+      }
+    },
+    "uaq-2026-1-24": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 9,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA BIOMÉDICA (QUERÉTARO-AEROPUERTO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 24,
+        "sourceName": "INGENIERÍA BIOMÉDICA (QUERÉTARO-AEROPUERTO)"
+      }
+    },
+    "uaq-2026-1-25": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 10,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA CIVIL (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 25,
+        "sourceName": "INGENIERÍA CIVIL (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-26": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 11,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA CIVIL (SAN JUAN DEL RÍO) (TRONCO COMÚN)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 26,
+        "sourceName": "INGENIERÍA CIVIL (SAN JUAN DEL RÍO) (TRONCO COMÚN)"
+      }
+    },
+    "uaq-2026-1-27": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 12,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA ELECTROMECÁNICA (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 27,
+        "sourceName": "INGENIERÍA ELECTROMECÁNICA (SAN JUAN DEL RÍO)"
+      }
+    },
+    "uaq-2026-1-28": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 13,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA EN AUTOMATIZACIÓN (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 28,
+        "sourceName": "INGENIERÍA EN AUTOMATIZACIÓN (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-29": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 14,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA EN AUTOMATIZACIÓN (SAN JUAN DEL RÍO) (TRONCO COMÚN)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 29,
+        "sourceName": "INGENIERÍA EN AUTOMATIZACIÓN (SAN JUAN DEL RÍO) (TRONCO COMÚN)"
+      }
+    },
+    "uaq-2026-1-30": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 15,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA EN NANOTECNOLOGÍA (QUERÉTARO-AEROPUERTO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 30,
+        "sourceName": "INGENIERÍA EN NANOTECNOLOGÍA (QUERÉTARO-AEROPUERTO)"
+      }
+    },
+    "uaq-2026-1-31": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 16,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA FÍSICA (QUERÉTARO-AEROPUERTO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 31,
+        "sourceName": "INGENIERÍA FÍSICA (QUERÉTARO-AEROPUERTO)"
+      }
+    },
+    "uaq-2026-1-32": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 17,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA INDUSTRIAL Y DE MANUFACTURA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 32,
+        "sourceName": "INGENIERÍA INDUSTRIAL Y DE MANUFACTURA (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-33": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 18,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA INDUSTRIAL Y DE MANUFACTURA (SAN JUAN DEL RÍO) (TRONCO COMÚN)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 33,
+        "sourceName": "INGENIERÍA INDUSTRIAL Y DE MANUFACTURA (SAN JUAN DEL RÍO) (TRONCO COMÚN)"
+      }
+    },
+    "uaq-2026-1-34": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 19,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "INGENIERÍA MECÁNICA Y AUTOMOTRIZ (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 34,
+        "sourceName": "INGENIERÍA MECÁNICA Y AUTOMOTRIZ (SAN JUAN DEL RÍO)"
+      }
+    },
+    "uaq-2026-1-35": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 20,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "MATEMÁTICAS APLICADAS (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 17,
+        "row": 35,
+        "sourceName": "MATEMÁTICAS APLICADAS (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-056": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 21,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ACTUACIÓN (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-057": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 22,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ADMINISTRACIÓN (AMEALCO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-058": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 23,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ADMINISTRACIÓN (CADEREYTA)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-059": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 24,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ADMINISTRACIÓN (JALPAN)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-36": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 25,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ADMINISTRACIÓN (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 18,
+        "row": 1,
+        "sourceName": "ADMINISTRACIÓN (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-37": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 26,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ADMINISTRACIÓN (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 18,
+        "row": 2,
+        "sourceName": "ADMINISTRACIÓN (SAN JUAN DEL RÍO)"
+      }
+    },
+    "uaq-2026-1-38": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 27,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ADMINISTRACIÓN FINANCIERA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 18,
+        "row": 3,
+        "sourceName": "ADMINISTRACIÓN FINANCIERA (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-063": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 28,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ADMINISTRACIÓN FINANCIERA (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-39": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 29,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ADMINISTRACIÓN VIRTUAL (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 18,
+        "row": 4,
+        "sourceName": "ADMINISTRACIÓN VIRTUAL (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-065": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 30,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ANTROPOLOGÍA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-066": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 31,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ARTE DANZARIO (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-40": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 32,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ARTES VISUALES ARTES PLÁSTICAS (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 18,
+        "row": 5,
+        "sourceName": "ARTES VISUALES ARTES PLÁSTICAS (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-068": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 33,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ARTES VISUALES ARTES PLÁSTICAS (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-069": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 34,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "CIENCIAS DE LA SEGURIDAD (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-070": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 35,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "CIENCIAS POLÍTICAS Y ADMINISTRACIÓN PÚBLICA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-071": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 36,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "COMPOSICIÓN MUSICAL PARA MEDIOS AUDIOVISUALES Y ESCÉNICOS (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-072": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 37,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "COMUNICACIÓN Y PERIODISMO (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-073": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 38,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "COMUNICACIÓN Y PERIODISMO (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-074": {
+      "sourceId": "uaq-2026-2",
+      "page": 18,
+      "row": 39,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "CONTADOR PÚBLICO (AMEALCO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-075": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 1,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "CONTADOR PÚBLICO (CADEREYTA)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-076": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 2,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "CONTADOR PÚBLICO (JALPAN)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-41": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 3,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "CONTADOR PÚBLICO (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 18,
+        "row": 6,
+        "sourceName": "CONTADOR PÚBLICO (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-42": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 4,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "CONTADOR PÚBLICO (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 18,
+        "row": 7,
+        "sourceName": "CONTADOR PÚBLICO (SAN JUAN DEL RÍO)"
+      }
+    },
+    "uaq-2026-1-43": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 5,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "CONTADOR PÚBLICO VIRTUAL (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 18,
+        "row": 8,
+        "sourceName": "CONTADOR PÚBLICO VIRTUAL (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-080": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 6,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "CRIMINOLOGÍA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-081": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 7,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "CRIMINOLOGÍA (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-082": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 8,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "DANZA FOLKLÓRICA MEXICANA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-083": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 9,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "DERECHO (AMEALCO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-084": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 10,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "DERECHO (CADEREYTA)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-085": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 11,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "DERECHO (JALPAN)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-44": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 12,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "DERECHO (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 18,
+        "row": 9,
+        "sourceName": "DERECHO (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-1-45": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 13,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "DERECHO (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 18,
+        "row": 10,
+        "sourceName": "DERECHO (SAN JUAN DEL RÍO)"
+      }
+    },
+    "uaq-2026-2-088": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 14,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "DESARROLLO LOCAL (AMEALCO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-46": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 15,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "DISEÑO Y COMUNICACIÓN VISUAL (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 18,
+        "row": 11,
+        "sourceName": "DISEÑO Y COMUNICACIÓN VISUAL (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-090": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 16,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "DISEÑO Y COMUNICACIÓN VISUAL (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-47": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 17,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "DOCENCIA DE LAS ARTES (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 18,
+        "row": 12,
+        "sourceName": "DOCENCIA DE LAS ARTES (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-092": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 18,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "DOCENCIA DE LAS ARTES (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-093": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 19,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ECONOMÍA EMPRESARIAL (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-094": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 20,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "ESTUDIOS LITERARIOS (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-095": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 21,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "FILOSOFÍA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-096": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 22,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "GESTIÓN DEL TURISMO CULTURAL Y NATURAL (TEQ)",
+      "aliases": ["GESTIÓN DEL TURISMO CULTURAL Y NATURAL (TEQ)"],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-097": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 23,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "GESTIÓN PÚBLICA Y GOBIERNO (CADEREYTA)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-098": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 24,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "GESTIÓN Y DESARROLLO DE EMPRESAS SOCIALES (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-099": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 25,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "HISTORIA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-100": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 26,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "HUMANIDADES Y PRODUCCIÓN DE IMÁGENES (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-101": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 27,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "INNOVACIÓN Y GESTIÓN EDUCATIVA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-102": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 28,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "LENGUAS MODERNAS EN ESPAÑOL (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-103": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 29,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "LENGUAS MODERNAS EN FRANCÉS (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-104": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 30,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "LENGUAS MODERNAS EN INGLÉS (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-105": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 31,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "MÚSICA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-106": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 32,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "MÚSICA POPULAR CONTEMPORÁNEA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-107": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 33,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "MÚSICA POPULAR CONTEMPORÁNEA (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-108": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 34,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "NEGOCIOS TURÍSTICOS (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-109": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 35,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "NEGOCIOS TURÍSTICOS (TEQ)",
+      "aliases": ["NEGOCIOS TURÍSTICOS (TEQ)"],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-1-49": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 36,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "NEGOCIOS Y COMERCIO INTERNACIONAL (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "previousSource": {
+        "sourceId": "uaq-2026-1",
+        "page": 18,
+        "row": 14,
+        "sourceName": "NEGOCIOS Y COMERCIO INTERNACIONAL (QUERÉTARO)"
+      }
+    },
+    "uaq-2026-2-111": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 37,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "NEGOCIOS Y COMERCIO INTERNACIONAL (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-112": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 38,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "PROFESIONAL ASOCIADO EN LA ENSEÑANZA DE LENGUAS (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-113": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 39,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "PSICOLOGÍA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-114": {
+      "sourceId": "uaq-2026-2",
+      "page": 19,
+      "row": 40,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "PSICOLOGÍA (SAN JUAN DEL RÍO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-115": {
+      "sourceId": "uaq-2026-2",
+      "page": 20,
+      "row": 1,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "RELACIONES INTERNACIONALES (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-116": {
+      "sourceId": "uaq-2026-2",
+      "page": 20,
+      "row": 2,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "RESTAURACIÓN DE BIENES MUEBLES (QRO)",
+      "aliases": ["RESTAURACIÓN DE BIENES MUEBLES (QRO)"],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-117": {
+      "sourceId": "uaq-2026-2",
+      "page": 20,
+      "row": 3,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "SOCIOLOGÍA (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": []
+    },
+    "uaq-2026-2-118": {
+      "sourceId": "uaq-2026-2",
+      "page": 20,
+      "row": 4,
+      "groupId": "estadistica-sociales-lenguaje",
+      "sourceName": "DESARROLLO HUMANO PARA LA SUSTENTABILIDAD (QUERÉTARO)",
+      "aliases": ["DESARROLLO HUMANO PARA LA SUSTENTABILIDAD (QUERÉTARO)"],
+      "nameSourceUrls": [
+        "https://www.uaq.mx/index.php/conocenos/h-consejo-universitario/acuerdos-consejo/acuerdos-de-consejo-2026/2264-ordinaria-25-junio-2026"
+      ]
+    },
+    "uaq-2026-1-03": {
+      "sourceId": "uaq-2026-1",
+      "page": 17,
+      "row": 3,
+      "groupId": "estadistica-biologia-quimica",
+      "sourceName": "TSU EN MANEJO DE ALIMENTOS Y CULTURA DEL VINO (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "note": "Conservado del Anexo I 2026-1; no figura en el Anexo I 2026-2."
+    },
+    "uaq-2026-1-48": {
+      "sourceId": "uaq-2026-1",
+      "page": 18,
+      "row": 13,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "EDUCACIÓN Y MEDIACIÓN INTERCULTURAL (QUERÉTARO)",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "note": "Conservado del Anexo I 2026-1; no figura en el Anexo I 2026-2."
+    },
+    "uaq-2025-2-construccion-sostenible-pinal-de-amoles": {
+      "sourceId": "uaq-2025-2",
+      "page": 18,
+      "row": 21,
+      "groupId": "calculo-fisica-lenguaje",
+      "sourceName": "TSU EN CONSTRUCCIÓN SOSTENIBLE (PINAL DE AMOLES)",
+      "aliases": ["TÉCNICO SUPERIOR UNIVERSITARIO EN CONSTRUCCIÓN SOSTENIBLE (PINAL DE AMOLES)"],
+      "nameSourceUrls": [],
+      "note": "Materias documentadas en el Anexo I 2025-2; el programa no figura en los Anexos I 2026-1 y 2026-2."
+    },
+    "uaq-2025-2-realizacion-cinematografica": {
+      "sourceId": "uaq-2025-2",
+      "page": 20,
+      "row": 1,
+      "groupId": "estadistica-lenguaje-humanidades",
+      "sourceName": "REALIZACIÓN CINEMATOGRÁFICA",
+      "aliases": [],
+      "nameSourceUrls": [],
+      "note": "Materias documentadas en el Anexo I 2025-2; el programa no figura en los Anexos I 2026-1 y 2026-2."
+    }
+  }
+}

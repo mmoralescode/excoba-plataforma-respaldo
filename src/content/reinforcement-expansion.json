@@ -1,0 +1,1117 @@
+[
+  {
+    "id": "uaq26-reinforce-v5-001",
+    "topicId": "1.1.2",
+    "demoId": "",
+    "text": "Lee: «El reportaje describe cómo tres escuelas instalaron huertos para aprender ciencias y mejorar su alimentación». ¿Cuál es la idea principal?",
+    "options": [
+      "El uso educativo y alimentario de huertos escolares",
+      "La venta de automóviles en la ciudad",
+      "La biografía de una sola maestra",
+      "El precio de todos los terrenos"
+    ],
+    "correctIndex": 0,
+    "explanation": "El enunciado relaciona los huertos con aprender ciencias y mejorar la alimentación; esos elementos concentran su idea central.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-002",
+    "topicId": "1.1.2",
+    "demoId": "",
+    "text": "Para investigar la falta de árboles en un barrio, ¿qué fuente aporta evidencia directa al reportaje?",
+    "options": [
+      "Una historia ficticia sobre un bosque mágico",
+      "Un registro de campo con conteos y fotografías fechadas",
+      "Una opinión anónima sin datos",
+      "Un anuncio de zapatos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un registro de campo documenta observaciones verificables y pertinentes al asunto investigado.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-003",
+    "topicId": "1.1.3",
+    "demoId": "",
+    "text": "¿Qué frase sería más adecuada para divulgar la evaporación a lectores de primaria?",
+    "options": [
+      "La cinética molecular exige aquí una modelación estadística avanzada",
+      "El agua desaparece sin convertirse en nada",
+      "Parte del agua líquida pasa al aire en forma de vapor",
+      "La evaporación ocurre solo por magia"
+    ],
+    "correctIndex": 2,
+    "explanation": "La divulgación adapta el lenguaje sin perder precisión: el agua cambia a estado gaseoso, no desaparece.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-004",
+    "topicId": "1.1.4",
+    "demoId": "",
+    "text": "¿Qué pregunta es abierta?",
+    "options": [
+      "¿Tu edad es 10, 11 o 12 años?",
+      "¿Asistes por la mañana: sí o no?",
+      "Elige A, B o C",
+      "¿Cómo propones mejorar el patio de tu escuela?"
+    ],
+    "correctIndex": 3,
+    "explanation": "La pregunta abierta permite elaborar una respuesta propia; las otras limitan la respuesta a opciones dadas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-005",
+    "topicId": "1.1.4",
+    "demoId": "",
+    "text": "¿Qué problema tiene preguntar «¿Por qué nuestra excelente cafetería es la mejor?» en una encuesta?",
+    "options": [
+      "Induce una valoración positiva antes de responder",
+      "Ofrece opciones neutrales",
+      "Permite medir masa en kilogramos",
+      "Evita cualquier sesgo por completo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Calificar la cafetería como excelente y la mejor presupone una opinión y puede sesgar las respuestas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-006",
+    "topicId": "1.1.5",
+    "demoId": "",
+    "text": "¿Cuál palabra es esdrújula?",
+    "options": ["Reloj", "Brújula", "Papel", "Camino"],
+    "correctIndex": 1,
+    "explanation": "Brújula tiene la sílaba tónica en la antepenúltima posición; las esdrújulas llevan tilde.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-007",
+    "topicId": "1.1.5",
+    "demoId": "",
+    "text": "¿Qué oración usa coma para separar un vocativo?",
+    "options": [
+      "María trae, tu cuaderno",
+      "María trae tu, cuaderno",
+      "María, trae tu cuaderno",
+      "María trae tu cuaderno, azul"
+    ],
+    "correctIndex": 2,
+    "explanation": "María nombra a la persona a quien se dirige la petición; el vocativo se separa mediante coma.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-008",
+    "topicId": "1.1.6",
+    "demoId": "",
+    "text": "¿Cuál es el sujeto de «Las alumnas prepararon una exposición»?",
+    "options": ["Prepararon", "Una exposición", "Exposición", "Las alumnas"],
+    "correctIndex": 3,
+    "explanation": "Las alumnas concuerda con prepararon y designa a quienes realizan la acción.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-009",
+    "topicId": "1.1.6",
+    "demoId": "",
+    "text": "¿Qué oración tiene concordancia correcta?",
+    "options": [
+      "Los libros nuevos están en la mesa",
+      "Los libro nuevos está en la mesa",
+      "La libros nuevo están en la mesa",
+      "Los libros nueva está en la mesa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Artículo, sustantivo y adjetivo coinciden en masculino plural, y el verbo concuerda con el sujeto plural.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-010",
+    "topicId": "1.1.7",
+    "demoId": "",
+    "text": "En «Después de caminar por el desierto, el agua era escasa», ¿qué significa escasa?",
+    "options": [
+      "Muy ruidosa",
+      "Insuficiente o poco abundante",
+      "Completamente sólida",
+      "De color oscuro"
+    ],
+    "correctIndex": 1,
+    "explanation": "El contexto alude a poca disponibilidad de agua; escasa significa poco abundante.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-011",
+    "topicId": "1.1.8",
+    "demoId": "",
+    "text": "En un cuento, una niña presta su abrigo a alguien con frío. ¿Qué rasgo permite inferir esa acción?",
+    "options": ["Crueldad", "Avaricia", "Solidaridad", "Indiferencia"],
+    "correctIndex": 2,
+    "explanation": "La acción muestra disposición a ayudar a otra persona, lo que permite inferir solidaridad sin que el narrador la nombre.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-012",
+    "topicId": "1.1.9",
+    "demoId": "",
+    "text": "¿Qué orden permite preparar una infusión con seguridad siguiendo un instructivo?",
+    "options": [
+      "Beber primero y calentar después",
+      "Retirar una bolsita que aún no se colocó",
+      "Servir sin tener agua",
+      "Calentar agua, colocar la bolsita, dejar reposar y retirar la bolsita"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los pasos deben respetar dependencias temporales: disponer de agua caliente antes de la infusión y reposar antes de retirarla.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-013",
+    "topicId": "1.1.10",
+    "demoId": "",
+    "text": "En un periódico escolar, ¿en qué sección ubicarías el resultado del torneo de voleibol?",
+    "options": ["Deportes", "Recetas", "Avisos de objetos perdidos", "Pronóstico del tiempo"],
+    "correctIndex": 0,
+    "explanation": "El tema es una competencia deportiva; clasificarlo por contenido facilita encontrar la información.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-014",
+    "topicId": "1.2.6",
+    "demoId": "",
+    "text": "¿Cuántos mililitros hay en 1.75 litros?",
+    "options": ["175 mL", "1750 mL", "17.5 mL", "17500 mL"],
+    "correctIndex": 1,
+    "explanation": "Un litro equivale a 1000 mL; 1.75 × 1000 = 1750 mL.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-015",
+    "topicId": "1.2.7",
+    "demoId": "",
+    "text": "Si 3 libretas cuestan 45 pesos, ¿cuánto cuestan 7 al mismo precio unitario?",
+    "options": ["90 pesos", "315 pesos", "105 pesos", "52 pesos"],
+    "correctIndex": 2,
+    "explanation": "Cada libreta cuesta 45/3 = 15 pesos; siete cuestan 7 × 15 = 105 pesos.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-016",
+    "topicId": "1.2.8",
+    "demoId": "",
+    "text": "Al lanzar un dado equilibrado de seis caras, ¿cuál es la probabilidad de obtener un número mayor que 4?",
+    "options": ["1/6", "2/3", "1/2", "1/3"],
+    "correctIndex": 3,
+    "explanation": "Los resultados favorables son 5 y 6: 2 de 6 posibilidades, es decir 1/3.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-017",
+    "topicId": "1.2.9",
+    "demoId": "",
+    "text": "Una tabla registra 8 bicicletas, 5 automóviles y 7 motocicletas. ¿Cuántos vehículos se contaron en total?",
+    "options": ["20", "15", "13", "18"],
+    "correctIndex": 0,
+    "explanation": "Para obtener el total se suman las tres categorías: 8 + 5 + 7 = 20.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-018",
+    "topicId": "2.1.1",
+    "demoId": "",
+    "text": "¿Cuál oración presenta un hecho verificable y no una valoración?",
+    "options": [
+      "La biblioteca es el lugar más hermoso del mundo",
+      "La biblioteca abrió a las ocho de la mañana",
+      "Ese horario es el peor imaginable",
+      "Leer ahí es absolutamente maravilloso"
+    ],
+    "correctIndex": 1,
+    "explanation": "La hora de apertura puede comprobarse; las otras frases expresan valoraciones subjetivas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-019",
+    "topicId": "2.1.1",
+    "demoId": "",
+    "text": "Un anuncio afirma «Todo el mundo usa este producto; tú también debes hacerlo». ¿Qué recurso persuasivo emplea?",
+    "options": [
+      "Demostración experimental controlada",
+      "Cita bibliográfica completa",
+      "Apelación a la popularidad",
+      "Definición matemática"
+    ],
+    "correctIndex": 2,
+    "explanation": "Se busca persuadir mediante la supuesta conducta de la mayoría, sin demostrar la calidad del producto.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-020",
+    "topicId": "2.1.1",
+    "demoId": "",
+    "text": "¿Qué dato permite identificar la fuente de una noticia digital?",
+    "options": [
+      "Solo el número de emojis",
+      "El color del fondo",
+      "La cantidad de signos de admiración",
+      "Nombre del medio, autor y fecha de publicación"
+    ],
+    "correctIndex": 3,
+    "explanation": "Autoría, medio y fecha ayudan a rastrear la procedencia y evaluar el contexto de la información.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-021",
+    "topicId": "2.1.2",
+    "demoId": "",
+    "text": "Lee: «Las abejas contribuyen a la polinización. Al visitar flores transportan polen y favorecen la reproducción de muchas plantas». ¿Cuál es la oración temática?",
+    "options": [
+      "Las abejas contribuyen a la polinización",
+      "Todas las flores tienen el mismo color",
+      "Las abejas no se desplazan",
+      "El polen es un tipo de roca"
+    ],
+    "correctIndex": 0,
+    "explanation": "La primera oración expresa la idea general que la segunda desarrolla y explica.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-022",
+    "topicId": "2.1.2",
+    "demoId": "",
+    "text": "¿Qué recurso gráfico muestra relaciones jerárquicas entre conceptos?",
+    "options": [
+      "Fotografía decorativa sin rótulos",
+      "Mapa conceptual organizado de lo general a lo particular",
+      "Anuncio publicitario sin texto",
+      "Lista aleatoria de números"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un mapa conceptual puede representar conceptos y conexiones jerarquizadas para organizar información.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-023",
+    "topicId": "2.1.2",
+    "demoId": "",
+    "text": "¿Qué expresión introduce una idea de mayor importancia?",
+    "options": ["Por casualidad", "Ayer por la tarde", "Sobre todo", "Tal vez"],
+    "correctIndex": 2,
+    "explanation": "Sobre todo destaca un aspecto entre otros; funciona como señal de jerarquización informativa.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-024",
+    "topicId": "2.1.3",
+    "demoId": "",
+    "text": "¿Cuál ejemplo conserva el discurso directo de una entrevista?",
+    "options": [
+      "La bióloga explicó que estudiaban plantas del bosque",
+      "Se mencionó un estudio sin citar a nadie",
+      "Al parecer había plantas",
+      "La bióloga explicó: «Estudiamos plantas del bosque»"
+    ],
+    "correctIndex": 3,
+    "explanation": "El discurso directo reproduce las palabras atribuidas a la entrevistada y las delimita mediante comillas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-025",
+    "topicId": "2.1.3",
+    "demoId": "",
+    "text": "¿Qué pregunta sirve para conocer las razones de una decisión durante una entrevista?",
+    "options": [
+      "¿Qué factores consideró antes de tomar esa decisión?",
+      "¿Cuál es su color favorito, aunque no se relacione con el asunto?",
+      "¿Verdad que no pensó nada?",
+      "¿Puede responder únicamente sí a cualquier pregunta?"
+    ],
+    "correctIndex": 0,
+    "explanation": "Preguntar por los factores invita a explicar el razonamiento y evita una formulación acusatoria o irrelevante.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-026",
+    "topicId": "2.1.3",
+    "demoId": "",
+    "text": "¿Cuál oración usa correctamente el acento enfático en una interrogativa indirecta?",
+    "options": [
+      "La reportera preguntó como se realizó el estudio",
+      "La reportera preguntó cómo se realizó el estudio",
+      "La reportera pregunto cómo se realizó el estudio",
+      "La reportera preguntó cómo sé realizó el estudio"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cómo conserva tilde al introducir una interrogativa indirecta; preguntó lleva tilde por su acentuación verbal.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-027",
+    "topicId": "2.1.4",
+    "demoId": "",
+    "text": "¿Cuál enunciado utiliza voz pasiva perifrástica?",
+    "options": [
+      "El laboratorio analizó las muestras",
+      "Analizamos las muestras ayer",
+      "Las muestras fueron analizadas por el laboratorio",
+      "El análisis parece adecuado"
+    ],
+    "correctIndex": 2,
+    "explanation": "La pasiva perifrástica se construye con ser más participio: fueron analizadas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-028",
+    "topicId": "2.1.4",
+    "demoId": "",
+    "text": "¿Qué opción mejora la cohesión sin cambiar el sentido de «Lucía entregó el informe. Lucía revisó el informe antes»?",
+    "options": [
+      "Lucía entregó una bicicleta desconocida",
+      "El informe revisó a Lucía",
+      "Antes de Lucía, nada",
+      "Lucía revisó el informe antes de entregarlo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El pronombre lo sustituye al informe y la construcción temporal relaciona las acciones evitando repeticiones.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-029",
+    "topicId": "2.1.4",
+    "demoId": "",
+    "text": "¿Qué frase presenta vocabulario técnico pertinente a un informe de laboratorio?",
+    "options": [
+      "La masa de la muestra fue de 12 gramos",
+      "La cosa pesaba un montón",
+      "El asunto estaba increíble",
+      "Aquello se veía muy bonito"
+    ],
+    "correctIndex": 0,
+    "explanation": "Masa, muestra y gramos precisan la magnitud medida y su unidad, a diferencia de expresiones vagas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-030",
+    "topicId": "2.1.5",
+    "demoId": "",
+    "text": "«El viento susurraba entre los árboles» atribuye al viento una acción humana. ¿Qué figura utiliza?",
+    "options": [
+      "Hipérbaton necesariamente",
+      "Personificación",
+      "Enumeración de datos",
+      "Definición literal de un instrumento"
+    ],
+    "correctIndex": 1,
+    "explanation": "La personificación atribuye cualidades o acciones humanas a entidades no humanas, como susurrar al viento.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-031",
+    "topicId": "2.1.5",
+    "demoId": "",
+    "text": "Una reseña dice que una obra narra viajes a planetas imaginarios con tecnología futura. ¿Qué contenido cabe esperar?",
+    "options": [
+      "Un reglamento de biblioteca",
+      "Una solicitud administrativa",
+      "Una narración de ciencia ficción",
+      "Un inventario contable"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los escenarios imaginarios y la tecnología futura permiten anticipar rasgos de ciencia ficción.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-032",
+    "topicId": "2.1.5",
+    "demoId": "",
+    "text": "En «El investigador entregó el informe. Este contenía los resultados», ¿a qué se refiere este?",
+    "options": [
+      "Al investigador",
+      "A un resultado individual",
+      "A una persona no mencionada",
+      "Al informe"
+    ],
+    "correctIndex": 3,
+    "explanation": "El pronombre este retoma el sustantivo informe y evita repetirlo.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-033",
+    "topicId": "2.1.6",
+    "demoId": "",
+    "text": "¿Qué cierre es adecuado en una carta formal de solicitud?",
+    "options": [
+      "Agradezco su atención y quedo pendiente de su respuesta",
+      "Hazlo ya porque lo digo yo",
+      "Ni sé para qué escribo",
+      "Contesta o te insulto"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cierre formal mantiene respeto, claridad y relación con el propósito de la solicitud.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-034",
+    "topicId": "2.1.6",
+    "demoId": "",
+    "text": "Un aviso indica: «El registro cierra el 10 de junio a las 18:00». ¿Qué envío cumple el plazo?",
+    "options": [
+      "10 de junio a las 18:30",
+      "10 de junio a las 17:30",
+      "11 de junio a las 08:00",
+      "12 de junio a las 12:00"
+    ],
+    "correctIndex": 1,
+    "explanation": "17:30 del día señalado es anterior a las 18:00; los demás envíos ocurren después del cierre.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-035",
+    "topicId": "2.1.6",
+    "demoId": "",
+    "text": "Al presentar un reclamo por un artículo defectuoso, ¿qué información es pertinente?",
+    "options": [
+      "Solo insultos al personal",
+      "Una historia sin relación con la compra",
+      "Fecha de compra, descripción del defecto y solución solicitada",
+      "Contraseñas de otras cuentas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Un reclamo claro documenta los hechos y expresa la solución pedida, sin incluir datos secretos innecesarios.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-036",
+    "topicId": "2.3.1.1",
+    "demoId": "",
+    "text": "¿Qué característica comparten los seres vivos celulares?",
+    "options": [
+      "Todos vuelan",
+      "Todos producen flores",
+      "Todos tienen columna vertebral",
+      "Están formados por una o más células"
+    ],
+    "correctIndex": 3,
+    "explanation": "La organización celular es común a los organismos; volar, florecer o tener vértebras solo ocurre en ciertos grupos.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-037",
+    "topicId": "2.3.1.2",
+    "demoId": "",
+    "text": "¿Qué grupo de nutrientes aporta aminoácidos al ser digerido?",
+    "options": ["Proteínas", "Agua", "Sales minerales", "Triglicéridos exclusivamente"],
+    "correctIndex": 0,
+    "explanation": "Las proteínas se descomponen en aminoácidos, que el organismo utiliza para sintetizar sus propias proteínas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-038",
+    "topicId": "2.3.1.3",
+    "demoId": "",
+    "text": "¿Qué estructuras permiten principalmente el intercambio gaseoso de los peces óseos?",
+    "options": ["Alvéolos pulmonares como los humanos", "Branquias", "Plumas", "Raíces"],
+    "correctIndex": 1,
+    "explanation": "Las branquias ofrecen superficie de intercambio entre el agua y la sangre para obtener oxígeno y eliminar CO₂.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-039",
+    "topicId": "2.3.1.4",
+    "demoId": "",
+    "text": "¿Qué diferencia básica existe entre genotipo y fenotipo?",
+    "options": [
+      "Genotipo: color visible; fenotipo: secuencia genética exclusivamente",
+      "Son sinónimos exactos",
+      "Genotipo: constitución genética; fenotipo: características observables",
+      "El fenotipo nunca depende del ambiente"
+    ],
+    "correctIndex": 2,
+    "explanation": "El fenotipo resulta de la expresión del genotipo en interacción con el ambiente.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-040",
+    "topicId": "2.3.2.1",
+    "demoId": "",
+    "text": "Un ciclista recorre 150 metros en 30 segundos a rapidez constante. ¿Cuál es su rapidez?",
+    "options": ["4500 m/s", "0.2 m/s", "120 m/s", "5 m/s"],
+    "correctIndex": 3,
+    "explanation": "La rapidez es distancia entre tiempo: 150/30 = 5 m/s.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-041",
+    "topicId": "2.3.2.2",
+    "demoId": "",
+    "text": "Un cuerpo de 2 kg se mueve a 3 m/s. ¿Cuál es su energía cinética?",
+    "options": ["9 J", "6 J", "18 J", "3 J"],
+    "correctIndex": 0,
+    "explanation": "Ec = mv²/2 = 2 × 3²/2 = 9 J.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-042",
+    "topicId": "2.3.2.3",
+    "demoId": "",
+    "text": "¿En qué dirección se transfiere espontáneamente el calor entre dos cuerpos en contacto?",
+    "options": [
+      "Siempre del más pesado al más ligero",
+      "Del de mayor temperatura al de menor temperatura",
+      "Siempre del más pequeño al más grande",
+      "Del frío al caliente sin aporte externo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La diferencia de temperatura determina la dirección espontánea de transferencia térmica, no la masa por sí sola.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-043",
+    "topicId": "2.3.2.4",
+    "demoId": "",
+    "text": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+    "options": ["Protón", "Neutrón", "Electrón", "Núcleo completo de un átomo común"],
+    "correctIndex": 2,
+    "explanation": "El electrón posee carga negativa; el protón positiva y el neutrón carga neta cero.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-044",
+    "topicId": "2.3.3.1",
+    "demoId": "",
+    "text": "En una reacción dentro de un recipiente cerrado, la masa inicial total es 50 g. ¿Cuál es la masa final total si no escapa materia?",
+    "options": ["Siempre 25 g", "Siempre 100 g", "Depende solo del color del producto", "50 g"],
+    "correctIndex": 3,
+    "explanation": "En una reacción química ordinaria se conserva la masa total de un sistema cerrado, aunque cambien las sustancias.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-045",
+    "topicId": "2.3.3.2",
+    "demoId": "",
+    "text": "¿Qué representa el símbolo Na⁺?",
+    "options": [
+      "Un ion de sodio con carga positiva",
+      "Un átomo de sodio que ganó un electrón",
+      "Una molécula de nitrógeno",
+      "Un isótopo necesariamente radiactivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "El signo + indica una carga neta positiva; un átomo neutro de sodio puede adquirirla al perder un electrón.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-046",
+    "topicId": "2.3.3.3",
+    "demoId": "",
+    "text": "¿Qué coeficientes balancean H₂ + O₂ → H₂O usando los menores enteros positivos?",
+    "options": ["1, 1, 1", "2, 1, 2", "1, 2, 1", "2, 2, 1"],
+    "correctIndex": 1,
+    "explanation": "Con 2H₂ + O₂ → 2H₂O hay cuatro átomos de hidrógeno y dos de oxígeno en cada lado.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-047",
+    "topicId": "2.3.3.4",
+    "demoId": "",
+    "text": "A 25 °C, una disolución acuosa tiene pH 3. ¿Cómo se clasifica?",
+    "options": ["Básica", "Neutra", "Ácida", "Siempre un metal"],
+    "correctIndex": 2,
+    "explanation": "A 25 °C, pH menor que 7 corresponde a una disolución ácida; pH 7 es neutro.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-048",
+    "topicId": "2.4.1.1",
+    "demoId": "",
+    "text": "¿Qué coordenada geográfica mide la posición al norte o al sur del ecuador?",
+    "options": ["Longitud", "Altitud exclusivamente", "Huso horario", "Latitud"],
+    "correctIndex": 3,
+    "explanation": "La latitud es la distancia angular respecto del ecuador; la longitud se mide respecto del meridiano de referencia.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-049",
+    "topicId": "2.4.1.2",
+    "demoId": "",
+    "text": "¿Qué acción favorece conservar biodiversidad local?",
+    "options": [
+      "Proteger hábitats y evitar introducir especies invasoras",
+      "Reemplazar toda vegetación nativa por una sola especie exótica",
+      "Liberar cualquier mascota silvestre sin evaluación",
+      "Eliminar corredores biológicos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La conservación de hábitats y prevención de invasiones ayuda a mantener poblaciones e interacciones ecológicas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-050",
+    "topicId": "2.4.1.3",
+    "demoId": "",
+    "text": "Una persona cambia su residencia de un estado a otro dentro de México. ¿Qué tipo de migración realiza?",
+    "options": [
+      "Internacional",
+      "Interna",
+      "Intercontinental necesariamente",
+      "Sin cambio de residencia por definición"
+    ],
+    "correctIndex": 1,
+    "explanation": "La migración interna ocurre dentro de las fronteras de un mismo país.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-051",
+    "topicId": "2.4.1.4",
+    "demoId": "",
+    "text": "¿Qué dimensiones integra el Índice de Desarrollo Humano?",
+    "options": [
+      "Solo tamaño territorial",
+      "Solo número de automóviles",
+      "Salud, educación e ingreso",
+      "Idioma, religión y clima"
+    ],
+    "correctIndex": 2,
+    "explanation": "El IDH combina indicadores de salud, educación y nivel de vida; no se reduce al ingreso por sí solo.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-052",
+    "topicId": "2.4.3.2",
+    "demoId": "",
+    "text": "¿Qué mecanismo permite que la ciudadanía conozca y evalúe decisiones del gobierno?",
+    "options": [
+      "Secreto obligatorio de todas las decisiones",
+      "Ausencia de registros",
+      "Prohibición de críticas",
+      "Transparencia y rendición de cuentas"
+    ],
+    "correctIndex": 3,
+    "explanation": "La información accesible y la explicación de decisiones favorecen control ciudadano y responsabilidad pública.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-053",
+    "topicId": "2.4.3.6",
+    "demoId": "",
+    "text": "¿Qué medida facilita la inclusión de estudiantes con discapacidad motriz?",
+    "options": [
+      "Habilitar accesos sin escalones y espacios transitables",
+      "Ubicar todas las clases en zonas inaccesibles",
+      "Excluirlos de actividades",
+      "Sustituir su opinión sin consultarlos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eliminar barreras físicas amplía posibilidades de participación en igualdad de condiciones.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-054",
+    "topicId": "3.3.1.1",
+    "demoId": "",
+    "text": "¿Cuál magnitud es vectorial?",
+    "options": ["Masa", "Desplazamiento", "Tiempo", "Temperatura"],
+    "correctIndex": 1,
+    "explanation": "El desplazamiento requiere magnitud, dirección y sentido; las otras cantidades se describen como escalares.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-055",
+    "topicId": "3.3.1.2",
+    "demoId": "",
+    "text": "Un móvil parte del reposo con aceleración constante de 2 m/s². ¿Qué velocidad alcanza en 6 s?",
+    "options": ["3 m/s", "36 m/s", "12 m/s", "8 m/s"],
+    "correctIndex": 2,
+    "explanation": "Aplica v = v₀ + at: 0 + 2 × 6 = 12 m/s.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-056",
+    "topicId": "3.3.1.3",
+    "demoId": "",
+    "text": "Sobre un objeto actúan 8 N hacia la derecha y 3 N hacia la izquierda. ¿Cuál es la fuerza resultante?",
+    "options": [
+      "11 N hacia la derecha",
+      "5 N hacia la izquierda",
+      "24 N hacia la izquierda",
+      "5 N hacia la derecha"
+    ],
+    "correctIndex": 3,
+    "explanation": "Las fuerzas opuestas se restan: 8 − 3 = 5 N, con el sentido de la fuerza mayor.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-057",
+    "topicId": "3.3.2.2",
+    "demoId": "",
+    "text": "Para calentar 2 kg de material con calor específico 500 J/(kg·°C) en 3 °C, ¿cuánto calor se requiere sin cambio de fase?",
+    "options": ["3000 J", "750 J", "1000 J", "6 J"],
+    "correctIndex": 0,
+    "explanation": "Usa Q = mcΔT: 2 × 500 × 3 = 3000 J, suponiendo calor específico constante.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-058",
+    "topicId": "3.3.2.3",
+    "demoId": "",
+    "text": "Una resistencia de 4 Ω se conecta a 12 V. ¿Qué corriente circula según la ley de Ohm?",
+    "options": ["48 A", "3 A", "0.33 A", "8 A"],
+    "correctIndex": 1,
+    "explanation": "La ley de Ohm es V = IR; despejando I = 12/4 = 3 A.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-059",
+    "topicId": "3.4.1.2",
+    "demoId": "",
+    "text": "En el ADN, ¿con qué base se empareja normalmente la adenina?",
+    "options": ["Uracilo en el ADN estándar", "Citosina", "Timina", "Guanina"],
+    "correctIndex": 2,
+    "explanation": "En el apareamiento complementario del ADN, adenina se une con timina y citosina con guanina.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-060",
+    "topicId": "3.4.1.2",
+    "demoId": "",
+    "text": "¿Qué proceso produce ARN a partir de una plantilla de ADN?",
+    "options": ["Traducción", "Fagocitosis", "Exocitosis", "Transcripción"],
+    "correctIndex": 3,
+    "explanation": "La transcripción copia información de ADN a ARN; la traducción utiliza ARN para sintetizar proteínas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-061",
+    "topicId": "3.4.1.3",
+    "demoId": "",
+    "text": "¿Qué organelo realiza la fotosíntesis en células vegetales?",
+    "options": ["Cloroplasto", "Lisosoma", "Ribosoma", "Centriolo"],
+    "correctIndex": 0,
+    "explanation": "Los cloroplastos contienen la maquinaria para captar luz y fijar carbono durante la fotosíntesis.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-062",
+    "topicId": "3.4.1.4",
+    "demoId": "",
+    "text": "¿Qué molécula actúa como portador inmediato de energía en muchas reacciones celulares?",
+    "options": ["Celulosa estructural", "ATP", "ADN cromosómico", "Colesterol exclusivamente"],
+    "correctIndex": 1,
+    "explanation": "La hidrólisis de ATP puede acoplarse a procesos celulares que requieren energía.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-063",
+    "topicId": "3.4.1.5",
+    "demoId": "",
+    "text": "¿Por qué los virus necesitan una célula hospedadora para reproducirse?",
+    "options": [
+      "Tienen todos los ribosomas necesarios y nunca usan los del huésped",
+      "Se dividen por mitosis fuera de cualquier célula",
+      "Dependen de maquinaria celular para generar nuevos componentes virales",
+      "Carecen siempre de material genético"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los virus poseen material genético, pero no maquinaria celular autónoma suficiente para reproducirse.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-064",
+    "topicId": "3.4.2.1",
+    "demoId": "",
+    "text": "¿Cuál ejemplo corresponde a reproducción asexual?",
+    "options": [
+      "Fecundación entre dos gametos",
+      "Unión de óvulo y espermatozoide",
+      "Cruzamiento de dos plantas mediante polen",
+      "Gemación en levaduras"
+    ],
+    "correctIndex": 3,
+    "explanation": "La gemación origina descendencia sin unión de gametos; es una forma de reproducción asexual.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-065",
+    "topicId": "3.4.2.2",
+    "demoId": "",
+    "text": "En un cruce de prueba Aa × aa, ¿qué fracción esperada de descendientes es heterocigota?",
+    "options": ["1/2", "1/4", "3/4", "1"],
+    "correctIndex": 0,
+    "explanation": "El progenitor Aa aporta A o a y el aa aporta a: la mitad esperada es Aa y la otra mitad aa.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-066",
+    "topicId": "3.4.2.5",
+    "demoId": "",
+    "text": "¿Qué proceso introduce variantes nuevas en secuencias de ADN?",
+    "options": [
+      "Selección natural por sí sola",
+      "Mutación",
+      "Migración sin cambios genéticos",
+      "Apareamiento sin variación alguna"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las mutaciones generan cambios en secuencias; selección y flujo génico modifican la distribución de variantes.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-067",
+    "topicId": "3.4.3.1",
+    "demoId": "",
+    "text": "Un conjunto de individuos de la misma especie que habita una zona constituye una…",
+    "options": ["Comunidad de varias especies", "Biósfera completa", "Población", "Molécula"],
+    "correctIndex": 2,
+    "explanation": "Una población agrupa individuos de una misma especie en un espacio y tiempo determinados.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-068",
+    "topicId": "3.5.2.2",
+    "demoId": "",
+    "text": "En la palabra submarino, ¿qué significa el prefijo sub-?",
+    "options": ["Por encima de", "Repetición", "Negación total", "Debajo de"],
+    "correctIndex": 3,
+    "explanation": "El prefijo de origen latino sub- expresa posición inferior; submarino se refiere a lo que está o actúa bajo la superficie del mar.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-069",
+    "topicId": "3.5.4.2",
+    "demoId": "",
+    "text": "En el verso original «Su suave susurro se sentía», la repetición del sonido s produce…",
+    "options": ["Aliteración", "Definición", "Lista administrativa", "Discurso indirecto"],
+    "correctIndex": 0,
+    "explanation": "La aliteración repite sonidos para generar un efecto expresivo; aquí destaca la reiteración de s.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-070",
+    "topicId": "3.7.2.3",
+    "demoId": "",
+    "text": "¿Qué región cultural se asocia con sociedades agrícolas y centros urbanos como Teotihuacan?",
+    "options": ["La Antártida", "Mesoamérica", "Escandinavia", "Polinesia"],
+    "correctIndex": 1,
+    "explanation": "Teotihuacan pertenece al ámbito mesoamericano, caracterizado por tradiciones culturales compartidas y diversidad de sociedades.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-071",
+    "topicId": "3.7.3.3",
+    "demoId": "",
+    "text": "¿Qué contradicción caracterizó al Porfiriato?",
+    "options": [
+      "Ausencia total de inversión e infraestructura",
+      "Sufragio universal plenamente competitivo sin restricciones",
+      "Modernización económica junto con concentración del poder y desigualdad social",
+      "Desaparición de todos los conflictos agrarios"
+    ],
+    "correctIndex": 2,
+    "explanation": "El crecimiento de ferrocarriles y actividades económicas coexistió con autoritarismo, desigualdad y conflictos sociales.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-072",
+    "topicId": "3.7.3.5",
+    "demoId": "",
+    "text": "¿Con qué gobierno se relaciona la expropiación petrolera de 1938?",
+    "options": ["Porfirio Díaz", "Benito Juárez", "Vicente Fox", "Lázaro Cárdenas"],
+    "correctIndex": 3,
+    "explanation": "La expropiación petrolera fue decretada en 1938 durante la presidencia de Lázaro Cárdenas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-073",
+    "topicId": "3.7.4.4",
+    "demoId": "",
+    "text": "¿Qué rasgo describe la Guerra Fría?",
+    "options": [
+      "Rivalidad entre Estados Unidos y la Unión Soviética con conflictos indirectos y competencia ideológica",
+      "Una guerra exclusiva entre México y España en 1810",
+      "Ausencia de armas nucleares",
+      "Alianza política permanente sin tensiones entre ambas potencias"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Guerra Fría combinó rivalidad geopolítica, carrera armamentista y conflictos por intermediarios, sin guerra directa general entre las superpotencias.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-074",
+    "topicId": "3.8.1.1",
+    "demoId": "",
+    "text": "¿Qué diferencia conceptual distingue ética y moral?",
+    "options": [
+      "La ética es solo una lista de precios",
+      "La ética reflexiona críticamente sobre normas y acciones morales",
+      "La moral estudia exclusivamente minerales",
+      "Ambas excluyen toda reflexión sobre conducta"
+    ],
+    "correctIndex": 1,
+    "explanation": "La moral comprende normas y valoraciones de conducta; la ética las examina filosóficamente.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-075",
+    "topicId": "3.8.1.2",
+    "demoId": "",
+    "text": "Una autoridad aplica la misma norma pertinente sin favorecer a sus amistades. ¿Qué valor ejerce?",
+    "options": ["Nepotismo", "Arbitrariedad", "Imparcialidad", "Deshonestidad"],
+    "correctIndex": 2,
+    "explanation": "La imparcialidad evita favoritismos y exige juzgar según criterios pertinentes, no por relaciones personales.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-076",
+    "topicId": "3.8.2.3",
+    "demoId": "",
+    "text": "¿Qué criterio caracteriza al utilitarismo clásico?",
+    "options": [
+      "Obedecer siempre el interés privado sin considerar a otros",
+      "Rechazar toda consecuencia en el juicio moral",
+      "Considerar moral solo lo más costoso",
+      "Evaluar consecuencias buscando el mayor bienestar general"
+    ],
+    "correctIndex": 3,
+    "explanation": "El utilitarismo evalúa acciones por sus consecuencias sobre el bienestar agregado de las personas afectadas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-077",
+    "topicId": "3.8.3.2",
+    "demoId": "",
+    "text": "¿Qué método se asocia con Sócrates?",
+    "options": [
+      "Diálogo y preguntas para examinar creencias",
+      "Aceptación automática de cualquier autoridad",
+      "Sustitución de argumentos por amenazas",
+      "Negación de toda discusión pública"
+    ],
+    "correctIndex": 0,
+    "explanation": "El cuestionamiento socrático busca aclarar conceptos y someter creencias a examen mediante diálogo.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-078",
+    "topicId": "3.8.4.5",
+    "demoId": "",
+    "text": "¿Qué debe especificar el planteamiento de un problema de investigación?",
+    "options": [
+      "Solo el color de la portada",
+      "Qué se estudiará, en qué contexto y con qué delimitación",
+      "Conclusiones inventadas antes de obtener datos",
+      "Una lista de respuestas que nadie puede cuestionar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Delimitar objeto y contexto orienta preguntas, objetivos y selección del método de investigación.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-079",
+    "topicId": "3.8.4.6",
+    "demoId": "",
+    "text": "¿Cuál es la función del marco teórico?",
+    "options": [
+      "Sustituir todos los datos empíricos por opiniones",
+      "Ocultar las fuentes utilizadas",
+      "Relacionar la investigación con conceptos y estudios previos pertinentes",
+      "Garantizar que la hipótesis nunca sea refutada"
+    ],
+    "correctIndex": 2,
+    "explanation": "El marco teórico organiza antecedentes y conceptos para fundamentar e interpretar la investigación.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-reinforce-v5-080",
+    "topicId": "3.8.4.7",
+    "demoId": "",
+    "text": "Un estudio encuentra resultados contrarios a su hipótesis. ¿Qué debe hacer quien investiga?",
+    "options": [
+      "Cambiar los datos para confirmar la hipótesis",
+      "Ocultar los resultados",
+      "Afirmar que la hipótesis fue confirmada sin evidencia",
+      "Reportarlos y discutir limitaciones y posibles explicaciones"
+    ],
+    "correctIndex": 3,
+    "explanation": "La integridad científica exige comunicar resultados reales, incluidos los que contradicen expectativas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  }
+]

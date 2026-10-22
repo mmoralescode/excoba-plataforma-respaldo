@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: "Georgia", "Times New Roman", serif;
+  --font-body: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.formula-notation math {
+  width: max-content;
+  font-family: "Cambria Math", "STIX Two Math", "Latin Modern Math", math;
+  font-size: 1.15rem;
+  margin: 0;
+}
+
+progress {
+  appearance: none;
+  border: 0;
+  border-radius: 999px;
+  overflow: hidden;
+  background: #e5e7eb;
+  accent-color: theme("colors.pizarron");
+}
+progress::-webkit-progress-bar {
+  background: #e5e7eb;
+  border-radius: 999px;
+}
+progress::-webkit-progress-value {
+  background: theme("colors.pizarron");
+  border-radius: 999px;
+}
+progress::-moz-progress-bar {
+  background: theme("colors.pizarron");
+  border-radius: 999px;
+}
+
+:focus-visible {
+  outline: 2px solid theme("colors.pizarron");
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

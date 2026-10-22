@@ -1,0 +1,1728 @@
+[
+  {
+    "id": "uaq26-coverage-v3-1.1.2-1",
+    "topicId": "1.1.2",
+    "demoId": "",
+    "text": "Un reportaje sobre el agua reúne entrevistas a vecinos, mediciones y antecedentes del servicio. ¿Cuál es su propósito principal?",
+    "options": [
+      "Explicar el problema con información de distintas fuentes",
+      "Vender un filtro sin aportar datos",
+      "Contar una aventura imaginaria",
+      "Enumerar palabras que riman"
+    ],
+    "correctIndex": 0,
+    "explanation": "El reportaje desarrolla un asunto de interés mediante investigación, contexto y testimonios; no se limita a una opinión.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-1.1.3-1",
+    "topicId": "1.1.3",
+    "demoId": "",
+    "text": "¿Qué rasgo distingue un artículo científico de una nota de divulgación dirigida a niñas y niños?",
+    "options": [
+      "Siempre está escrito en verso",
+      "Describe métodos y resultados con lenguaje especializado",
+      "Carece de datos verificables",
+      "Solo expresa gustos personales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un artículo científico comunica investigación y sus métodos; la divulgación adapta conocimientos para lectores no especialistas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-1.1.4-1",
+    "topicId": "1.1.4",
+    "demoId": "",
+    "text": "Para conocer el medio de transporte habitual de un grupo, ¿qué pregunta permite comparar respuestas fácilmente?",
+    "options": [
+      "¿Qué opinas de la vida?",
+      "Cuéntame todo sobre tu ciudad",
+      "¿Cómo llegas normalmente: caminando, bicicleta, autobús o automóvil?",
+      "¿Verdad que el autobús siempre es malo?"
+    ],
+    "correctIndex": 2,
+    "explanation": "Una pregunta cerrada con categorías claras facilita comparar frecuencias y evita inducir una valoración.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-1.2.6-1",
+    "topicId": "1.2.6",
+    "demoId": "",
+    "text": "Una cuerda mide 2.5 metros. ¿Cuántos centímetros mide?",
+    "options": ["25 cm", "2500 cm", "0.25 cm", "250 cm"],
+    "correctIndex": 3,
+    "explanation": "Cada metro contiene 100 centímetros: 2.5 × 100 = 250 cm.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-1.2.7-1",
+    "topicId": "1.2.7",
+    "demoId": "",
+    "text": "En un plano a escala 1:100, una pared mide 4 cm. ¿Cuánto mide en realidad?",
+    "options": ["4 m", "40 m", "0.4 m", "400 m"],
+    "correctIndex": 0,
+    "explanation": "La medida real es 4 × 100 = 400 cm; al dividir entre 100 se obtienen 4 metros.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-1.2.8-1",
+    "topicId": "1.2.8",
+    "demoId": "",
+    "text": "Una bolsa contiene 3 fichas rojas y 2 azules, todas igualmente probables. ¿Cuál es la probabilidad de extraer una azul?",
+    "options": ["3/5", "2/5", "1/2", "2/3"],
+    "correctIndex": 1,
+    "explanation": "Hay 2 resultados favorables entre 5 fichas posibles: P(azul) = 2/5.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-1.2.9-1",
+    "topicId": "1.2.9",
+    "demoId": "",
+    "text": "La biblioteca prestó 12 libros el lunes, 18 el martes y 15 el miércoles. ¿Qué día tuvo más préstamos?",
+    "options": ["Lunes", "Miércoles", "Martes", "Los tres por igual"],
+    "correctIndex": 2,
+    "explanation": "Compara las frecuencias: 18 es mayor que 15 y que 12, por lo que el martes registra el máximo.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.1.3-1",
+    "topicId": "2.1.3",
+    "demoId": "",
+    "text": "En una entrevista, Ana dice: «Trabajo por las tardes». ¿Cuál es la transformación a discurso indirecto?",
+    "options": [
+      "Ana dijo: «Trabajo por las tardes»",
+      "¿Trabajas por las tardes, Ana?",
+      "Trabajo por las tardes, dijo Ana",
+      "Ana dijo que trabajaba por las tardes"
+    ],
+    "correctIndex": 3,
+    "explanation": "El discurso indirecto integra lo dicho mediante que y ajusta la persona y el tiempo verbal al relato.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.1.4-1",
+    "topicId": "2.1.4",
+    "demoId": "",
+    "text": "¿Qué oración emplea una construcción impersonal adecuada para un informe técnico?",
+    "options": [
+      "Se midió la temperatura cada diez minutos",
+      "Yo creo que estuvo bastante bonito",
+      "¡Qué calor tan insoportable sentí!",
+      "Ojalá nunca haga frío"
+    ],
+    "correctIndex": 0,
+    "explanation": "Se midió presenta el procedimiento sin destacar a quien lo realizó y utiliza un registro preciso.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.1.5-1",
+    "topicId": "2.1.5",
+    "demoId": "",
+    "text": "En el verso original «La luna era una moneda sobre el río», ¿qué recurso predomina?",
+    "options": ["Enumeración", "Metáfora", "Onomatopeya", "Definición científica"],
+    "correctIndex": 1,
+    "explanation": "Se identifica poéticamente la luna con una moneda por su forma y brillo, sin utilizar como.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.1.6-1",
+    "topicId": "2.1.6",
+    "demoId": "",
+    "text": "Un reglamento dice: «Para solicitar un préstamo se debe presentar credencial vigente». ¿Qué debe hacer una persona solicitante?",
+    "options": [
+      "Llevar cualquier fotografía",
+      "Pedir el préstamo sin identificarse",
+      "Presentar una credencial que no haya vencido",
+      "Presentar una credencial vencida"
+    ],
+    "correctIndex": 2,
+    "explanation": "La condición explícita es contar con credencial vigente; una fotografía o documento vencido no la cumple.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.2.1-1",
+    "topicId": "2.2.1",
+    "demoId": "",
+    "text": "Calcula −3² + √16, considerando la jerarquía usual de operaciones.",
+    "options": ["13", "5", "−13", "−5"],
+    "correctIndex": 3,
+    "explanation": "Primero se calcula 3² = 9 y √16 = 4; el signo negativo queda fuera de la potencia: −9 + 4 = −5.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.2.3-1",
+    "topicId": "2.2.3",
+    "demoId": "",
+    "text": "¿Qué fórmula genera 5, 8, 11, 14… para n = 1, 2, 3, 4…?",
+    "options": ["aₙ = 3n + 2", "aₙ = 5n", "aₙ = 2n + 3", "aₙ = n + 4"],
+    "correctIndex": 0,
+    "explanation": "La diferencia es 3. Así, aₙ = 5 + 3(n − 1) = 3n + 2.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.2.6-1",
+    "topicId": "2.2.6",
+    "demoId": "",
+    "text": "Resuelve x + y = 9 y x − y = 3.",
+    "options": ["x = 3, y = 6", "x = 6, y = 3", "x = 9, y = 3", "x = 5, y = 4"],
+    "correctIndex": 1,
+    "explanation": "Al sumar ambas ecuaciones resulta 2x = 12. Entonces x = 6 y y = 9 − 6 = 3.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.2.8-1",
+    "topicId": "2.2.8",
+    "demoId": "",
+    "text": "¿Cuál es el vértice de y = (x − 2)² + 3?",
+    "options": ["(−2, 3)", "(2, −3)", "(2, 3)", "(0, 3)"],
+    "correctIndex": 2,
+    "explanation": "La forma y = (x − h)² + k tiene vértice (h, k); aquí h = 2 y k = 3.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.2.9-1",
+    "topicId": "2.2.9",
+    "demoId": "",
+    "text": "¿Cuál es la imagen de (3, −2) al reflejarlo respecto del eje vertical y?",
+    "options": ["(3, 2)", "(−3, 2)", "(−2, 3)", "(−3, −2)"],
+    "correctIndex": 3,
+    "explanation": "La reflexión respecto del eje y cambia el signo de x y conserva y.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.2.10-1",
+    "topicId": "2.2.10",
+    "demoId": "",
+    "text": "Dos rectas paralelas son cortadas por una transversal. Un ángulo mide 65°. ¿Cuánto mide su alterno interno?",
+    "options": ["65°", "115°", "25°", "130°"],
+    "correctIndex": 0,
+    "explanation": "Entre paralelas, los ángulos alternos internos son iguales; no son suplementarios entre sí.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.2.11-1",
+    "topicId": "2.2.11",
+    "demoId": "",
+    "text": "Un cilindro tiene radio 3 cm y altura 5 cm. ¿Cuál es su volumen?",
+    "options": ["15π cm³", "45π cm³", "30π cm³", "90π cm³"],
+    "correctIndex": 1,
+    "explanation": "El volumen del cilindro es πr²h = π × 9 × 5 = 45π cm³.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.2.12-1",
+    "topicId": "2.2.12",
+    "demoId": "",
+    "text": "Dos triángulos semejantes tienen lados correspondientes de 4 y 10 cm. Si otro lado del pequeño mide 6 cm, ¿cuánto mide el correspondiente del grande?",
+    "options": ["12 cm", "24 cm", "15 cm", "8 cm"],
+    "correctIndex": 2,
+    "explanation": "El factor de escala es 10/4 = 2.5; por ello 6 × 2.5 = 15 cm.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.2.13-1",
+    "topicId": "2.2.13",
+    "demoId": "",
+    "text": "En un triángulo rectángulo, respecto de θ, el cateto opuesto mide 3 y la hipotenusa 5. ¿Cuánto vale sen θ?",
+    "options": ["4/5", "3/4", "5/3", "3/5"],
+    "correctIndex": 3,
+    "explanation": "El seno relaciona cateto opuesto e hipotenusa: sen θ = 3/5.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.2.14-1",
+    "topicId": "2.2.14",
+    "demoId": "",
+    "text": "Cuatro máquinas iguales terminan un trabajo en 12 horas. Sin cambiar el rendimiento, ¿cuánto tardarían seis máquinas?",
+    "options": ["8 horas", "18 horas", "6 horas", "10 horas"],
+    "correctIndex": 0,
+    "explanation": "El trabajo requiere 4 × 12 = 48 horas-máquina. Con 6 máquinas: 48/6 = 8 horas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.2.15-1",
+    "topicId": "2.2.15",
+    "demoId": "",
+    "text": "En una gráfica circular, una categoría representa el 25% del total. ¿Qué ángulo ocupa?",
+    "options": ["25°", "90°", "180°", "45°"],
+    "correctIndex": 1,
+    "explanation": "El círculo completo tiene 360°; el 25% corresponde a 0.25 × 360 = 90°.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.2.16-1",
+    "topicId": "2.2.16",
+    "demoId": "",
+    "text": "Para los datos 2, 4, 4 y 10, ¿cuáles son la media y el rango?",
+    "options": ["Media 4; rango 10", "Media 5; rango 10", "Media 5; rango 8", "Media 6; rango 8"],
+    "correctIndex": 2,
+    "explanation": "La media es (2 + 4 + 4 + 10)/4 = 5. El rango es máximo menos mínimo: 10 − 2 = 8.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.3.1.2-1",
+    "topicId": "2.3.1.2",
+    "demoId": "",
+    "text": "¿Qué organismo produce materia orgánica a partir de CO₂ utilizando energía luminosa?",
+    "options": ["Un hongo de sombrero", "Un león", "Una lombriz", "Una planta verde"],
+    "correctIndex": 3,
+    "explanation": "Las plantas fotosintéticas son autótrofas: incorporan carbono inorgánico a moléculas orgánicas usando luz.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.3.1.3-1",
+    "topicId": "2.3.1.3",
+    "demoId": "",
+    "text": "¿En qué estructuras de los pulmones humanos ocurre principalmente el intercambio de oxígeno y dióxido de carbono con la sangre?",
+    "options": ["Alvéolos", "Tráquea", "Laringe", "Fosas nasales"],
+    "correctIndex": 0,
+    "explanation": "Los alvéolos tienen paredes delgadas y abundantes capilares que permiten la difusión de gases.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.3.2.2-1",
+    "topicId": "2.3.2.2",
+    "demoId": "",
+    "text": "Una fuerza neta de 12 N actúa sobre un cuerpo de 3 kg. ¿Qué aceleración produce?",
+    "options": ["36 m/s²", "4 m/s²", "0.25 m/s²", "9 m/s²"],
+    "correctIndex": 1,
+    "explanation": "La segunda ley de Newton establece F = ma. Despejando: a = 12/3 = 4 m/s².",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.3.2.3-1",
+    "topicId": "2.3.2.3",
+    "demoId": "",
+    "text": "Si una fuerza de 100 N se distribuye sobre 2 m², ¿cuál es la presión?",
+    "options": ["200 Pa", "102 Pa", "50 Pa", "0.02 Pa"],
+    "correctIndex": 2,
+    "explanation": "La presión es fuerza por unidad de área: P = F/A = 100/2 = 50 N/m² = 50 Pa.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.3.2.4-1",
+    "topicId": "2.3.2.4",
+    "demoId": "",
+    "text": "Un átomo neutro pierde un electrón. ¿Qué ocurre con su carga neta?",
+    "options": [
+      "Se vuelve negativa",
+      "Permanece necesariamente neutra",
+      "Desaparecen sus protones",
+      "Se vuelve positiva"
+    ],
+    "correctIndex": 3,
+    "explanation": "Al perder una carga negativa quedan más protones que electrones; se forma un catión.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.3.3.1-1",
+    "topicId": "2.3.3.1",
+    "demoId": "",
+    "text": "¿Cuál propiedad es intensiva, es decir, no depende de la cantidad de muestra homogénea?",
+    "options": ["Densidad", "Masa", "Volumen", "Cantidad de sustancia"],
+    "correctIndex": 0,
+    "explanation": "La densidad se conserva al dividir una muestra homogénea bajo las mismas condiciones; masa y volumen sí cambian.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.3.3.2-1",
+    "topicId": "2.3.3.2",
+    "demoId": "",
+    "text": "¿Qué método permite separar arena insoluble de agua?",
+    "options": [
+      "Imantación de toda la mezcla",
+      "Filtración",
+      "Electrólisis del agua",
+      "Fusión de la arena"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un filtro retiene las partículas sólidas de arena y permite pasar el agua.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.3.3.4-1",
+    "topicId": "2.3.3.4",
+    "demoId": "",
+    "text": "En una reacción, un átomo pierde electrones. ¿Cómo se denomina este proceso?",
+    "options": ["Reducción", "Condensación", "Oxidación", "Neutralización obligatoria"],
+    "correctIndex": 2,
+    "explanation": "La oxidación es pérdida de electrones; la reducción es ganancia de electrones.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.1.3-1",
+    "topicId": "2.4.1.3",
+    "demoId": "",
+    "text": "Una localidad tiene 1000 habitantes, 30 nacimientos y 10 defunciones en un año. Sin migración, ¿cuál es su crecimiento natural absoluto?",
+    "options": ["40 habitantes", "10 habitantes", "30 habitantes", "20 habitantes"],
+    "correctIndex": 3,
+    "explanation": "El crecimiento natural es nacimientos menos defunciones: 30 − 10 = 20 personas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.1.5-1",
+    "topicId": "2.4.1.5",
+    "demoId": "",
+    "text": "Una comunidad transmite su lengua mediante relatos orales entre generaciones. ¿Qué patrimonio está conservando?",
+    "options": [
+      "Patrimonio cultural inmaterial",
+      "Únicamente infraestructura vial",
+      "Un recurso mineral",
+      "Una frontera administrativa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Las tradiciones orales y la lengua como vehículo cultural son expresiones vivas del patrimonio inmaterial.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.2.1-1",
+    "topicId": "2.4.2.1",
+    "demoId": "",
+    "text": "¿Qué proceso caracterizó a gran parte de América en los siglos XVI y XVII?",
+    "options": [
+      "Desintegración de la Unión Soviética",
+      "Establecimiento de dominios coloniales europeos",
+      "Desarrollo de internet",
+      "Independencia de todas las colonias americanas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Durante esos siglos varias potencias europeas establecieron instituciones y economías coloniales en América.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.2.2-1",
+    "topicId": "2.4.2.2",
+    "demoId": "",
+    "text": "¿Qué cambio es característico de la Revolución Industrial iniciada en Gran Bretaña?",
+    "options": [
+      "Desaparición inmediata de las ciudades",
+      "Sustitución general de máquinas por talleres domésticos",
+      "Expansión de la producción mecanizada en fábricas",
+      "Fin de todo intercambio comercial"
+    ],
+    "correctIndex": 2,
+    "explanation": "La mecanización y el sistema fabril transformaron la producción, el trabajo y el crecimiento urbano.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.2.3-1",
+    "topicId": "2.4.2.3",
+    "demoId": "",
+    "text": "A fines del siglo XIX, ¿qué buscaban las potencias imperialistas al controlar territorios en África y Asia?",
+    "options": [
+      "Eliminar toda competencia internacional mediante desarme universal",
+      "Abandonar el comercio marítimo",
+      "Impedir la extracción de recursos en todas sus colonias",
+      "Materias primas, mercados y posiciones estratégicas"
+    ],
+    "correctIndex": 3,
+    "explanation": "La expansión imperial combinó intereses económicos, rivalidades políticas y control estratégico.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.2.4-1",
+    "topicId": "2.4.2.4",
+    "demoId": "",
+    "text": "¿Qué secuencia ubica correctamente las dos guerras mundiales?",
+    "options": [
+      "Primera: 1914–1918; Segunda: 1939–1945",
+      "Primera: 1939–1945; Segunda: 1914–1918",
+      "Primera: 1810–1821; Segunda: 1910–1917",
+      "Primera: 1789–1799; Segunda: 1804–1815"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Primera Guerra Mundial comenzó en 1914; la Segunda empezó en 1939 y terminó en 1945.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.2.5-1",
+    "topicId": "2.4.2.5",
+    "demoId": "",
+    "text": "Para analizar un conflicto internacional reciente, ¿qué procedimiento ayuda a distinguir hechos de propaganda?",
+    "options": [
+      "Compartir la primera publicación sin verificar",
+      "Contrastar fuentes identificables, fechas y evidencia",
+      "Aceptar cualquier imagen sin contexto",
+      "Confundir la opinión más repetida con un hecho probado"
+    ],
+    "correctIndex": 1,
+    "explanation": "Contrastar fuentes y contexto permite evaluar afirmaciones; popularidad o impacto emocional no equivalen a verificación.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.2.6-1",
+    "topicId": "2.4.2.6",
+    "demoId": "",
+    "text": "¿Qué cultura tuvo a México-Tenochtitlan como centro político?",
+    "options": ["Olmeca", "Inca", "Mexica", "Moche"],
+    "correctIndex": 2,
+    "explanation": "México-Tenochtitlan fue la capital mexica; los incas y los moche se desarrollaron en la región andina.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.2.7-1",
+    "topicId": "2.4.2.7",
+    "demoId": "",
+    "text": "¿Qué acontecimiento ocurrió primero en la historia de México?",
+    "options": [
+      "Inicio de la Independencia en 1810",
+      "Consumación de la Independencia en 1821",
+      "Promulgación de la Constitución de 1917",
+      "Caída de México-Tenochtitlan en 1521"
+    ],
+    "correctIndex": 3,
+    "explanation": "1521 antecede a 1810, 1821 y 1917; ubica la conquista antes del proceso de independencia.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.2.8-1",
+    "topicId": "2.4.2.8",
+    "demoId": "",
+    "text": "¿Con qué demanda se relaciona especialmente el movimiento encabezado por Emiliano Zapata?",
+    "options": [
+      "Restitución y reparto de tierras a los pueblos",
+      "Restablecimiento del imperio de Maximiliano",
+      "Supresión de toda propiedad comunal",
+      "Reelección indefinida de Porfirio Díaz"
+    ],
+    "correctIndex": 0,
+    "explanation": "El zapatismo defendió demandas agrarias, expresadas en el Plan de Ayala, frente al despojo de tierras.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.3.1-1",
+    "topicId": "2.4.3.1",
+    "demoId": "",
+    "text": "Un estudiante recibe amenazas en un chat escolar. ¿Qué acción favorece su protección?",
+    "options": [
+      "Difundir datos privados del agresor",
+      "Conservar evidencia y pedir apoyo a una persona adulta de confianza",
+      "Responder con amenazas",
+      "Aislarse y no contarle a nadie"
+    ],
+    "correctIndex": 1,
+    "explanation": "Buscar apoyo y conservar evidencia facilita atender el problema sin amplificar la violencia ni exponer datos personales.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.3.2-1",
+    "topicId": "2.4.3.2",
+    "demoId": "",
+    "text": "¿Qué práctica expresa la soberanía popular en una democracia representativa?",
+    "options": [
+      "Heredar todos los cargos públicos",
+      "Impedir la participación de minorías",
+      "Elegir representantes mediante sufragio libre",
+      "Eliminar la rendición de cuentas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La autoridad política deriva de la ciudadanía, que elige representantes y puede exigirles cuentas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.3.3-1",
+    "topicId": "2.4.3.3",
+    "demoId": "",
+    "text": "En un barrio se acuerda respetar horarios de descanso. ¿Qué valor colectivo se promueve?",
+    "options": [
+      "Imposición arbitraria de una preferencia individual",
+      "Discriminación por origen",
+      "Indiferencia al bienestar común",
+      "Respeto a la convivencia"
+    ],
+    "correctIndex": 3,
+    "explanation": "El acuerdo busca compatibilizar actividades personales con el bienestar y los derechos de otras personas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.3.4-1",
+    "topicId": "2.4.3.4",
+    "demoId": "",
+    "text": "Un grupo escolar incluye hablantes de distintas lenguas. ¿Qué medida favorece una ciudadanía intercultural?",
+    "options": [
+      "Facilitar el diálogo y la participación sin exigir abandonar su lengua",
+      "Prohibir todas las lenguas salvo una",
+      "Separar a los alumnos según origen",
+      "Excluir a quienes tienen otras costumbres"
+    ],
+    "correctIndex": 0,
+    "explanation": "La interculturalidad promueve interacción respetuosa e igualdad de participación entre personas de culturas distintas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.3.5-1",
+    "topicId": "2.4.3.5",
+    "demoId": "",
+    "text": "¿Cuál conjunto reúne elementos básicos del Estado?",
+    "options": [
+      "Idioma único, religión única y apellido",
+      "Población, territorio y gobierno",
+      "Solo empresas y bancos",
+      "Clima, relieve y vegetación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un Estado supone población y organización política sobre un territorio; no exige uniformidad lingüística o religiosa.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-2.4.3.6-1",
+    "topicId": "2.4.3.6",
+    "demoId": "",
+    "text": "¿Qué situación constituye discriminación?",
+    "options": [
+      "Ofrecer una rampa de acceso",
+      "Traducir información para facilitar su comprensión",
+      "Negar un servicio a alguien por su origen étnico",
+      "Aplicar una misma regla de seguridad justificada"
+    ],
+    "correctIndex": 2,
+    "explanation": "La exclusión por origen étnico restringe derechos; las adaptaciones de acceso promueven igualdad.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.1.1.1-1",
+    "topicId": "3.1.1.1",
+    "demoId": "",
+    "text": "Evalúa 18 − 2 × (3 + 4).",
+    "options": ["112", "−28", "16", "4"],
+    "correctIndex": 3,
+    "explanation": "Primero el paréntesis da 7, luego 2 × 7 = 14 y finalmente 18 − 14 = 4.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.1.1.2-1",
+    "topicId": "3.1.1.2",
+    "demoId": "",
+    "text": "Factoriza x² − 25.",
+    "options": ["(x − 5)(x + 5)", "(x − 5)²", "(x + 5)²", "x(x − 25)"],
+    "correctIndex": 0,
+    "explanation": "Es una diferencia de cuadrados: a² − b² = (a − b)(a + b), con a = x y b = 5.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.1.1.3-1",
+    "topicId": "3.1.1.3",
+    "demoId": "",
+    "text": "Un taxi cobra 30 pesos de base y 8 por kilómetro. Si el total fue 94, ¿cuántos kilómetros se recorrieron?",
+    "options": ["12", "8", "11.75", "4"],
+    "correctIndex": 1,
+    "explanation": "Plantea 30 + 8x = 94; resta 30 y divide entre 8: x = 64/8 = 8.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.1.1.4-1",
+    "topicId": "3.1.1.4",
+    "demoId": "",
+    "text": "¿Cuáles son las raíces de x² − 5x + 6 = 0?",
+    "options": ["−2 y −3", "1 y 6", "2 y 3", "−1 y −6"],
+    "correctIndex": 2,
+    "explanation": "El polinomio factoriza como (x − 2)(x − 3); cada factor puede ser cero.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.1.3.1-1",
+    "topicId": "3.1.3.1",
+    "demoId": "",
+    "text": "¿Cuál es el dominio real de f(x) = √(x − 4)?",
+    "options": ["x ≤ 4", "Todos los reales", "x ≠ 4", "x ≥ 4"],
+    "correctIndex": 3,
+    "explanation": "Para que la raíz cuadrada sea real, el radicando debe ser no negativo: x − 4 ≥ 0.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.1.3.2-1",
+    "topicId": "3.1.3.2",
+    "demoId": "",
+    "text": "Si f(x) = 2x + 6, ¿cuál es su función inversa?",
+    "options": [
+      "f⁻¹(x) = (x − 6)/2",
+      "f⁻¹(x) = 2x − 6",
+      "f⁻¹(x) = 1/(2x + 6)",
+      "f⁻¹(x) = (x + 6)/2"
+    ],
+    "correctIndex": 0,
+    "explanation": "De y = 2x + 6 se despeja x = (y − 6)/2; al intercambiar variables se obtiene la inversa.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.1.3.3-1",
+    "topicId": "3.1.3.3",
+    "demoId": "",
+    "text": "¿Qué ocurre con y = x⁴ cuando x tiende a valores positivos o negativos de gran magnitud?",
+    "options": [
+      "y se vuelve negativa en ambos extremos",
+      "y crece hacia positivo en ambos extremos",
+      "y se aproxima siempre a cero",
+      "y solo existe para x positivo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Una potencia par de un número real es no negativa y crece al aumentar su magnitud.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.1.3.4-1",
+    "topicId": "3.1.3.4",
+    "demoId": "",
+    "text": "¿Cuál es la asíntota vertical de f(x) = 1/(x − 3)?",
+    "options": ["y = 3", "x = 0", "x = 3", "y = 0"],
+    "correctIndex": 2,
+    "explanation": "El denominador se anula en x = 3 y el numerador no; allí se encuentra la asíntota vertical.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.1.3.5-1",
+    "topicId": "3.1.3.5",
+    "demoId": "",
+    "text": "¿Cuál es el valor de log₁₀(1000)?",
+    "options": ["10", "100", "0.001", "3"],
+    "correctIndex": 3,
+    "explanation": "El logaritmo pregunta por el exponente: 10³ = 1000, por lo que log₁₀(1000) = 3.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.1.4.2-1",
+    "topicId": "3.1.4.2",
+    "demoId": "",
+    "text": "En una encuesta de 40 personas, 10 eligieron bicicleta. ¿Cuál es su frecuencia relativa?",
+    "options": ["0.25", "10", "4", "0.10"],
+    "correctIndex": 0,
+    "explanation": "La frecuencia relativa es frecuencia absoluta entre total: 10/40 = 0.25, equivalente a 25%.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.1.6.1-1",
+    "topicId": "3.1.6.1",
+    "demoId": "",
+    "text": "Reparte 600 pesos en razón 2:3. ¿Qué cantidades corresponden?",
+    "options": ["200 y 400", "240 y 360", "300 y 300", "120 y 480"],
+    "correctIndex": 1,
+    "explanation": "Hay 5 partes; cada una vale 600/5 = 120. Dos partes son 240 y tres son 360.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.1.6.2-1",
+    "topicId": "3.1.6.2",
+    "demoId": "",
+    "text": "Una sucesión geométrica comienza en 3 y tiene razón 2. ¿Cuál es su quinto término?",
+    "options": ["24", "30", "48", "96"],
+    "correctIndex": 2,
+    "explanation": "Los términos son 3, 6, 12, 24 y 48; también a₅ = 3 × 2⁴.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.2.2.2-1",
+    "topicId": "3.2.2.2",
+    "demoId": "",
+    "text": "¿Qué datos garantizan la congruencia de dos triángulos por el criterio LAL?",
+    "options": [
+      "Solo tres ángulos iguales",
+      "Solo un lado igual",
+      "Dos lados y cualquier ángulo no comprendido",
+      "Dos lados correspondientes iguales y el ángulo comprendido igual"
+    ],
+    "correctIndex": 3,
+    "explanation": "LAL fija dos lados y el ángulo entre ellos. Tres ángulos garantizan semejanza, no necesariamente congruencia.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.2.2.5-1",
+    "topicId": "3.2.2.5",
+    "demoId": "",
+    "text": "¿A cuántos radianes equivalen 150°?",
+    "options": ["5π/6", "3π/2", "π/6", "5π/3"],
+    "correctIndex": 0,
+    "explanation": "Convierte multiplicando por π/180: 150π/180 = 5π/6.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.2.2.6-1",
+    "topicId": "3.2.2.6",
+    "demoId": "",
+    "text": "¿Cuál es el periodo de y = sen(2x), con x en radianes?",
+    "options": ["2π", "π", "4π", "1/2"],
+    "correctIndex": 1,
+    "explanation": "Para sen(bx), el periodo es 2π/abs(b); al tomar b = 2 resulta π.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.2.2.8-1",
+    "topicId": "3.2.2.8",
+    "demoId": "",
+    "text": "¿Cuál es la mediana de 3, 7, 8, 10 y 20?",
+    "options": ["9.6", "7", "8", "10"],
+    "correctIndex": 2,
+    "explanation": "Los datos ya están ordenados y hay cinco; la mediana es el tercer valor, 8.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.2.3.1-1",
+    "topicId": "3.2.3.1",
+    "demoId": "",
+    "text": "Calcula la distancia entre (1, 2) y (4, 6).",
+    "options": ["7", "25", "√7", "5"],
+    "correctIndex": 3,
+    "explanation": "La distancia es √((4 − 1)² + (6 − 2)²) = √(9 + 16) = 5.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.2.3.3-1",
+    "topicId": "3.2.3.3",
+    "demoId": "",
+    "text": "¿Qué recta pasa por (0, 3) y tiene pendiente −2?",
+    "options": ["y = −2x + 3", "y = 3x − 2", "y = 2x + 3", "y = −2x − 3"],
+    "correctIndex": 0,
+    "explanation": "La forma pendiente-intersección es y = mx + b; m = −2 y la intersección vertical es b = 3.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.2.3.4-1",
+    "topicId": "3.2.3.4",
+    "demoId": "",
+    "text": "¿Cuál es el centro y el radio de (x − 1)² + (y + 2)² = 9?",
+    "options": [
+      "Centro (−1, 2), radio 9",
+      "Centro (1, −2), radio 3",
+      "Centro (1, 2), radio 3",
+      "Centro (−1, −2), radio 9"
+    ],
+    "correctIndex": 1,
+    "explanation": "Compara con (x − h)² + (y − k)² = r²: h = 1, k = −2 y r = √9 = 3.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.2.3.6-1",
+    "topicId": "3.2.3.6",
+    "demoId": "",
+    "text": "En x²/25 + y²/9 = 1, ¿sobre qué eje está el eje mayor y cuánto mide su semieje?",
+    "options": ["Eje y, semieje 5", "Eje x, semieje 25", "Eje x, semieje 5", "Eje y, semieje 3"],
+    "correctIndex": 2,
+    "explanation": "El denominador mayor es 25 bajo x²; el semieje mayor mide √25 = 5 y es horizontal.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.2.4.2-1",
+    "topicId": "3.2.4.2",
+    "demoId": "",
+    "text": "¿Cuál es la gráfica de y = abs(x − 2), donde abs representa valor absoluto?",
+    "options": [
+      "Una recta de pendiente 2",
+      "Una parábola con vértice en (0, 2)",
+      "Una circunferencia de radio 2",
+      "Una V con vértice en (2, 0)"
+    ],
+    "correctIndex": 3,
+    "explanation": "El valor absoluto produce una V; reemplazar x por x − 2 desplaza su vértice dos unidades a la derecha.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.2.4.3-1",
+    "topicId": "3.2.4.3",
+    "demoId": "",
+    "text": "¿Qué función polinomial tiene grado 3?",
+    "options": ["f(x) = 2x³ − x + 1", "f(x) = x² + 3", "f(x) = 3", "f(x) = 1/x³"],
+    "correctIndex": 0,
+    "explanation": "El grado es el mayor exponente entero no negativo con coeficiente distinto de cero; en la primera función es 3.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.2.4.4-1",
+    "topicId": "3.2.4.4",
+    "demoId": "",
+    "text": "¿Cuál es la asíntota horizontal de f(x) = (2x + 1)/(x − 4)?",
+    "options": ["x = 4", "y = 2", "y = 0", "y = −4"],
+    "correctIndex": 1,
+    "explanation": "Numerador y denominador tienen el mismo grado; la asíntota horizontal es la razón de coeficientes principales, 2/1.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.2.4.5-1",
+    "topicId": "3.2.4.5",
+    "demoId": "",
+    "text": "¿Por qué punto pasa y = 3ˣ?",
+    "options": ["(0, 0)", "(1, 0)", "(0, 1)", "(−1, −3)"],
+    "correctIndex": 2,
+    "explanation": "Toda base positiva distinta de cero elevada a cero vale 1; así 3⁰ = 1.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.2.4.6-1",
+    "topicId": "3.2.4.6",
+    "demoId": "",
+    "text": "Para y = 4 cos(3x), ¿cuáles son la amplitud y el periodo?",
+    "options": [
+      "Amplitud 3; periodo 4π",
+      "Amplitud 4; periodo 3π",
+      "Amplitud 12; periodo 2π",
+      "Amplitud 4; periodo 2π/3"
+    ],
+    "correctIndex": 3,
+    "explanation": "En A cos(bx), la amplitud es abs(A) y el periodo es 2π/abs(b): 4 y 2π/3.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.3.2.2-1",
+    "topicId": "3.3.2.2",
+    "demoId": "",
+    "text": "¿Cuál enunciado distingue correctamente calor y temperatura?",
+    "options": [
+      "El calor es transferencia de energía por diferencia de temperatura",
+      "La temperatura es energía que fluye entre cuerpos",
+      "El calor y la temperatura tienen siempre la misma unidad",
+      "La temperatura depende solo de la masa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Calor designa energía transferida; temperatura caracteriza el estado térmico y determina la dirección espontánea de esa transferencia.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.4.1.1-1",
+    "topicId": "3.4.1.1",
+    "demoId": "",
+    "text": "¿Qué secuencia va de menor a mayor nivel de organización biológica?",
+    "options": [
+      "Órgano → célula → organismo → tejido",
+      "Célula → tejido → órgano → organismo",
+      "Organismo → tejido → célula → órgano",
+      "Tejido → órgano → célula → organismo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las células forman tejidos; distintos tejidos integran órganos que participan en el funcionamiento del organismo.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.4.1.2-1",
+    "topicId": "3.4.1.2",
+    "demoId": "",
+    "text": "¿Qué biomolécula almacena la información hereditaria en las células?",
+    "options": ["Triglicérido", "Almidón", "ADN", "Celulosa"],
+    "correctIndex": 2,
+    "explanation": "El ADN es un ácido nucleico cuya secuencia de bases contiene información genética.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.4.1.5-1",
+    "topicId": "3.4.1.5",
+    "demoId": "",
+    "text": "¿Qué característica distingue a los organismos del dominio Eukarya de bacterias y arqueas?",
+    "options": [
+      "Todos realizan fotosíntesis",
+      "Todos son pluricelulares",
+      "Carecen de material genético",
+      "Sus células tienen núcleo delimitado por membrana"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los eucariotas presentan núcleo y organelos membranosos; pueden ser unicelulares o pluricelulares.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.4.2.1-1",
+    "topicId": "3.4.2.1",
+    "demoId": "",
+    "text": "¿Qué proceso reduce a la mitad el número de cromosomas para formar células haploides?",
+    "options": ["Meiosis", "Mitosis", "Traducción", "Replicación del ADN por sí sola"],
+    "correctIndex": 0,
+    "explanation": "La meiosis incluye dos divisiones tras una replicación y reduce la dotación cromosómica.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.4.2.2-1",
+    "topicId": "3.4.2.2",
+    "demoId": "",
+    "text": "En un cruce Aa × Aa con dominancia completa, ¿qué proporción esperada tiene genotipo aa?",
+    "options": ["1/2", "1/4", "3/4", "1"],
+    "correctIndex": 1,
+    "explanation": "Las combinaciones equiprobables son AA, Aa, Aa y aa; una de cuatro corresponde a aa.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.4.2.4-1",
+    "topicId": "3.4.2.4",
+    "demoId": "",
+    "text": "¿Cuál es una aplicación biotecnológica tradicional?",
+    "options": [
+      "Corte de papel con tijeras",
+      "Pulido de una piedra",
+      "Fermentación de masa de pan mediante levaduras",
+      "Fundición de hierro sin organismos"
+    ],
+    "correctIndex": 2,
+    "explanation": "La biotecnología utiliza organismos o sus componentes; la levadura transforma azúcares y libera CO₂ que hace crecer la masa.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.4.2.5-1",
+    "topicId": "3.4.2.5",
+    "demoId": "",
+    "text": "En una población, un rasgo heredable mejora la supervivencia y la reproducción en cierto ambiente. ¿Qué predice la selección natural?",
+    "options": [
+      "Todos los individuos cambian voluntariamente sus genes",
+      "El rasgo garantiza perfección absoluta",
+      "La reproducción deja de influir en la evolución",
+      "Puede aumentar la frecuencia del rasgo a lo largo de generaciones"
+    ],
+    "correctIndex": 3,
+    "explanation": "El éxito reproductivo diferencial puede aumentar variantes heredables favorables en ese ambiente; no hay una meta de perfección.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.4.3.1-1",
+    "topicId": "3.4.3.1",
+    "demoId": "",
+    "text": "¿Cuál es un factor abiótico de un ecosistema?",
+    "options": [
+      "Temperatura del agua",
+      "Población de peces",
+      "Comunidad de algas",
+      "Hongos descomponedores"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los factores abióticos son componentes físicos o químicos no vivos, como temperatura, luz o salinidad.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.4.3.2-1",
+    "topicId": "3.4.3.2",
+    "demoId": "",
+    "text": "¿Qué afirmación describe el flujo de energía en una cadena alimentaria?",
+    "options": [
+      "Toda la energía se recicla sin pérdidas",
+      "Parte de la energía se disipa como calor en cada nivel trófico",
+      "La energía aumenta necesariamente hacia los depredadores",
+      "Los descomponedores crean energía de la nada"
+    ],
+    "correctIndex": 1,
+    "explanation": "La transferencia entre niveles no es total; parte de la energía se utiliza en metabolismo y se disipa como calor.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.1.1-1",
+    "topicId": "3.5.1.1",
+    "demoId": "",
+    "text": "En «Por favor, cierra la puerta», ¿qué función del lenguaje predomina?",
+    "options": [
+      "Metalingüística",
+      "Referencial sin intención de influir",
+      "Conativa o apelativa",
+      "Fática exclusivamente"
+    ],
+    "correctIndex": 2,
+    "explanation": "La expresión busca provocar una acción en quien la recibe; por eso predomina la función apelativa.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.1.2-1",
+    "topicId": "3.5.1.2",
+    "demoId": "",
+    "text": "Antes de entregar un ensayo, una alumna verifica la coherencia y corrige errores. ¿En qué etapa está?",
+    "options": [
+      "Lectura exploratoria inicial",
+      "Elección preliminar del tema",
+      "Lluvia de ideas",
+      "Revisión"
+    ],
+    "correctIndex": 3,
+    "explanation": "La revisión evalúa y mejora un texto ya redactado en su contenido, organización y corrección.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.1.3-1",
+    "topicId": "3.5.1.3",
+    "demoId": "",
+    "text": "Un texto afirma una tesis y ofrece razones para defenderla. ¿Qué prototipo textual predomina?",
+    "options": [
+      "Argumentación",
+      "Descripción estática",
+      "Narración sin valoración",
+      "Diálogo casual"
+    ],
+    "correctIndex": 0,
+    "explanation": "La argumentación sostiene una postura mediante razones; se distingue de enumerar rasgos o relatar acontecimientos.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.1.4-1",
+    "topicId": "3.5.1.4",
+    "demoId": "",
+    "text": "¿En qué oración se usa correctamente la tilde diacrítica?",
+    "options": [
+      "Tu puedes preparar tú exposición",
+      "Tú puedes preparar tu exposición",
+      "Tú puedes preparar tú exposición",
+      "Tu puedes preparar tu exposición"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tú lleva tilde cuando es pronombre personal; tu no la lleva cuando es posesivo.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.1.5-1",
+    "topicId": "3.5.1.5",
+    "demoId": "",
+    "text": "Una carta personal dice: «Me alegra mucho saber de ti». ¿Qué función se manifiesta principalmente?",
+    "options": ["Metalingüística", "Definición técnica", "Emotiva", "Clasificación estadística"],
+    "correctIndex": 2,
+    "explanation": "La persona expresa su estado emocional; por eso destaca la función emotiva.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.1.6-1",
+    "topicId": "3.5.1.6",
+    "demoId": "",
+    "text": "¿Qué rasgo corresponde a un texto expositivo sobre el ciclo del agua?",
+    "options": [
+      "Defender una compra mediante exageraciones",
+      "Narrar únicamente un sueño ficticio",
+      "Ocultar las relaciones entre las ideas",
+      "Explicar procesos con orden y vocabulario preciso"
+    ],
+    "correctIndex": 3,
+    "explanation": "La exposición busca hacer comprensible un tema mediante explicaciones organizadas y claras.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.1.7-1",
+    "topicId": "3.5.1.7",
+    "demoId": "",
+    "text": "¿Qué texto periodístico presenta una valoración argumentada y firmada sobre un asunto público?",
+    "options": [
+      "Artículo de opinión",
+      "Tabla de resultados sin comentarios",
+      "Pronóstico meteorológico automatizado",
+      "Lista de horarios"
+    ],
+    "correctIndex": 0,
+    "explanation": "El artículo de opinión desarrolla la postura de su autor; se distingue de una noticia centrada en informar hechos.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.2.1-1",
+    "topicId": "3.5.2.1",
+    "demoId": "",
+    "text": "¿Qué documento funcional resume formación y experiencia para solicitar empleo?",
+    "options": ["Fábula", "Currículum vitae", "Soneto", "Leyenda"],
+    "correctIndex": 1,
+    "explanation": "El currículum organiza información académica y laboral relevante para una solicitud de empleo.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.2.3-1",
+    "topicId": "3.5.2.3",
+    "demoId": "",
+    "text": "¿Qué recurso fortalece una campaña que invita a reducir residuos?",
+    "options": [
+      "Promesas imposibles sin evidencia",
+      "Insultos a quienes discrepan",
+      "Datos verificables y una propuesta concreta de acción",
+      "Ocultar el propósito de la campaña"
+    ],
+    "correctIndex": 2,
+    "explanation": "La persuasión argumentada vincula evidencia con una acción factible, en lugar de recurrir a engaños.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.2.4-1",
+    "topicId": "3.5.2.4",
+    "demoId": "",
+    "text": "¿Qué característica puede distinguir un texto recreativo literario de un instructivo técnico?",
+    "options": [
+      "Obligación de incluir pasos numerados",
+      "Prohibición de emplear imágenes poéticas",
+      "Necesidad de registrar mediciones exactas",
+      "Uso estético del lenguaje para producir una experiencia imaginativa"
+    ],
+    "correctIndex": 3,
+    "explanation": "El texto recreativo puede explorar imaginación y recursos expresivos; un instructivo prioriza ejecutar una tarea.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.2.5-1",
+    "topicId": "3.5.2.5",
+    "demoId": "",
+    "text": "«Oro parece, plata no es; quien no lo adivine, bien tonto es». ¿Qué tipo de texto popular es?",
+    "options": ["Adivinanza", "Informe técnico", "Acta administrativa", "Noticia"],
+    "correctIndex": 0,
+    "explanation": "La adivinanza propone un enigma mediante pistas y juegos de palabras; aquí la respuesta tradicional es plátano.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.3.2-1",
+    "topicId": "3.5.3.2",
+    "demoId": "",
+    "text": "¿Qué diferencia habitual existe entre fábula y epopeya?",
+    "options": [
+      "Ambas son siempre informes científicos",
+      "La fábula suele ofrecer una enseñanza breve; la epopeya relata hazañas heroicas",
+      "La epopeya solo contiene instrucciones",
+      "La fábula exige miles de versos"
+    ],
+    "correctIndex": 1,
+    "explanation": "La fábula suele ser breve y didáctica; la epopeya desarrolla una narración extensa de acciones heroicas.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.3.3-1",
+    "topicId": "3.5.3.3",
+    "demoId": "",
+    "text": "¿Qué rasgo se asocia especialmente al mito?",
+    "options": [
+      "Registrar solo precios actuales",
+      "Describir exclusivamente reglas de tránsito",
+      "Explicar orígenes mediante relatos de seres o acontecimientos sagrados",
+      "Carecer siempre de dimensión cultural"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los mitos ofrecen explicaciones simbólicas sobre orígenes y orden del mundo; las leyendas suelen vincularse a lugares o personajes de tradición local.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.3.4-1",
+    "topicId": "3.5.3.4",
+    "demoId": "",
+    "text": "En un cuento, el narrador dice: «Abrí la caja y descubrí la carta». ¿Qué persona gramatical utiliza?",
+    "options": [
+      "Segunda persona",
+      "Tercera persona",
+      "Forma impersonal exclusivamente",
+      "Primera persona"
+    ],
+    "correctIndex": 3,
+    "explanation": "Abrí y descubrí están conjugados en primera persona singular; quien narra participa en los hechos relatados.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.3.5-1",
+    "topicId": "3.5.3.5",
+    "demoId": "",
+    "text": "Una novela centra su trama en investigar un crimen y descubrir al responsable. ¿A qué tipo corresponde?",
+    "options": ["Policiaca", "Pastoril", "De caballerías necesariamente", "Tratado científico"],
+    "correctIndex": 0,
+    "explanation": "La investigación de un delito y la resolución de un enigma son ejes característicos de la novela policiaca.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.4.1-1",
+    "topicId": "3.5.4.1",
+    "demoId": "",
+    "text": "¿Cómo se denomina la voz que expresa sentimientos en un poema, sin identificarla automáticamente con el autor?",
+    "options": ["Editor comercial", "Hablante lírico", "Lector empírico", "Acotador teatral"],
+    "correctIndex": 1,
+    "explanation": "El hablante lírico es una voz construida en el texto; no debe confundirse necesariamente con la biografía del autor.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.4.3-1",
+    "topicId": "3.5.4.3",
+    "demoId": "",
+    "text": "En una obra teatral aparece «(Entra lentamente y apaga la lámpara)». ¿Qué es este fragmento?",
+    "options": ["Moraleja", "Pie de página bibliográfico", "Acotación", "Verso épico obligatorio"],
+    "correctIndex": 2,
+    "explanation": "La acotación orienta acciones, gestos, espacio o puesta en escena y no forma parte del parlamento pronunciado.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.4.4-1",
+    "topicId": "3.5.4.4",
+    "demoId": "",
+    "text": "En una tragedia, ¿qué elemento suele organizar el conflicto central?",
+    "options": [
+      "Una receta de cocina sin personajes",
+      "Un listado sin acciones ni conflicto",
+      "Una obligación de terminar siempre con una boda feliz",
+      "Un enfrentamiento grave que conduce a consecuencias dolorosas"
+    ],
+    "correctIndex": 3,
+    "explanation": "La tragedia representa conflictos de gran intensidad y consecuencias adversas; no equivale simplemente a un texto triste.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.5.4.5-1",
+    "topicId": "3.5.4.5",
+    "demoId": "",
+    "text": "¿Qué rasgo es frecuente en la comedia frente a una tragedia?",
+    "options": [
+      "Tratamiento humorístico de conflictos y defectos humanos",
+      "Ausencia obligatoria de personajes",
+      "Prohibición de crítica social",
+      "Desenlace necesariamente mortal"
+    ],
+    "correctIndex": 0,
+    "explanation": "La comedia puede cuestionar comportamientos mediante humor y equívocos; el humor no excluye la crítica social.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.6.1.1-1",
+    "topicId": "3.6.1.1",
+    "demoId": "",
+    "text": "¿Cuál situación representa un cambio físico?",
+    "options": [
+      "El hierro se oxida",
+      "El hielo se funde",
+      "La madera se quema",
+      "El vinagre reacciona con bicarbonato"
+    ],
+    "correctIndex": 1,
+    "explanation": "Al fundirse el hielo cambia el estado, pero sigue siendo agua; no se produce una sustancia nueva.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.6.1.3-1",
+    "topicId": "3.6.1.3",
+    "demoId": "",
+    "text": "¿Qué comparten generalmente los elementos de un mismo grupo principal de la tabla periódica?",
+    "options": [
+      "El mismo número atómico",
+      "La misma masa exacta",
+      "Patrones semejantes de electrones de valencia",
+      "El mismo número de protones"
+    ],
+    "correctIndex": 2,
+    "explanation": "La estructura electrónica externa semejante explica propiedades químicas relacionadas dentro de un grupo principal.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.6.1.7-1",
+    "topicId": "3.6.1.7",
+    "demoId": "",
+    "text": "Una reacción libera calor hacia el entorno a presión constante. ¿Qué signo tiene ΔH del sistema?",
+    "options": ["Positivo", "Siempre cero", "No puede definirse para reacciones", "Negativo"],
+    "correctIndex": 3,
+    "explanation": "Si el sistema libera calor a presión constante, su entalpía disminuye: ΔH < 0.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.6.2.2-1",
+    "topicId": "3.6.2.2",
+    "demoId": "",
+    "text": "¿Qué acción reduce la contaminación del agua por aceites domésticos?",
+    "options": [
+      "Recolectar el aceite usado para entregarlo a un gestor adecuado",
+      "Verterlo al desagüe con detergente",
+      "Diluirlo y arrojarlo al río",
+      "Mezclarlo con agua potable"
+    ],
+    "correctIndex": 0,
+    "explanation": "Separar y gestionar el residuo evita descargarlo al drenaje; diluirlo no elimina el contaminante.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.6.2.5-1",
+    "topicId": "3.6.2.5",
+    "demoId": "",
+    "text": "¿Qué relación existe entre monómero y polímero?",
+    "options": [
+      "Un monómero contiene siempre miles de polímeros",
+      "Un polímero está formado por unidades monoméricas enlazadas",
+      "Son términos que significan exactamente lo mismo",
+      "Todo polímero es un elemento químico"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los polímeros son macromoléculas construidas mediante la unión repetida de unidades derivadas de monómeros.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.7.1.1-1",
+    "topicId": "3.7.1.1",
+    "demoId": "",
+    "text": "Una investigadora plantea una hipótesis, recoge datos y permite contrastar sus resultados. ¿Qué tipo de conocimiento busca producir?",
+    "options": [
+      "Religioso por revelación",
+      "Intuitivo sin comprobación",
+      "Científico",
+      "Opinión puramente personal"
+    ],
+    "correctIndex": 2,
+    "explanation": "El conocimiento científico utiliza procedimientos explícitos y evidencia susceptible de revisión y contraste.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.7.1.2-1",
+    "topicId": "3.7.1.2",
+    "demoId": "",
+    "text": "¿Qué corriente destaca la experiencia como fuente central del conocimiento?",
+    "options": [
+      "Racionalismo entendido como primacía de la razón",
+      "Dogmatismo basado solo en autoridad",
+      "Innatismo exclusivo",
+      "Empirismo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El empirismo enfatiza experiencia y observación; el racionalismo resalta el papel de la razón.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.7.2.1-1",
+    "topicId": "3.7.2.1",
+    "demoId": "",
+    "text": "¿Qué enfoque histórico se vincula con el estudio de la larga duración y estructuras sociales y económicas?",
+    "options": [
+      "Escuela de los Annales",
+      "Historia limitada solo a listas de monarcas",
+      "Astrología predictiva",
+      "Relato sin análisis de fuentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Los Annales ampliaron el estudio histórico hacia estructuras, temporalidades diversas y diálogo con otras ciencias sociales.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.7.2.2-1",
+    "topicId": "3.7.2.2",
+    "demoId": "",
+    "text": "¿Qué tipo de evidencia permite evaluar científicamente hipótesis sobre el poblamiento de América?",
+    "options": [
+      "Solo relatos sin posibilidad de contraste",
+      "Restos arqueológicos fechados y datos genéticos analizados críticamente",
+      "Una votación sobre la explicación preferida",
+      "La autoridad de una publicación anónima"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las hipótesis científicas se contrastan con evidencias independientes; las rutas y cronologías siguen investigándose.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.7.2.4-1",
+    "topicId": "3.7.2.4",
+    "demoId": "",
+    "text": "En el contexto colonial, ¿a qué se refiere la llamada conquista espiritual?",
+    "options": [
+      "A la independencia política de Nueva España",
+      "A la creación de internet",
+      "A la evangelización y transformación de prácticas religiosas indígenas",
+      "A la abolición inmediata de toda jerarquía colonial"
+    ],
+    "correctIndex": 2,
+    "explanation": "La expresión alude a procesos de evangelización y cambio cultural asociados a la conquista y colonización.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.7.2.5-1",
+    "topicId": "3.7.2.5",
+    "demoId": "",
+    "text": "¿Qué autoridad representaba al monarca español en el gobierno del virreinato de Nueva España?",
+    "options": [
+      "Presidente de una república federal",
+      "Secretario general de la ONU",
+      "Emperador mexica elegido por España",
+      "Virrey"
+    ],
+    "correctIndex": 3,
+    "explanation": "El virrey ejercía funciones de gobierno como representante de la Corona en el territorio virreinal.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.7.2.6-1",
+    "topicId": "3.7.2.6",
+    "demoId": "",
+    "text": "¿Qué documento de 1821 proclamó religión, independencia y unión como garantías?",
+    "options": ["Plan de Iguala", "Plan de Ayala", "Plan de San Luis", "Constitución de 1857"],
+    "correctIndex": 0,
+    "explanation": "El Plan de Iguala articuló esas tres garantías dentro del proceso de consumación de la independencia.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.7.3.4-1",
+    "topicId": "3.7.3.4",
+    "demoId": "",
+    "text": "¿Qué artículo de la Constitución mexicana de 1917 se asocia con derechos laborales?",
+    "options": [
+      "Artículo 3 sobre educación",
+      "Artículo 123",
+      "Artículo 27 sobre propiedad y recursos",
+      "Artículo 24 sobre libertad de convicciones y religión"
+    ],
+    "correctIndex": 1,
+    "explanation": "El artículo 123 incorporó bases constitucionales del trabajo; no debe confundirse con los artículos agrario y educativo.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.7.4.1-1",
+    "topicId": "3.7.4.1",
+    "demoId": "",
+    "text": "¿Qué combinación contribuyó al estallido de la Primera Guerra Mundial?",
+    "options": [
+      "Desaparición de todos los ejércitos europeos",
+      "Fin universal del colonialismo antes de 1900",
+      "Rivalidades imperialistas, nacionalismos y alianzas militares",
+      "Creación de la Unión Europea en 1914"
+    ],
+    "correctIndex": 2,
+    "explanation": "El asesinato de Sarajevo actuó como detonante dentro de tensiones y alianzas acumuladas; no fue la única causa.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.7.4.2-1",
+    "topicId": "3.7.4.2",
+    "demoId": "",
+    "text": "¿Qué grupo encabezó la toma del poder en la Revolución de Octubre de 1917 en Rusia?",
+    "options": [
+      "Jacobinos franceses",
+      "Zapatistas mexicanos",
+      "Partido nazi alemán",
+      "Bolcheviques"
+    ],
+    "correctIndex": 3,
+    "explanation": "Los bolcheviques, dirigidos por Lenin, desplazaron al Gobierno provisional en la Revolución de Octubre.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.8.1.2-1",
+    "topicId": "3.8.1.2",
+    "demoId": "",
+    "text": "Una persona encuentra una cartera y la devuelve sin apropiarse del dinero. ¿Qué valor manifiesta principalmente?",
+    "options": ["Honestidad", "Corrupción", "Intolerancia", "Arbitrariedad"],
+    "correctIndex": 0,
+    "explanation": "Respetar lo ajeno y actuar sin engaño expresa honestidad, aunque no exista vigilancia externa.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.8.1.3-1",
+    "topicId": "3.8.1.3",
+    "demoId": "",
+    "text": "¿Qué situación corresponde al Estado de derecho?",
+    "options": [
+      "Autoridades exentas de toda ley",
+      "Autoridades y particulares sujetos a normas y controles jurídicos",
+      "Castigos sin procedimiento ni defensa",
+      "Derechos reservados a un solo grupo"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Estado de derecho exige límites al poder, legalidad y protección de derechos mediante instituciones.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.8.1.4-1",
+    "topicId": "3.8.1.4",
+    "demoId": "",
+    "text": "¿Qué diferencia a la interculturalidad de la mera coexistencia de culturas?",
+    "options": [
+      "Exige eliminar todas sus diferencias",
+      "Impide cualquier intercambio",
+      "Promueve diálogo e interacción respetuosa entre ellas",
+      "Considera superior una cultura por definición"
+    ],
+    "correctIndex": 2,
+    "explanation": "La interculturalidad destaca relaciones de diálogo e igualdad; la diversidad por sí sola no garantiza esas relaciones.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.8.2.1-1",
+    "topicId": "3.8.2.1",
+    "demoId": "",
+    "text": "En bioética, ¿qué principio respalda que una persona decida libremente tras recibir información comprensible sobre una intervención?",
+    "options": [
+      "Imposición por conveniencia administrativa",
+      "Obediencia sin información",
+      "Discriminación",
+      "Autonomía"
+    ],
+    "correctIndex": 3,
+    "explanation": "La autonomía exige decisiones informadas y voluntarias; no equivale a aceptar una intervención sin comprenderla.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.8.2.2-1",
+    "topicId": "3.8.2.2",
+    "demoId": "",
+    "text": "¿Qué práctica se alinea con el desarrollo sostenible?",
+    "options": [
+      "Satisfacer necesidades actuales sin comprometer las de generaciones futuras",
+      "Agotar recursos aunque existan alternativas",
+      "Trasladar toda contaminación a comunidades vulnerables",
+      "Medir bienestar solo por extracción de recursos"
+    ],
+    "correctIndex": 0,
+    "explanation": "La sostenibilidad integra dimensiones ambientales, sociales y económicas con responsabilidad intergeneracional.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.8.3.1-1",
+    "topicId": "3.8.3.1",
+    "demoId": "",
+    "text": "¿Qué disciplina filosófica estudia problemas del conocimiento y su justificación?",
+    "options": ["Botánica", "Epistemología", "Geometría descriptiva", "Meteorología"],
+    "correctIndex": 1,
+    "explanation": "La epistemología analiza conocimiento, justificación y límites; no se restringe al estudio de fenómenos naturales.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.8.4.1-1",
+    "topicId": "3.8.4.1",
+    "demoId": "",
+    "text": "Una investigación busca comprender un fenómeno sin una aplicación inmediata definida. ¿Cómo se clasifica por su finalidad?",
+    "options": ["Aplicada exclusivamente", "Publicidad comercial", "Básica", "Opinión sin método"],
+    "correctIndex": 2,
+    "explanation": "La investigación básica amplía conocimientos; la aplicada se orienta a resolver problemas prácticos específicos.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.8.4.2-1",
+    "topicId": "3.8.4.2",
+    "demoId": "",
+    "text": "Alguien aprende por experiencia que una ruta suele ser más rápida, sin realizar un estudio sistemático. ¿Qué conocimiento ejemplifica?",
+    "options": [
+      "Demostración matemática formal",
+      "Conocimiento por revelación",
+      "Resultado experimental controlado necesariamente",
+      "Empírico cotidiano"
+    ],
+    "correctIndex": 3,
+    "explanation": "La experiencia puede producir conocimiento cotidiano; no implica por sí sola control sistemático de variables.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.8.4.3-1",
+    "topicId": "3.8.4.3",
+    "demoId": "",
+    "text": "En un experimento sobre crecimiento vegetal, ¿por qué se mantienen constantes agua y suelo al variar la luz?",
+    "options": [
+      "Para reducir explicaciones alternativas del efecto observado",
+      "Para impedir registrar resultados",
+      "Para garantizar cualquier hipótesis elegida",
+      "Para sustituir la medición por una opinión"
+    ],
+    "correctIndex": 0,
+    "explanation": "Controlar variables ayuda a atribuir diferencias al factor estudiado, sin garantizar de antemano un resultado.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  },
+  {
+    "id": "uaq26-coverage-v3-3.8.4.4-1",
+    "topicId": "3.8.4.4",
+    "demoId": "",
+    "text": "¿Qué diseño es principalmente cualitativo?",
+    "options": [
+      "Calcular la media de 500 mediciones",
+      "Analizar entrevistas abiertas sobre experiencias escolares",
+      "Estimar una tasa con conteos censales",
+      "Comparar exclusivamente porcentajes de respuesta"
+    ],
+    "correctIndex": 1,
+    "explanation": "El enfoque cualitativo interpreta significados y experiencias; las entrevistas abiertas son una técnica frecuente.",
+    "difficulty": "MEDIA",
+    "origin": "original"
+  }
+]

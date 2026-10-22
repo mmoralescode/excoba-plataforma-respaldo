@@ -1,0 +1,10 @@
+yokohama/
+node_modules/
+.git/
+.next/
+.env*
+!.env.example
+private/
+tests/
+test-results*/
+*.tsbuildinfo
