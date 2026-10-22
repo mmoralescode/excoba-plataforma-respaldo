@@ -1,0 +1,38 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: excoba_user
+      POSTGRES_PASSWORD: excoba_pass
+      POSTGRES_DB: excoba_dev
+    ports:
+      - "5432:5432"
+    volumes:
+      - excoba_db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U excoba_user -d excoba_dev"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: "postgresql://excoba_user:excoba_pass@db:5432/excoba_dev"
+      APP_URL: "http://localhost:3000"
+      NODE_ENV: "production"
+      SESSION_SECRET: "cambia-esto-en-produccion"
+    ports:
+      - "3000:3000"
+
+volumes:
+  excoba_db_data:

@@ -1,0 +1,487 @@
+{
+  "date": "2026-10-22",
+  "project": "EXCOBA versión de la carpeta principal",
+  "source": "RUBENSKY/EXCOBA-PLATAFORMA-",
+  "repository": "mmoralescode/excoba-plataforma-respaldo",
+  "branch": "main",
+  "source_git": {
+    "branch": "feat/instructivo-carrera-ux",
+    "head": "54e45913875892983a6f68cbbeea17ed65264f2f",
+    "pending_change_entries": 12
+  },
+  "source_file_count": 77,
+  "source_bytes": 451611,
+  "excluded_candidate_counts": {
+    "otra versión registrada por separado": 1
+  },
+  "config_changes": [
+    {
+      "path": ".gitignore",
+      "original_archived_at": ".respaldo/original-gitignore.txt"
+    }
+  ],
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 1830,
+      "source_sha256": "d297b7f77492d5d08ce29008a0abb46eec02215ebf1d3e477dd8566d428b5ab2",
+      "snapshot_sha256": "d297b7f77492d5d08ce29008a0abb46eec02215ebf1d3e477dd8566d428b5ab2"
+    },
+    {
+      "path": ".eslintrc.json",
+      "bytes": 191,
+      "source_sha256": "27c7457a89137d14e63b83b6b87a656b6cc0def118fcac5f485045db5827ef24",
+      "snapshot_sha256": "27c7457a89137d14e63b83b6b87a656b6cc0def118fcac5f485045db5827ef24"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 432,
+      "source_sha256": "07de06889463fb4332acf7aabd934d11b42116a4c8dad55e6d17440dacb77d87",
+      "snapshot_sha256": "3d844211cce65f3e7f9efc3542545eb8b15ff4a75f797fc177bff73633f67cc5"
+    },
+    {
+      "path": "Dockerfile",
+      "bytes": 708,
+      "source_sha256": "50fc9c8c3897282faf1099c8cffbea75a5382a7dd5707bcc1a392995dea14c82",
+      "snapshot_sha256": "50fc9c8c3897282faf1099c8cffbea75a5382a7dd5707bcc1a392995dea14c82"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9274,
+      "source_sha256": "2780148160c16f76ac0708313f9ba23cd02147740c8a764b3ec3c2083f034733",
+      "snapshot_sha256": "2780148160c16f76ac0708313f9ba23cd02147740c8a764b3ec3c2083f034733"
+    },
+    {
+      "path": "docker-compose.yml",
+      "bytes": 904,
+      "source_sha256": "79931c0146a16ace7fb9103f0ae050ebfee171a29fb11986fde92109b4c99cb6",
+      "snapshot_sha256": "79931c0146a16ace7fb9103f0ae050ebfee171a29fb11986fde92109b4c99cb6"
+    },
+    {
+      "path": "docs/PROJECT_STATUS.md",
+      "bytes": 4504,
+      "source_sha256": "37c8f054efc0cbe07c11258d19878eebf531240f0f0a16a2c34558f16e4efd83",
+      "snapshot_sha256": "37c8f054efc0cbe07c11258d19878eebf531240f0f0a16a2c34558f16e4efd83"
+    },
+    {
+      "path": "next.config.mjs",
+      "bytes": 820,
+      "source_sha256": "4183e019f58031901c211d53222b0fd70c49678de815e9d7fa934b3153155460",
+      "snapshot_sha256": "4183e019f58031901c211d53222b0fd70c49678de815e9d7fa934b3153155460"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 290690,
+      "source_sha256": "26d158afd29679b92a0339c3e9dbc9e338ac64f2b65e19c67afe725d3c67a3cc",
+      "snapshot_sha256": "26d158afd29679b92a0339c3e9dbc9e338ac64f2b65e19c67afe725d3c67a3cc"
+    },
+    {
+      "path": "package.json",
+      "bytes": 1299,
+      "source_sha256": "151b58b8bd15d4d4488f52da8d0b9f2e7f541709b146a092e0341c91983f040c",
+      "snapshot_sha256": "151b58b8bd15d4d4488f52da8d0b9f2e7f541709b146a092e0341c91983f040c"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 89,
+      "source_sha256": "b78f5d0a0a449ecf58b6b6252e26cd2216c7aa41235e2d6d01a26b9a065cd439",
+      "snapshot_sha256": "b78f5d0a0a449ecf58b6b6252e26cd2216c7aa41235e2d6d01a26b9a065cd439"
+    },
+    {
+      "path": "prettier.config.js",
+      "bytes": 181,
+      "source_sha256": "5cbe37dc075e6f20ce23ed5a01ce269d1d41b5a036ab1304eabed3b6a48bad99",
+      "snapshot_sha256": "5cbe37dc075e6f20ce23ed5a01ce269d1d41b5a036ab1304eabed3b6a48bad99"
+    },
+    {
+      "path": "prisma/migrations/20260910120000_add_content_origin/migration.sql",
+      "bytes": 146,
+      "source_sha256": "7136d56dad11c50cb933e3ab10e47543eb9180411ede7f50a60a0e67c75df25b",
+      "snapshot_sha256": "7136d56dad11c50cb933e3ab10e47543eb9180411ede7f50a60a0e67c75df25b"
+    },
+    {
+      "path": "prisma/schema.prisma",
+      "bytes": 11800,
+      "source_sha256": "d336d587f540306c7b3e219ea05ec6459c7f7b5bdf86e28012902d0ad04c5756",
+      "snapshot_sha256": "d336d587f540306c7b3e219ea05ec6459c7f7b5bdf86e28012902d0ad04c5756"
+    },
+    {
+      "path": "prisma/seed.ts",
+      "bytes": 4218,
+      "source_sha256": "015ba01d0bcbb74c20fd960f5602ee44ba31e1a422b197aa451c925ef879d780",
+      "snapshot_sha256": "015ba01d0bcbb74c20fd960f5602ee44ba31e1a422b197aa451c925ef879d780"
+    },
+    {
+      "path": "src/app/(admin)/admin/layout.tsx",
+      "bytes": 782,
+      "source_sha256": "6c8f875255e4c145c27c73a9188d986d41ef111a5ac4207e6caaece3ef15f1e9",
+      "snapshot_sha256": "6c8f875255e4c145c27c73a9188d986d41ef111a5ac4207e6caaece3ef15f1e9"
+    },
+    {
+      "path": "src/app/(admin)/admin/licenses/page.tsx",
+      "bytes": 1863,
+      "source_sha256": "8027283cf3ed88930b421d0492989e4c0706c5c3b3044aff6346864300039496",
+      "snapshot_sha256": "8027283cf3ed88930b421d0492989e4c0706c5c3b3044aff6346864300039496"
+    },
+    {
+      "path": "src/app/(admin)/admin/page.tsx",
+      "bytes": 1322,
+      "source_sha256": "82f506198706d0511971f92bc12afa2788a3045d1be2488a5a88add436883eeb",
+      "snapshot_sha256": "82f506198706d0511971f92bc12afa2788a3045d1be2488a5a88add436883eeb"
+    },
+    {
+      "path": "src/app/(alumno)/estudio/page.tsx",
+      "bytes": 1849,
+      "source_sha256": "7a11a219bb04d1c81da7bc10d6cea481b182a562bd47022e39de9ebdfef092d7",
+      "snapshot_sha256": "7a11a219bb04d1c81da7bc10d6cea481b182a562bd47022e39de9ebdfef092d7"
+    },
+    {
+      "path": "src/app/(alumno)/layout.tsx",
+      "bytes": 563,
+      "source_sha256": "ba10d993cf978c5e819ccad7c61b173710b97be98afab524bf3b0eab4f3beb84",
+      "snapshot_sha256": "ba10d993cf978c5e819ccad7c61b173710b97be98afab524bf3b0eab4f3beb84"
+    },
+    {
+      "path": "src/app/(alumno)/perfil/page.tsx",
+      "bytes": 3116,
+      "source_sha256": "e38ceae03fc70e20544ff034d7918555f2f555dfb75a59f4d3c703c97b8e015a",
+      "snapshot_sha256": "e38ceae03fc70e20544ff034d7918555f2f555dfb75a59f4d3c703c97b8e015a"
+    },
+    {
+      "path": "src/app/(alumno)/practica/page.tsx",
+      "bytes": 6956,
+      "source_sha256": "5b4ab18602c1fed0ae6fe43f21ae1b561ac956e0c3c33ae8d167e2fcb301446e",
+      "snapshot_sha256": "5b4ab18602c1fed0ae6fe43f21ae1b561ac956e0c3c33ae8d167e2fcb301446e"
+    },
+    {
+      "path": "src/app/(alumno)/simulador/page.tsx",
+      "bytes": 8123,
+      "source_sha256": "4eae4bc6fe50335fab64cb65a5616995a8f727512b571063653d133df68d1fdd",
+      "snapshot_sha256": "4eae4bc6fe50335fab64cb65a5616995a8f727512b571063653d133df68d1fdd"
+    },
+    {
+      "path": "src/app/activar/page.tsx",
+      "bytes": 5836,
+      "source_sha256": "7a1080c0b5b2aa53e490e4205d4cc995b87ec774a953fdf2b3bd526544876633",
+      "snapshot_sha256": "7a1080c0b5b2aa53e490e4205d4cc995b87ec774a953fdf2b3bd526544876633"
+    },
+    {
+      "path": "src/app/api/admin/licenses/route.ts",
+      "bytes": 1623,
+      "source_sha256": "d3283dcb3fbf238af4c9f0b73cc9e16ea3bc2b0c51fa9a7b492c0eca4ed1d101",
+      "snapshot_sha256": "d3283dcb3fbf238af4c9f0b73cc9e16ea3bc2b0c51fa9a7b492c0eca4ed1d101"
+    },
+    {
+      "path": "src/app/api/admin/questions/route.ts",
+      "bytes": 1453,
+      "source_sha256": "c14551b38afb2ec4e2710e68eb890c4949b15ddabe368d7cc45afe5ea914b58f",
+      "snapshot_sha256": "c14551b38afb2ec4e2710e68eb890c4949b15ddabe368d7cc45afe5ea914b58f"
+    },
+    {
+      "path": "src/app/api/auth/forgot-password/route.ts",
+      "bytes": 1017,
+      "source_sha256": "dd016a854e31bcdb9e61315b67073e99bec403be1e8771c8ef6d8d5b1dbb52a3",
+      "snapshot_sha256": "dd016a854e31bcdb9e61315b67073e99bec403be1e8771c8ef6d8d5b1dbb52a3"
+    },
+    {
+      "path": "src/app/api/auth/login/route.ts",
+      "bytes": 1201,
+      "source_sha256": "e84f437c4b29358a5b92d43e6a4539ac338a41d8b063fc4ab5c87377ad6b9c32",
+      "snapshot_sha256": "e84f437c4b29358a5b92d43e6a4539ac338a41d8b063fc4ab5c87377ad6b9c32"
+    },
+    {
+      "path": "src/app/api/auth/logout/route.ts",
+      "bytes": 220,
+      "source_sha256": "7d65688f3deb349a8adf175dfc2435015f5ae532920f3f135276e8859ba24582",
+      "snapshot_sha256": "7d65688f3deb349a8adf175dfc2435015f5ae532920f3f135276e8859ba24582"
+    },
+    {
+      "path": "src/app/api/auth/register/route.ts",
+      "bytes": 1234,
+      "source_sha256": "b2bd31472608a5c90e086d4a120becdfa46459991f9d4573cd8098bcfc1001f7",
+      "snapshot_sha256": "b2bd31472608a5c90e086d4a120becdfa46459991f9d4573cd8098bcfc1001f7"
+    },
+    {
+      "path": "src/app/api/auth/reset-password/route.ts",
+      "bytes": 806,
+      "source_sha256": "cc2a9acc3ef69cb5951049635ed63c79eb3f90b2e3b7ac284eb0e842bf995f60",
+      "snapshot_sha256": "cc2a9acc3ef69cb5951049635ed63c79eb3f90b2e3b7ac284eb0e842bf995f60"
+    },
+    {
+      "path": "src/app/api/licenses/activate/route.ts",
+      "bytes": 1370,
+      "source_sha256": "4e78b16c7e7fc78d3b1724b3eb2268f48248b1694ddee8388dd304d17d6ae3fd",
+      "snapshot_sha256": "4e78b16c7e7fc78d3b1724b3eb2268f48248b1694ddee8388dd304d17d6ae3fd"
+    },
+    {
+      "path": "src/app/api/practice/start/route.ts",
+      "bytes": 919,
+      "source_sha256": "d72b3e9063da30aeb62eacb03be2097aa5ae3d45c645483c7b2c0ef89cb8a240",
+      "snapshot_sha256": "d72b3e9063da30aeb62eacb03be2097aa5ae3d45c645483c7b2c0ef89cb8a240"
+    },
+    {
+      "path": "src/app/api/practice/submit/route.ts",
+      "bytes": 1071,
+      "source_sha256": "6090ddfa8f9d1ebed7ad27fc406065c63d3ab1c4a5d4111acaa05281fef6efaf",
+      "snapshot_sha256": "6090ddfa8f9d1ebed7ad27fc406065c63d3ab1c4a5d4111acaa05281fef6efaf"
+    },
+    {
+      "path": "src/app/api/simulator/answer/route.ts",
+      "bytes": 1639,
+      "source_sha256": "c332f79102802cf978e061609d87f266763576e40957a8c03fa947e9a98a026a",
+      "snapshot_sha256": "c332f79102802cf978e061609d87f266763576e40957a8c03fa947e9a98a026a"
+    },
+    {
+      "path": "src/app/api/simulator/start/route.ts",
+      "bytes": 922,
+      "source_sha256": "8da1b152c2f42c1ced1cdada4ab2b11fd1b2381d2830c32035237657fb5e8d55",
+      "snapshot_sha256": "8da1b152c2f42c1ced1cdada4ab2b11fd1b2381d2830c32035237657fb5e8d55"
+    },
+    {
+      "path": "src/app/api/simulator/submit/route.ts",
+      "bytes": 1376,
+      "source_sha256": "2582671a8ef1277f1d9ad9faf3928457b974b7bb2e9a180e5cb831b60630470d",
+      "snapshot_sha256": "2582671a8ef1277f1d9ad9faf3928457b974b7bb2e9a180e5cb831b60630470d"
+    },
+    {
+      "path": "src/app/api/subjects/route.ts",
+      "bytes": 719,
+      "source_sha256": "0922878dd352d58161bf997cea2ab4e95db7b0f8bde5478a975a6af035d01f16",
+      "snapshot_sha256": "0922878dd352d58161bf997cea2ab4e95db7b0f8bde5478a975a6af035d01f16"
+    },
+    {
+      "path": "src/app/globals.css",
+      "bytes": 579,
+      "source_sha256": "73ded9bcb56ed6839dc1910fc27bf5a77d70b0ad3aa62b5fd4d1db2ecdb8a134",
+      "snapshot_sha256": "73ded9bcb56ed6839dc1910fc27bf5a77d70b0ad3aa62b5fd4d1db2ecdb8a134"
+    },
+    {
+      "path": "src/app/instructivo/page.tsx",
+      "bytes": 1768,
+      "source_sha256": "12e93b21c9550894ac667d23bf5614a40a6ccbc4fb6dff37d1135fe7188095b4",
+      "snapshot_sha256": "12e93b21c9550894ac667d23bf5614a40a6ccbc4fb6dff37d1135fe7188095b4"
+    },
+    {
+      "path": "src/app/layout.tsx",
+      "bytes": 1158,
+      "source_sha256": "be5cb11f9965248ccdcfa20121deaf37141fee0beedf64e7febb4d852e1934d4",
+      "snapshot_sha256": "be5cb11f9965248ccdcfa20121deaf37141fee0beedf64e7febb4d852e1934d4"
+    },
+    {
+      "path": "src/app/login/page.tsx",
+      "bytes": 3099,
+      "source_sha256": "e762871be2af0cd13c3764baf4196eb8fb7931fd434f2f12b1e602371237f38b",
+      "snapshot_sha256": "e762871be2af0cd13c3764baf4196eb8fb7931fd434f2f12b1e602371237f38b"
+    },
+    {
+      "path": "src/app/page.tsx",
+      "bytes": 1304,
+      "source_sha256": "b228d5594a6880b7f5e5dac2adb4665754bd3a0ca718e121dfa162b18e028ec1",
+      "snapshot_sha256": "b228d5594a6880b7f5e5dac2adb4665754bd3a0ca718e121dfa162b18e028ec1"
+    },
+    {
+      "path": "src/app/recuperar-password/confirmar/page.tsx",
+      "bytes": 2852,
+      "source_sha256": "d5e8d7b8dc49fa3155a10833b87bda24344bd44ff8460ae8e6c50b439b5fc980",
+      "snapshot_sha256": "d5e8d7b8dc49fa3155a10833b87bda24344bd44ff8460ae8e6c50b439b5fc980"
+    },
+    {
+      "path": "src/app/recuperar-password/page.tsx",
+      "bytes": 2639,
+      "source_sha256": "89d2b87bc72c71a9be45ef337b43c103e653d212696e52a558f45a5f5bb0dae2",
+      "snapshot_sha256": "89d2b87bc72c71a9be45ef337b43c103e653d212696e52a558f45a5f5bb0dae2"
+    },
+    {
+      "path": "src/components/alumno-nav.tsx",
+      "bytes": 1288,
+      "source_sha256": "7db1cafc1f2325ed1e57dfcddb733b55a13fdaa78bcfa13b5b61e7346218f687",
+      "snapshot_sha256": "7db1cafc1f2325ed1e57dfcddb733b55a13fdaa78bcfa13b5b61e7346218f687"
+    },
+    {
+      "path": "src/components/career-picker.tsx",
+      "bytes": 1205,
+      "source_sha256": "f36224cc86b01d06d6dcc7b74255318c494dd3532577b6d2f48fe9ce2e246c2a",
+      "snapshot_sha256": "f36224cc86b01d06d6dcc7b74255318c494dd3532577b6d2f48fe9ce2e246c2a"
+    },
+    {
+      "path": "src/content/excoba-guide.ts",
+      "bytes": 3068,
+      "source_sha256": "263701da5fa779d4cd8b74d17181d5a67360132c53705889bfa8bd215a27c833",
+      "snapshot_sha256": "263701da5fa779d4cd8b74d17181d5a67360132c53705889bfa8bd215a27c833"
+    },
+    {
+      "path": "src/content/uaq-careers.json",
+      "bytes": 5998,
+      "source_sha256": "9e59a483e5ab03430f99ea0c79bebb21867e08d9afb1ac1369722cb8023fddb3",
+      "snapshot_sha256": "9e59a483e5ab03430f99ea0c79bebb21867e08d9afb1ac1369722cb8023fddb3"
+    },
+    {
+      "path": "src/content/uaq-careers.ts",
+      "bytes": 620,
+      "source_sha256": "d3ce5ccda2e21af5d4196d3d1035db6e104ac200d7c7b2b68be7d8cc16aa4994",
+      "snapshot_sha256": "d3ce5ccda2e21af5d4196d3d1035db6e104ac200d7c7b2b68be7d8cc16aa4994"
+    },
+    {
+      "path": "src/db/client.ts",
+      "bytes": 678,
+      "source_sha256": "d9f43e249f574e72ba97b80b68b2ed96dfac4d942cc6efa491922c2a8fa1b237",
+      "snapshot_sha256": "d9f43e249f574e72ba97b80b68b2ed96dfac4d942cc6efa491922c2a8fa1b237"
+    },
+    {
+      "path": "src/lib/audit.ts",
+      "bytes": 1147,
+      "source_sha256": "0f19cabba891b27076d1de3c338fcf083832f41b5d4f7eeedc8b17f160655b89",
+      "snapshot_sha256": "0f19cabba891b27076d1de3c338fcf083832f41b5d4f7eeedc8b17f160655b89"
+    },
+    {
+      "path": "src/lib/authorization.ts",
+      "bytes": 1252,
+      "source_sha256": "860049f5ac95d3fe84681ff0b0e8d4060836daa95aa935435b4b7c43bac9675a",
+      "snapshot_sha256": "860049f5ac95d3fe84681ff0b0e8d4060836daa95aa935435b4b7c43bac9675a"
+    },
+    {
+      "path": "src/lib/email/mailer.ts",
+      "bytes": 2959,
+      "source_sha256": "bc5cb0d687991a076dd5c7498a478a26bde4a4e8d0807a383768d3bcbdebed20",
+      "snapshot_sha256": "bc5cb0d687991a076dd5c7498a478a26bde4a4e8d0807a383768d3bcbdebed20"
+    },
+    {
+      "path": "src/lib/security/password.ts",
+      "bytes": 2205,
+      "source_sha256": "c1d742292f444b18fc7707b1e6f4d5eb816ff456e836404c1394278848305d03",
+      "snapshot_sha256": "c1d742292f444b18fc7707b1e6f4d5eb816ff456e836404c1394278848305d03"
+    },
+    {
+      "path": "src/lib/security/rate-limit.ts",
+      "bytes": 1524,
+      "source_sha256": "cacdc1bf1cb679ba033d867421c54bd4699b4575306693215cbce208ae45f954",
+      "snapshot_sha256": "cacdc1bf1cb679ba033d867421c54bd4699b4575306693215cbce208ae45f954"
+    },
+    {
+      "path": "src/lib/security/tokens.ts",
+      "bytes": 1529,
+      "source_sha256": "b17c25c923f9c9e44e457415ee485fbcc549b3bef9f815d5648e46efb3ab0678",
+      "snapshot_sha256": "b17c25c923f9c9e44e457415ee485fbcc549b3bef9f815d5648e46efb3ab0678"
+    },
+    {
+      "path": "src/lib/session.ts",
+      "bytes": 2590,
+      "source_sha256": "36600c589564c0e47d6f3aa01c8fb50b3bbdb9a3dc6791f5a82f22077ddd0ed1",
+      "snapshot_sha256": "36600c589564c0e47d6f3aa01c8fb50b3bbdb9a3dc6791f5a82f22077ddd0ed1"
+    },
+    {
+      "path": "src/middleware.ts",
+      "bytes": 2891,
+      "source_sha256": "1680666b8c00e8602362cb5f363e91edc4ec0979bd393a2a6e194b4886761f98",
+      "snapshot_sha256": "1680666b8c00e8602362cb5f363e91edc4ec0979bd393a2a6e194b4886761f98"
+    },
+    {
+      "path": "src/server/use-cases/academic-content.ts",
+      "bytes": 5101,
+      "source_sha256": "67bc9179cb27b91677dbbd4c73fe0d01b346b6764216180041585d58dac07111",
+      "snapshot_sha256": "67bc9179cb27b91677dbbd4c73fe0d01b346b6764216180041585d58dac07111"
+    },
+    {
+      "path": "src/server/use-cases/create-license.ts",
+      "bytes": 1910,
+      "source_sha256": "1322a73aef5247eef0de34d02d950ff4d7042f2d6b921b899511bff4cdae0724",
+      "snapshot_sha256": "1322a73aef5247eef0de34d02d950ff4d7042f2d6b921b899511bff4cdae0724"
+    },
+    {
+      "path": "src/server/use-cases/login.ts",
+      "bytes": 1555,
+      "source_sha256": "2310a6b05febf26d633e2ddd66220733002ec0f59e7df9bc55c329bf7fcf2f60",
+      "snapshot_sha256": "2310a6b05febf26d633e2ddd66220733002ec0f59e7df9bc55c329bf7fcf2f60"
+    },
+    {
+      "path": "src/server/use-cases/password-reset.ts",
+      "bytes": 2541,
+      "source_sha256": "adc87fca395fcf2b3fab0d6e71228f16e53f842186f432a243ab5e52472d7bb3",
+      "snapshot_sha256": "adc87fca395fcf2b3fab0d6e71228f16e53f842186f432a243ab5e52472d7bb3"
+    },
+    {
+      "path": "src/server/use-cases/register-user.ts",
+      "bytes": 2721,
+      "source_sha256": "e6674e43b648a625a350b7a2895f72bea572005712e383b50147a2a77d51fca3",
+      "snapshot_sha256": "e6674e43b648a625a350b7a2895f72bea572005712e383b50147a2a77d51fca3"
+    },
+    {
+      "path": "src/server/use-cases/simulator-state.ts",
+      "bytes": 3743,
+      "source_sha256": "fe41dc304bace3593cadf838b276a77da7b83cfbdf052c23c46f6ab1e0388fd0",
+      "snapshot_sha256": "fe41dc304bace3593cadf838b276a77da7b83cfbdf052c23c46f6ab1e0388fd0"
+    },
+    {
+      "path": "src/server/use-cases/start-practice.ts",
+      "bytes": 1938,
+      "source_sha256": "1065f3e44c5a23ba3bfc0926bc739834a5fc0cbec264a2783249d2b973063c17",
+      "snapshot_sha256": "1065f3e44c5a23ba3bfc0926bc739834a5fc0cbec264a2783249d2b973063c17"
+    },
+    {
+      "path": "src/server/use-cases/start-simulator.ts",
+      "bytes": 1630,
+      "source_sha256": "d6845b97226a7ca41a5226d97709f6f5246e61ab94dec548b7f32321bd0e5320",
+      "snapshot_sha256": "d6845b97226a7ca41a5226d97709f6f5246e61ab94dec548b7f32321bd0e5320"
+    },
+    {
+      "path": "src/server/use-cases/study-priority.ts",
+      "bytes": 3544,
+      "source_sha256": "27957a13321328427ad2d4ba69554cae9b5722d321bc7de12fd412dcf8934732",
+      "snapshot_sha256": "27957a13321328427ad2d4ba69554cae9b5722d321bc7de12fd412dcf8934732"
+    },
+    {
+      "path": "src/server/use-cases/submit-attempt.ts",
+      "bytes": 5595,
+      "source_sha256": "57ad7062845c8362977d41b4fce2a591a1046078f1620970b8f8c81012a8fdf7",
+      "snapshot_sha256": "57ad7062845c8362977d41b4fce2a591a1046078f1620970b8f8c81012a8fdf7"
+    },
+    {
+      "path": "src/server/use-cases/validate-license-folio.ts",
+      "bytes": 1198,
+      "source_sha256": "989cdac61e79a6d13f708ad7f6e35cac1c115a2c44fe33363343779879c86e2b",
+      "snapshot_sha256": "989cdac61e79a6d13f708ad7f6e35cac1c115a2c44fe33363343779879c86e2b"
+    },
+    {
+      "path": "tailwind.config.ts",
+      "bytes": 923,
+      "source_sha256": "6556ae5ecb585e2f5316fa4282df4b6ce26309b36960c46cc778dc58d9efaf1f",
+      "snapshot_sha256": "6556ae5ecb585e2f5316fa4282df4b6ce26309b36960c46cc778dc58d9efaf1f"
+    },
+    {
+      "path": "tests/password.test.ts",
+      "bytes": 1054,
+      "source_sha256": "16f0c0c5f5ea6c41ac02a43aec29acc1d4d625c63c0db1662c210fda8116f736",
+      "snapshot_sha256": "16f0c0c5f5ea6c41ac02a43aec29acc1d4d625c63c0db1662c210fda8116f736"
+    },
+    {
+      "path": "tests/rate-limit.test.ts",
+      "bytes": 772,
+      "source_sha256": "4fff83e8228a2e9080476388f465ff44415a0de0846e27821d987f015f422482",
+      "snapshot_sha256": "4fff83e8228a2e9080476388f465ff44415a0de0846e27821d987f015f422482"
+    },
+    {
+      "path": "tests/tokens.test.ts",
+      "bytes": 822,
+      "source_sha256": "30f0a0f1b1ba6f8fd7d0a348b0ed3d31a5b15f326d8386c3deec6e2d9b11ab0a",
+      "snapshot_sha256": "30f0a0f1b1ba6f8fd7d0a348b0ed3d31a5b15f326d8386c3deec6e2d9b11ab0a"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 834,
+      "source_sha256": "c6a06127f17a8a37cd11a184e001fe69999d36979b340e2b1fab664652378939",
+      "snapshot_sha256": "c6a06127f17a8a37cd11a184e001fe69999d36979b340e2b1fab664652378939"
+    },
+    {
+      "path": "vercel.json",
+      "bytes": 31,
+      "source_sha256": "6dea6030203783ab412044e90b2a2c2c590ad84649a67922463d8cfbd950e95a",
+      "snapshot_sha256": "6dea6030203783ab412044e90b2a2c2c590ad84649a67922463d8cfbd950e95a"
+    },
+    {
+      "path": "vitest.config.ts",
+      "bytes": 280,
+      "source_sha256": "fa1139345579ab5dd1b8c515bfa582839e27a37a04ae7019d803bb3ad7132fda",
+      "snapshot_sha256": "fa1139345579ab5dd1b8c515bfa582839e27a37a04ae7019d803bb3ad7132fda"
+    }
+  ]
+}

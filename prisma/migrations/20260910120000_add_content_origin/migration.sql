@@ -1,0 +1,4 @@
+CREATE TYPE "ContentOrigin" AS ENUM ('OFICIAL', 'PROPIO');
+
+ALTER TABLE "Subject"
+ADD COLUMN "origin" "ContentOrigin" NOT NULL DEFAULT 'OFICIAL';
